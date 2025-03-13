@@ -16895,6 +16895,21 @@
             "status": "active",
             "symbol": "zyn",
             "type": "ERC20"
+        },
+        {
+            "address": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+            "asset_id": "cm8743os5000208joatxidwuw",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+            "externalId": "ripple-usd",
+            "logoUri": "assets/cm8743os5000208joatxidwuw/logo.png",
+            "name": "Ripple USD",
+            "status": "active",
+            "symbol": "rlusd",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
