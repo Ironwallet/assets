@@ -4095,7 +4095,7 @@
             "explorer": "https://etherscan.io/token/0xfb19075d77a0f111796fb259819830f4780f1429",
             "externalId": "fenerbahce-token",
             "logoUri": "assets/clh9g2u09012fb0g4bsrbocpq/logo.png",
-            "name": "Fenerbah\u00e7e",
+            "name": "Fenerbahçe",
             "status": "active",
             "symbol": "fb",
             "type": "ERC20"
@@ -9615,7 +9615,7 @@
             "explorer": "https://etherscan.io/token/0x8c688327c9371bb3bd69f6e1f1a6d8c9ca0880a7",
             "externalId": "dada-2",
             "logoUri": "assets/clswxoars00xx8cuhtpa7hvab/logo.png",
-            "name": "\u9f98\u9f98 D\u00e1D\u00e1",
+            "name": "龘龘 DáDá",
             "status": "active",
             "symbol": "dada",
             "type": "ERC20"
@@ -11718,7 +11718,7 @@
             "logoUri": "assets/clswxoatn02um8cuhdmynbd85/logo.png",
             "name": "Real Smurf Cat",
             "status": "active",
-            "symbol": "\u0448\u0430\u0439\u043b\u0443\u0448\u0430\u0439",
+            "symbol": "шайлушай",
             "type": "ERC20"
         },
         {
@@ -13366,7 +13366,7 @@
             "explorer": "https://etherscan.io/token/0x1903be033d3e436dd79a8cf9030675bcf97ab589",
             "externalId": "besiktas",
             "logoUri": "assets/cm2pciyfm00fwuwosw7wtkztu/logo.png",
-            "name": "Be\u015fikta\u015f",
+            "name": "Beşiktaş",
             "status": "active",
             "symbol": "bjk",
             "type": "ERC20"
@@ -16894,6 +16894,21 @@
             "name": "ZynCoin",
             "status": "active",
             "symbol": "zyn",
+            "type": "ERC20"
+        },
+        {
+            "address": "0xac6708e83698d34cd5c09d48249b0239008d0ccf",
+            "asset_id": "cm88kwpkm0000z4fm0o30awtc",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0xAC6708e83698d34CD5c09d48249B0239008d0cCf",
+            "externalId": "fort-knox",
+            "logoUri": "assets/cm88kwpkm0000z4fm0o30awtc/logo.png",
+            "name": "Fort Knox",
+            "status": "active",
+            "symbol": "fortknox",
             "type": "ERC20"
         }
     ],
