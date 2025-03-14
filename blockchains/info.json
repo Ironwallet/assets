@@ -15,7 +15,7 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-14T12:26:01.781+00:00Z",
+            "timestamp": "2025-03-14T12:26:01.370Z",
             "version": {
                 "major": 0,
                 "minor": 3,
@@ -202,7 +202,7 @@
             "blockchain": "optimism",
             "chainId": 11155420,
             "list": "assets.testnet.json",
-            "timestamp": "2024-08-23T00:00:00+00:00",
+            "timestamp": "2024-08-23T00:00:00.767Z",
             "version": {
                 "major": 0,
                 "minor": 1,
@@ -213,7 +213,7 @@
             "blockchain": "optimism",
             "chainId": 10,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-08-23T00:00:00+00:00",
+            "timestamp": "2024-08-23T00:00:00.767Z",
             "version": {
                 "major": 0,
                 "minor": 1,
