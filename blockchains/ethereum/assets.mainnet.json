@@ -16925,6 +16925,21 @@
             "status": "active",
             "symbol": "lvva",
             "type": "ERC20"
+        },
+        {
+            "address": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+            "asset_id": "cm88r4jr8000301mto31vmatd",
+            "chainId": 1,
+            "decimals": null,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://platform.arkhamintelligence.com/explorer/token/ripple-usd",
+            "externalId": "ripple-usd",
+            "logoUri": "assets/cm88r4jr8000301mto31vmatd/logo.png",
+            "name": "Ripple USD",
+            "status": "active",
+            "symbol": "rlusd",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
