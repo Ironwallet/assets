@@ -16910,6 +16910,21 @@
             "status": "active",
             "symbol": "fortknox",
             "type": "ERC20"
+        },
+        {
+            "address": "0x6243558a24cc6116abe751f27e6d7ede50abfc76",
+            "asset_id": "cm88ns47i000201mtrj03lvju",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x6243558a24cc6116abe751f27e6d7ede50abfc76",
+            "externalId": "levva-protocol",
+            "logoUri": "assets/cm88ns47i000201mtrj03lvju/logo.png",
+            "name": "Levva Protocol",
+            "status": "active",
+            "symbol": "lvva",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
