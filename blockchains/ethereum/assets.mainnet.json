@@ -16910,6 +16910,21 @@
             "status": "active",
             "symbol": "fortknox",
             "type": "ERC20"
+        },
+        {
+            "address": "0x4604151d4c98d1eea200b0d6bffb79a2613182aa",
+            "asset_id": "cm88kv5rf0000j8fmj7ip51qt",
+            "chainId": 1,
+            "decimals": 9,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x4604151d4c98d1eea200b0d6bffb79a2613182aa",
+            "externalId": "uno",
+            "logoUri": "assets/cm88kv5rf0000j8fmj7ip51qt/logo.png",
+            "name": "Uno",
+            "status": "active",
+            "symbol": "uno",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
