@@ -16940,6 +16940,21 @@
             "status": "active",
             "symbol": "rlusd",
             "type": "ERC20"
+        },
+        {
+            "address": "0x6e7f11641c1ec71591828e531334192d622703f7",
+            "asset_id": "cm8ecb8a2000201pbu5zzouyh",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x6E7F11641c1EC71591828E531334192d622703F7",
+            "externalId": "space-nation-oikos",
+            "logoUri": "assets/cm8ecb8a2000201pbu5zzouyh/logo.png",
+            "name": "Space Nation Oikos",
+            "status": "active",
+            "symbol": "oik",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",

@@ -2347,7 +2347,7 @@
             "explorer": "https://polygonscan.com/token/0x8c069b6cef3453babb15fa97784affeb95d398fa",
             "externalId": "pmxx",
             "logoUri": "assets/clswxohay07i98cuh5m0huigh/logo.png",
-            "name": "People\u2019s Money PMXX",
+            "name": "People’s Money PMXX",
             "status": "active",
             "symbol": "pmxx",
             "type": "Polygon"
@@ -3430,6 +3430,21 @@
             "name": "Wrapped BTC (Wormhole)",
             "status": "active",
             "symbol": "wbtc",
+            "type": "Polygon"
+        },
+        {
+            "address": "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511",
+            "asset_id": "cm8ec994h000101pbzzzeeguh",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://polygonscan.com/token/0xcdDbd374A9dF30BbBE4Bc4c008fA229CB3587511",
+            "externalId": "deutsche-mark",
+            "logoUri": "assets/cm8ec994h000101pbzzzeeguh/logo.png",
+            "name": "Deutsche Mark",
+            "status": "active",
+            "symbol": "ddm",
             "type": "Polygon"
         }
     ],
