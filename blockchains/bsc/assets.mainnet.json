@@ -8861,6 +8861,21 @@
             "status": "active",
             "symbol": "AVAX",
             "type": "BEP20"
+        },
+        {
+            "address": "0x5c85d6c6825ab4032337f11ee92a72df936b46f6",
+            "asset_id": "cm8e983ho000001lh8hfmy79e",
+            "chainId": 56,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://bscscan.com/token/0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+            "externalId": "mubarak",
+            "logoUri": "assets/cm8e983ho000001lh8hfmy79e/logo.png",
+            "name": "Mubarak",
+            "status": "active",
+            "symbol": "mubarak",
+            "type": "BEP20"
         }
     ],
     "logoUri": "",
