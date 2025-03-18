@@ -125,11 +125,11 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-09-30T18:31:38.564Z",
+            "timestamp": "2025-03-18T10:16:24.524+00:00Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 1
+                "patch": 2
             }
         },
         {
