@@ -15,7 +15,7 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-18T10:17:55.999+00:00Z",
+            "timestamp": "2025-03-18T10:17:55.999Z",
             "version": {
                 "major": 0,
                 "minor": 4,
@@ -59,7 +59,7 @@
             "blockchain": "bsc",
             "chainId": 56,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-18T09:03:40.381+00:00Z",
+            "timestamp": "2025-03-18T09:03:40.381Z",
             "version": {
                 "major": 0,
                 "minor": 2,
@@ -125,7 +125,7 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-18T10:16:24.524+00:00Z",
+            "timestamp": "2025-03-18T10:16:24.524Z",
             "version": {
                 "major": 0,
                 "minor": 2,
@@ -147,7 +147,7 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-18T09:33:35.130+00:00Z",
+            "timestamp": "2025-03-18T09:33:35.130Z",
             "version": {
                 "major": 0,
                 "minor": 2,
