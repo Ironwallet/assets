@@ -16970,6 +16970,21 @@
             "status": "active",
             "symbol": "gluteu",
             "type": "ERC20"
+        },
+        {
+            "address": "0xa059b81568fee88791de88232e838465826cf419",
+            "asset_id": "cm8gzv7kj000201obkbkichgc",
+            "chainId": 1,
+            "decimals": 9,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0xa059b81568fee88791de88232e838465826cf419",
+            "externalId": "three",
+            "logoUri": "assets/cm8gzv7kj000201obkbkichgc/logo.png",
+            "name": "THREE",
+            "status": "active",
+            "symbol": "$three",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
