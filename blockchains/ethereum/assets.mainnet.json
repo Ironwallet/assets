@@ -16955,6 +16955,21 @@
             "status": "active",
             "symbol": "oik",
             "type": "ERC20"
+        },
+        {
+            "address": "0x7a78c790250fef60ce7e8ef85557d67cc4216a52",
+            "asset_id": "cm8gzmoh7000001obb2c8s52q",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://basescan.org/token/0x06a63c498ef95ad1fa4fff841955e512b4b2198a",
+            "externalId": "gluteus-maximus-by-virtuals",
+            "logoUri": "assets/cm8gzmoh7000001obb2c8s52q/logo.png",
+            "name": "Gluteus Maximus by Virtuals",
+            "status": "active",
+            "symbol": "gluteu",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
