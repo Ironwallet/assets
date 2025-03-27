@@ -8876,6 +8876,21 @@
             "status": "active",
             "symbol": "mubarak",
             "type": "BEP20"
+        },
+        {
+            "address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+            "asset_id": "cm8rdaeac000101obru9ie3he",
+            "chainId": 56,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://bscscan.com/token/0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+            "externalId": "usd1-wlfi",
+            "logoUri": "assets/cm8rdaeac000101obru9ie3he/logo.png",
+            "name": "USD1",
+            "status": "active",
+            "symbol": "usd1",
+            "type": "BEP20"
         }
     ],
     "logoUri": "",
