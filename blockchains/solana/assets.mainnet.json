@@ -4736,6 +4736,21 @@
             "status": "active",
             "symbol": "gluteu",
             "type": "Solana"
+        },
+        {
+            "address": "ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm",
+            "asset_id": "cmazfxnjb000001o6oecbeoib",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm",
+            "externalId": "dogwifcoin",
+            "logoUri": "assets/cmazfxnjb000001o6oecbeoib/logo.png",
+            "name": "dogwifhat",
+            "status": "active",
+            "symbol": "wif",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
