@@ -45,6 +45,21 @@
       "default": true,
       "displayDecimals": 4,
       "explorer": "https://explorer.solana.com/address/83KJsjkaLU6C86MAjrGwSe9a3XophvvyXvZxkrZNc5VM?cluster=testnet"
+    },
+    {
+      "chainId": 5,
+      "asset_id": "clgp36cc000bhl8uzdnr4q8t6",
+      "externalId": "iwUSD1",
+      "type": "Solana",
+      "address": "37tCRB5C3k2o3Qthey6ZUCJG3pBX4UAgSRcWuVh4aNQR",
+      "name": "iwUSD1",
+      "symbol": "iwUSD1",
+      "decimals": 9,
+      "logoUri": "assets/clgp36cc000bhl8uzdnr4q8t6/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4,
+      "explorer": "https://explorer.solana.com/address/37tCRB5C3k2o3Qthey6ZUCJG3pBX4UAgSRcWuVh4aNQR?cluster=devnet"
     }
   ],
   "version": {
