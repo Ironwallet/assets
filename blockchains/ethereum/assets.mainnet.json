@@ -17000,6 +17000,21 @@
             "status": "active",
             "symbol": "a7a5",
             "type": "ERC20"
+        },
+        {
+            "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+            "asset_id": "cmcizku53000401o6le22jd72",
+            "chainId": 1,
+            "decimals": 5,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "externalId": "bonk",
+            "logoUri": "assets/cmcizku53000401o6le22jd72/logo.png",
+            "name": "Bonk",
+            "status": "active",
+            "symbol": "bonk",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
