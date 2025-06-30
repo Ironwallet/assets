@@ -16985,6 +16985,36 @@
             "status": "active",
             "symbol": "$three",
             "type": "ERC20"
+        },
+        {
+            "address": "0x6fa0be17e4bea2fcfa22ef89bf8ac9aab0ab0fc9",
+            "asset_id": "cmciwg0qb000001o6vws5x9ci",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x6fA0BE17e4beA2fCfA22ef89BF8ac9aab0AB0fc9",
+            "externalId": "a7a5",
+            "logoUri": "assets/cmciwg0qb000001o6vws5x9ci/logo.png",
+            "name": "A7A5",
+            "status": "active",
+            "symbol": "a7a5",
+            "type": "ERC20"
+        },
+        {
+            "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+            "asset_id": "cmcizku53000401o6le22jd72",
+            "chainId": 1,
+            "decimals": 5,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "externalId": "bonk",
+            "logoUri": "assets/cmcizku53000401o6le22jd72/logo.png",
+            "name": "Bonk",
+            "status": "active",
+            "symbol": "bonk",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",

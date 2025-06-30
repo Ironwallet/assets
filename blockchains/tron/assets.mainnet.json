@@ -446,6 +446,21 @@
             "status": "active",
             "symbol": "zedxion",
             "type": "TRC20"
+        },
+        {
+            "address": "tlevfrdym8rojrej23dagyfjdygrtiwkbz",
+            "asset_id": "cmciwhnst000101o6owg5fv6t",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x6fA0BE17e4beA2fCfA22ef89BF8ac9aab0AB0fc9",
+            "externalId": "a7a5",
+            "logoUri": "assets/cmciwhnst000101o6owg5fv6t/logo.png",
+            "name": "A7A5",
+            "status": "active",
+            "symbol": "a7a5",
+            "type": "TRC20"
         }
     ],
     "logoUri": "",

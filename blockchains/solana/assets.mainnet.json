@@ -4751,6 +4751,36 @@
             "status": "active",
             "symbol": "wif",
             "type": "Solana"
+        },
+        {
+            "address": "dezxaz8z7pnrnrjjz3wxborgixca6xjnb7yab1ppb263",
+            "asset_id": "cmcix516r000201o6f14sz9rl",
+            "chainId": 1,
+            "decimals": 5,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "externalId": "bonk",
+            "logoUri": "assets/cmcix516r000201o6f14sz9rl/logo.png",
+            "name": "Bonk",
+            "status": "active",
+            "symbol": "bonk",
+            "type": "Solana"
+        },
+        {
+            "address": "rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof",
+            "asset_id": "cmcix8931000301o6fbktd1xc",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof",
+            "externalId": "render-token",
+            "logoUri": "assets/cmcix8931000301o6fbktd1xc/logo.png",
+            "name": "Render",
+            "status": "active",
+            "symbol": "render",
+            "type": "Solana"
         }
     ],
     "logoUri": "",

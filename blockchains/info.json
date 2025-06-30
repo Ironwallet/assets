@@ -15,11 +15,11 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-20T06:52:51.611Z",
+            "timestamp": "2025-06-30T10:59:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 4,
-                "patch": 3
+                "patch": 5
             }
         },
         {
@@ -81,11 +81,11 @@
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-02-22T08:00:36.370Z",
+            "timestamp": "2025-06-30T09:32:41.700Z",
             "version": {
                 "major": 0,
-                "minor": 1,
-                "patch": 9
+                "minor": 2,
+                "patch": 0
             }
         },
         {
@@ -147,11 +147,11 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-05-22T14:01:55.738Z",
+            "timestamp": "2025-06-30T09:53:23.107Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 6
+                "patch": 8
             }
         },
         {
