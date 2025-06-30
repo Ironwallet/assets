@@ -81,11 +81,11 @@
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-02-22T08:00:36.370Z",
+            "timestamp": "2025-06-30T09:32:41.700Z",
             "version": {
                 "major": 0,
-                "minor": 1,
-                "patch": 9
+                "minor": 2,
+                "patch": 0
             }
         },
         {
