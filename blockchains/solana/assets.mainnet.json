@@ -4766,6 +4766,21 @@
             "status": "active",
             "symbol": "render",
             "type": "Solana"
+        },
+        {
+            "address": "2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh",
+            "asset_id": "cmckfkclz000801o6pt1k4shc",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+            "externalId": "global-dollar",
+            "logoUri": "assets/cmckfkclz000801o6pt1k4shc/logo.png",
+            "name": "Global Dollar",
+            "status": "active",
+            "symbol": "usdg",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
