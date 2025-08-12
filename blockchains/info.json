@@ -112,13 +112,13 @@
         },
         {
             "blockchain": "polygon",
-            "chainId": 80001,
+            "chainId": 80002,
             "list": "assets.testnet.json",
             "timestamp": "2023-07-31T15:36:28Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 5
+                "patch": 6
             }
         },
         {
