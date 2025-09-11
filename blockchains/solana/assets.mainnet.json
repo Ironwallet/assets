@@ -4708,7 +4708,7 @@
             "type": "Solana"
         },
         {
-            "address": "9gyfbpvwwzx4y1hotnslcqxcqnpnqqz6zrvo8ytlpump",
+            "address": "9gyfbPVwwZx4y1hotNSLcqXCQNpNqqz6ZRvo8yTLpump",
             "asset_id": "cm8eaq7mt000001jicgfjsofp",
             "chainId": 1,
             "decimals": 6,
@@ -4723,13 +4723,13 @@
             "type": "Solana"
         },
         {
-            "address": "mmykzc4tun2kfngxbd7wiapaogeax8bxfuhjxzjnkrv",
+            "address": "mMykZc4tun2kFNgxbd7WiApAoGEaX8bxFuHjxzjnkrV",
             "asset_id": "cm8gzn2gl000101obau4w8ucw",
             "chainId": 1,
             "decimals": 8,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://basescan.org/token/0x06a63c498ef95ad1fa4fff841955e512b4b2198a",
+            "explorer": "https://solscan.io/token/mMykZc4tun2kFNgxbd7WiApAoGEaX8bxFuHjxzjnkrV",
             "externalId": "gluteus-maximus-by-virtuals",
             "logoUri": "assets/cm8gzn2gl000101obau4w8ucw/logo.png",
             "name": "Gluteus Maximus by Virtuals",
@@ -4738,13 +4738,13 @@
             "type": "Solana"
         },
         {
-            "address": "ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm",
+            "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
             "asset_id": "cmazfxnjb000001o6oecbeoib",
             "chainId": 1,
             "decimals": 6,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://solscan.io/token/ekpqgsjtjmfqkz9kqansqyxrcf8fbopzlhyxdm65zcjm",
+            "explorer": "https://solscan.io/token/EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
             "externalId": "dogwifcoin",
             "logoUri": "assets/cmazfxnjb000001o6oecbeoib/logo.png",
             "name": "dogwifhat",
@@ -4753,13 +4753,13 @@
             "type": "Solana"
         },
         {
-            "address": "rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof",
+            "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
             "asset_id": "cmcix8931000301o6fbktd1xc",
             "chainId": 1,
             "decimals": 8,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://solscan.io/token/rndrizkt3mk1iimdxrdwabcf7zg7ar5t4nud4ekhbof",
+            "explorer": "https://solscan.io/token/rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
             "externalId": "render-token",
             "logoUri": "assets/cmcix8931000301o6fbktd1xc/logo.png",
             "name": "Render",
@@ -4768,13 +4768,13 @@
             "type": "Solana"
         },
         {
-            "address": "2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh",
+            "address": "2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
             "asset_id": "cmckfkclz000801o6pt1k4shc",
             "chainId": 1,
             "decimals": 6,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
+            "explorer": "https://solscan.io/token/2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH",
             "externalId": "global-dollar",
             "logoUri": "assets/cmckfkclz000801o6pt1k4shc/logo.png",
             "name": "Global Dollar",
