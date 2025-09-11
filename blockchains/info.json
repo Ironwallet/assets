@@ -147,7 +147,7 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-07-01T11:14:26.351Z",
+            "timestamp": "2025-09-11T11:14:26.351Z",
             "version": {
                 "major": 0,
                 "minor": 3,
@@ -213,11 +213,11 @@
             "blockchain": "optimism",
             "chainId": 10,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-08-23T00:00:00.767Z",
+            "timestamp": "2025-09-11T00:00:00.767Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 3
+                "patch": 4
             }
         }
     ]
