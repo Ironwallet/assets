@@ -219,6 +219,28 @@
                 "minor": 1,
                 "patch": 4
             }
+        },
+        {
+            "blockchain": "xrp",
+            "chainId": 14490001,
+            "list": "assets.testnet.json",
+            "timestamp": "2024-09-23T00:00:00.767Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
+        },
+        {
+            "blockchain": "xrp",
+            "chainId": 14400021,
+            "list": "assets.mainnet.json",
+            "timestamp": "2025-09-23T00:00:00.767Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }

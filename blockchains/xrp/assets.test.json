@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: XRP (Testnet)",
+  "logoUri": "",
+  "timestamp": "2025-09-23T15:38:12Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 14490001,
+      "asset_id": "cmfwfh0tu000204la5gh18gvo",
+      "externalId": "xrp",
+      "name": "XRP Test",
+      "symbol": "XRP",
+      "decimals": 6,
+      "logoUri": "dev_assets/cmfwfh0tu000204la5gh18gvo/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 4
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
