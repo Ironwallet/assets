@@ -7,7 +7,7 @@
     {
       "chainId": 14490001,
       "asset_id": "cmfwfh0tu000204la5gh18gvo",
-      "externalId": "xrp",
+      "externalId": "ripple",
       "name": "XRP Test",
       "symbol": "XRP",
       "decimals": 6,
