@@ -65,9 +65,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-            "externalId": "tether",
+            "externalId": "usdt0",
             "logoUri": "assets/clgmuz45n00033guzjnmgk4mu/logo.png",
-            "name": "(PoS) Tether USD",
+            "name": "USDT0",
             "status": "active",
             "symbol": "USDT0",
             "type": "Polygon"
