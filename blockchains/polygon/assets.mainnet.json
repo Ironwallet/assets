@@ -1,6 +1,21 @@
 {
     "assets": [
         {
+            "address": "0x0000000000000000000000000000000000001010",
+            "asset_id": "cm2pco6k607fbuwosuaiswv6l",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010",
+            "externalId": "polygon-ecosystem-token",
+            "logoUri": "assets/cm2pco6k607fbuwosuaiswv6l/logo.png",
+            "name": "POL (ex-MATIC)",
+            "status": "active",
+            "symbol": "pol",
+            "type": "Polygon"
+        },
+        {
             "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
             "asset_id": "clgmuz45l00003guzbza30isj",
             "chainId": 137,
@@ -3178,21 +3193,6 @@
             "name": "Pocket Network",
             "status": "active",
             "symbol": "pokt",
-            "type": "Polygon"
-        },
-        {
-            "address": "0x0000000000000000000000000000000000001010",
-            "asset_id": "cm2pco6k607fbuwosuaiswv6l",
-            "chainId": 137,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010",
-            "externalId": "polygon-ecosystem-token",
-            "logoUri": "assets/cm2pco6k607fbuwosuaiswv6l/logo.png",
-            "name": "POL (ex-MATIC)",
-            "status": "active",
-            "symbol": "pol",
             "type": "Polygon"
         },
         {
