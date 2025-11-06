@@ -23,10 +23,10 @@
             "explorer": "https://etherscan.io/token/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
             "externalId": "euro-coin",
             "logoUri": "assets/cli4bwsbv000108mjavzw795c/logo.png",
-            "name": "Euro Coin",
+            "name": "EURC",
             "sort_order": 101,
             "status": "active",
-            "symbol": "EUROC",
+            "symbol": "eurc",
             "type": "ERC20"
         },
         {
