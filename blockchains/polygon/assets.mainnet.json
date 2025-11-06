@@ -1,6 +1,18 @@
 {
     "assets": [
         {
+            "asset_id": "clesfo5660000q0g513ix1osj",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "matic-network",
+            "logoUri": "assets/clesfo5660000q0g513ix1osj/logo.png",
+            "name": "POL (Polygon)",
+            "status": "disabled",
+            "symbol": "POL"
+        },
+        {
             "address": "0x0000000000000000000000000000000000001010",
             "asset_id": "cm2pco6k607fbuwosuaiswv6l",
             "chainId": 137,
