@@ -6,10 +6,10 @@
             "decimals": 18,
             "default": false,
             "displayDecimals": 4,
-            "externalId": "matic-network",
+            "externalId": "polygon-ecosystem-token",
             "logoUri": "assets/clesfo5660000q0g513ix1osj/logo.png",
             "name": "POL (Polygon)",
-            "status": "disabled",
+            "status": "active",
             "symbol": "POL"
         },
         {
@@ -23,7 +23,7 @@
             "externalId": "polygon-ecosystem-token",
             "logoUri": "assets/cm2pco6k607fbuwosuaiswv6l/logo.png",
             "name": "POL (ex-MATIC)",
-            "status": "active",
+            "status": "disabled",
             "symbol": "pol",
             "type": "Polygon"
         },
