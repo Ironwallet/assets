@@ -1,29 +1,29 @@
 {
     "assets": [
         {
-            "asset_id": "clesfo5660000q0g513ix1osj",
+            "asset_id": "cm2pco6k607fbuwosuaiswv6l",
             "chainId": 137,
             "decimals": 18,
             "default": false,
             "displayDecimals": 4,
-            "externalId": "matic-network",
-            "logoUri": "assets/clesfo5660000q0g513ix1osj/logo.png",
+            "externalId": "polygon-ecosystem-token",
+            "logoUri": "assets/cm2pco6k607fbuwosuaiswv6l/logo.png",
             "name": "POL (Polygon)",
-            "status": "disabled",
+            "status": "active",
             "symbol": "POL"
         },
         {
             "address": "0x0000000000000000000000000000000000001010",
-            "asset_id": "cm2pco6k607fbuwosuaiswv6l",
+            "asset_id": "clesfo5660000q0g513ix1osj",
             "chainId": 137,
             "decimals": 18,
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010",
             "externalId": "polygon-ecosystem-token",
-            "logoUri": "assets/cm2pco6k607fbuwosuaiswv6l/logo.png",
+            "logoUri": "assets/clesfo5660000q0g513ix1osj/logo.png",
             "name": "POL (ex-MATIC)",
-            "status": "active",
+            "status": "disabled",
             "symbol": "pol",
             "type": "Polygon"
         },
