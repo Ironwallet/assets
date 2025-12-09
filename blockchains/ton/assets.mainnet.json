@@ -4,7 +4,7 @@
             "asset_id": "cm20b6qz30039ttosktdki5d1",
             "chainId": 1,
             "decimals": 9,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "externalId": "the-open-network",
             "logoUri": "assets/cm20b6qz30039ttosktdki5d1/logo.png",
