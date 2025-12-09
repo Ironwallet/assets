@@ -17,7 +17,7 @@
             "asset_id": "clesfo5660000q0g513ix1osj",
             "chainId": 137,
             "decimals": 18,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010",
             "externalId": "polygon-ecosystem-token",
