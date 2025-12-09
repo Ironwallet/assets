@@ -13,7 +13,7 @@
       "decimals": 6,
       "logoUri": "assets/cmfwfggja000104lacgpm481w/logo.png",
       "status": "active",
-      "default": false,
+      "default": true,
       "displayDecimals": 4
     }
   ],
