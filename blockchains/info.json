@@ -125,11 +125,11 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-12-09T10:11:08.887Z",
+            "timestamp": "2025-12-09T14:01:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 7
+                "patch": 8
             }
         },
         {
@@ -147,11 +147,11 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-12-09T10:11:08.887Z",
+            "timestamp": "2025-12-09T14:01:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 3,
-                "patch": 2
+                "patch": 4
             }
         },
         {
