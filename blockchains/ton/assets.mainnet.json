@@ -197,7 +197,7 @@
             "asset_id": "cm20b6qz30036ttos6jeamas1",
             "chainId": 1,
             "decimals": 6,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://tonscan.org/address/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
             "externalId": "tether",
