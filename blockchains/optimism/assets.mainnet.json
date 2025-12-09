@@ -17,7 +17,7 @@
             "asset_id": "cm1e583hq00440hp9e9t1dkd4",
             "chainId": 10,
             "decimals": 18,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042",
             "externalId": "optimism",

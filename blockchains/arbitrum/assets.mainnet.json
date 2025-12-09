@@ -137,7 +137,7 @@
             "asset_id": "clxd13ksq001pgbosau76i7ec",
             "chainId": 42161,
             "decimals": 18,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x912ce59144191c1204e64559fe8253a0e49e6548",
             "externalId": "arbitrum",

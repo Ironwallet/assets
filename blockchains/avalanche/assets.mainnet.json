@@ -4,7 +4,7 @@
             "asset_id": "cldepwip10000okg5ekh8cnt2",
             "chainId": 43114,
             "decimals": 18,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "externalId": "avalanche-2",
             "logoUri": "assets/cldepwip10000okg5ekh8cnt2/logo.png",

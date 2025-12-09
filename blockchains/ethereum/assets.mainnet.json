@@ -50,7 +50,7 @@
             "asset_id": "cl71yr4zg000wm4g5hpaxfyb3",
             "chainId": 1,
             "decimals": 6,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "externalId": "usd-coin",

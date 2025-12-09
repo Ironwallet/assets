@@ -15,11 +15,11 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-11-06T10:11:08.887Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 4,
-                "patch": 6
+                "patch": 7
             }
         },
         {
@@ -59,11 +59,11 @@
             "blockchain": "bsc",
             "chainId": 56,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-27T13:06:17.266Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 1
+                "patch": 2
             }
         },
         {
@@ -81,11 +81,11 @@
             "blockchain": "tron",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-06-30T09:32:41.700Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 0
+                "patch": 1
             }
         },
         {
@@ -103,11 +103,11 @@
             "blockchain": "avalanche",
             "chainId": 43114,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-02-22T08:00:37.274Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 7
+                "patch": 8
             }
         },
         {
@@ -125,11 +125,11 @@
             "blockchain": "polygon",
             "chainId": 137,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-11-07T14:45:24.524Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 6
+                "patch": 7
             }
         },
         {
@@ -146,12 +146,12 @@
         {
             "blockchain": "solana",
             "chainId": 1,
-            "list": "assets.mainnet.json",
+            "list": "2025-12-09T10:11:08.887Z",
             "timestamp": "2025-09-11T11:14:26.351Z",
             "version": {
                 "major": 0,
                 "minor": 3,
-                "patch": 0
+                "patch": 1
             }
         },
         {
@@ -169,11 +169,11 @@
             "blockchain": "arbitrum",
             "chainId": 42161,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-06-13T09:03:13.967Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 6
+                "patch": 7
             }
         },
         {
@@ -191,11 +191,11 @@
             "blockchain": "ton",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2024-02-22T08:00:39.767Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 5
+                "patch": 6
             }
         },
         {
@@ -213,11 +213,11 @@
             "blockchain": "optimism",
             "chainId": 10,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-09-11T00:00:00.767Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 4
+                "patch": 5
             }
         },
         {
@@ -235,11 +235,11 @@
             "blockchain": "xrp",
             "chainId": 14400021,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-09-23T00:00:00.767Z",
+            "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 1
+                "patch": 2
             }
         }
     ]
