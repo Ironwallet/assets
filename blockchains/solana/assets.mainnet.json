@@ -332,7 +332,7 @@
             "asset_id": "clgp393by00c1l8uznz8cgqa0",
             "chainId": 1,
             "decimals": 6,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "explorer": "https://explorer.solana.com/address/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "externalId": "usd-coin",
