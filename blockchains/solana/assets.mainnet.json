@@ -4,7 +4,7 @@
             "asset_id": "clesftgfa0002q0g5gzyeblz6",
             "chainId": 1,
             "decimals": 9,
-            "default": false,
+            "default": true,
             "displayDecimals": 4,
             "externalId": "solana",
             "logoUri": "assets/clesftgfa0002q0g5gzyeblz6/logo.png",
