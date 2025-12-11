@@ -147,11 +147,11 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-12-09T14:01:08.887Z",
+            "timestamp": "2025-12-10T14:09:08.887Z",
             "version": {
                 "major": 0,
                 "minor": 3,
-                "patch": 4
+                "patch": 5
             }
         },
         {
