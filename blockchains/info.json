@@ -15,11 +15,11 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-18T10:17:55.999Z",
+            "timestamp": "2026-01-12T13:01:50.653Z",
             "version": {
                 "major": 0,
                 "minor": 4,
-                "patch": 1
+                "patch": 2
             }
         },
         {

@@ -16955,6 +16955,21 @@
             "status": "active",
             "symbol": "oik",
             "type": "ERC20"
+        },
+        {
+            "address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+            "asset_id": "cmkb69lag00005sfm4lfkqywk",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+            "externalId": "x-2",
+            "logoUri": "assets/cmkb69lag00005sfm4lfkqywk/logo.png",
+            "name": "X",
+            "status": "active",
+            "symbol": "x",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
