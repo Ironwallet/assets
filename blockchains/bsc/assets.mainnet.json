@@ -8899,7 +8899,7 @@
             "decimals": 6,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://solscan.io/token/HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+            "explorer": "https://bscscan.com/token/0x92516e0DDf1dDBF7FAB1b79CaC26689fDC5ba8e6",
             "externalId": "huma-finance",
             "logoUri": "assets/cmkfkx4h90000wkfmg79002x8/logo.png",
             "name": "Huma Finance",
@@ -8917,4 +8917,5 @@
         "minor": 2,
         "patch": 0
     }
+
 }
