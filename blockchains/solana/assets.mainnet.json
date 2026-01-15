@@ -4721,6 +4721,21 @@
             "status": "active",
             "symbol": "yzy",
             "type": "Solana"
+        },
+        {
+            "address": "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+            "asset_id": "cmkfj80fo0000pcfmkzmyf63g",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+            "externalId": "huma-finance",
+            "logoUri": "assets/cmkfj80fo0000pcfmkzmyf63g/logo.png",
+            "name": "Huma Finance",
+            "status": "active",
+            "symbol": "huma",
+            "type": "Solana"
         }
     ],
     "logoUri": "",
