@@ -4774,7 +4774,7 @@
             "decimals": 6,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://solscan.io/token/HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+            "explorer": "https://explorer.solana.com/address/HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
             "externalId": "huma-finance",
             "logoUri": "assets/cmkfkysrt0000ncfmafgxs12l/logo.png",
             "name": "Huma Finance",
@@ -4792,4 +4792,5 @@
         "minor": 2,
         "patch": 4
     }
+
 }
