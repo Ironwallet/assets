@@ -8876,6 +8876,21 @@
             "status": "active",
             "symbol": "mubarak",
             "type": "BEP20"
+        },
+        {
+            "address": "0x92516e0DDf1dDBF7FAB1b79CaC26689fDC5ba8e6",
+            "asset_id": "cmkfkk4k30000a8fm9f6y7trt",
+            "chainId": 56,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://solscan.io/token/HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+            "externalId": "huma-finance",
+            "logoUri": "assets/cmkfkk4k30000a8fm9f6y7trt/logo.png",
+            "name": "Huma Finance",
+            "status": "active",
+            "symbol": "huma",
+            "type": "BEP20"
         }
     ],
     "logoUri": "",

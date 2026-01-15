@@ -59,11 +59,11 @@
             "blockchain": "bsc",
             "chainId": 56,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-03-18T09:03:40.381Z",
+            "timestamp": "2026-01-15T14:53:01.888Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 0
+                "patch": 1
             }
         },
         {
