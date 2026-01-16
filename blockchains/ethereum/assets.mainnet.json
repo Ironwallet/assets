@@ -17000,6 +17000,21 @@
             "status": "active",
             "symbol": "a7a5",
             "type": "ERC20"
+        },
+        {
+            "address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+            "asset_id": "cmkfkwb7w000028fml2mess6b",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
+            "externalId": "x-2",
+            "logoUri": "assets/cmkfkwb7w000028fml2mess6b/logo.png",
+            "name": "X",
+            "status": "active",
+            "symbol": "x",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",

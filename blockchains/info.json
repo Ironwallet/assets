@@ -15,11 +15,11 @@
             "blockchain": "ethereum",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-12-26T11:11:08.887Z",
+            "timestamp": "2026-01-15T15:02:29.885Z",
             "version": {
                 "major": 0,
                 "minor": 4,
-                "patch": 8
+                "patch": 9
             }
         },
         {
@@ -59,11 +59,11 @@
             "blockchain": "bsc",
             "chainId": 56,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-12-09T10:11:08.887Z",
+            "timestamp": "2026-01-15T15:03:07.780Z",
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 2
+                "patch": 3
             }
         },
         {
@@ -147,11 +147,11 @@
             "blockchain": "solana",
             "chainId": 1,
             "list": "assets.mainnet.json",
-            "timestamp": "2025-12-10T14:09:08.887Z",
+            "timestamp": "2026-01-15T15:04:25.924Z",
             "version": {
                 "major": 0,
                 "minor": 3,
-                "patch": 5
+                "patch": 6
             }
         },
         {

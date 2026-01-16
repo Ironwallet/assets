@@ -8891,6 +8891,21 @@
             "status": "active",
             "symbol": "usd1",
             "type": "BEP20"
+        },
+        {
+            "address": "0x92516e0DDf1dDBF7FAB1b79CaC26689fDC5ba8e6",
+            "asset_id": "cmkfkx4h90000wkfmg79002x8",
+            "chainId": 56,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://bscscan.com/token/0x92516e0DDf1dDBF7FAB1b79CaC26689fDC5ba8e6",
+            "externalId": "huma-finance",
+            "logoUri": "assets/cmkfkx4h90000wkfmg79002x8/logo.png",
+            "name": "Huma Finance",
+            "status": "active",
+            "symbol": "huma",
+            "type": "BEP20"
         }
     ],
     "logoUri": "",
@@ -8902,4 +8917,5 @@
         "minor": 2,
         "patch": 0
     }
+
 }
