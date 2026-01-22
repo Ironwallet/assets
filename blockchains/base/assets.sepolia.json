@@ -16,7 +16,7 @@
       "default": true,
       "displayDecimals": 6
     },
-	    {
+	{
       "chainId": 84532,
       "asset_id": "fef8e7fdd7a447388f153d7dc568eb9e",
       "externalId": "usd-coin",
