@@ -241,6 +241,17 @@
                 "minor": 0,
                 "patch": 2
             }
+        },
+        {
+            "blockchain": "base",
+            "chainId": 84532,
+            "list": "assets.sepolia.json",
+            "timestamp": "2026-01-22T13:11:08.887Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }
