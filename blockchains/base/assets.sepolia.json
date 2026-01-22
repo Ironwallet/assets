@@ -14,7 +14,7 @@
       "logoUri": "dev_assets/ad93f0e3c3c54c76ad1a70788a26938e/logo.png",
       "status": "active",
       "default": true,
-      "displayDecimals": 6,
+      "displayDecimals": 6
     },
 	    {
       "chainId": 84532,
