@@ -17015,6 +17015,21 @@
             "status": "active",
             "symbol": "x",
             "type": "ERC20"
+        },
+        {
+            "address": "0x07041776f5007aca2a54844f50503a18a72a8b68",
+            "asset_id": "cmkwnw3l30000kcfmdtdv4c2o",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/address/0x07041776f5007ACa2A54844F50503a18A72A8b68",
+            "externalId": "usa",
+            "logoUri": "assets/cmkwnw3l30000kcfmdtdv4c2o/logo.png",
+            "name": "USAT",
+            "status": "active",
+            "symbol": "usat",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
