@@ -8,9 +8,9 @@
       "default": true,
       "displayDecimals": 4,
       "explorer": null,
-      "externalId": "base",
+      "externalId": "ethereum",
       "logoUri": "assets/cmkxv8smw0000gkfms23z7jpp/logo.png",
-      "name": "Base",
+      "name": "Ethereum",
       "status": "active",
       "symbol": "ETH",
       "type": null
@@ -178,6 +178,21 @@
       "name": "Aave",
       "status": "active",
       "symbol": "aave",
+      "type": "ERC20"
+    },
+    {
+      "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+      "asset_id": "cmkxxof7j000038fmw4v5zx32",
+      "chainId": 8453,
+      "decimals": 6,
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://basescan.org/token/0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+      "externalId": "l2-standard-bridged-usdt-base",
+      "logoUri": "/assets/cmkxxof7j000038fmw4v5zx32/logo.png",
+      "name": "L2 Standard Bridged USDT (Base)",
+      "status": "active",
+      "symbol": "usdt",
       "type": "ERC20"
     }
   ],
