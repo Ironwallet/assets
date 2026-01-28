@@ -1,0 +1,40 @@
+{
+    "assets": [
+        {
+            "asset_id": "cmkxv8smw0000gkfms23z7jpp",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": true,
+            "displayDecimals": 4,
+            "externalId": "base",
+            "logoUri": "assets/cmkxv8smw0000gkfms23z7jpp/logo.png",
+            "name": "Base",
+            "status": "active",
+            "symbol": "base"
+        },
+        {
+            "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "asset_id": "cmkxujgim0000ukfmjb1rs91q",
+            "chainId": 8453,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://basescan.org/token/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "externalId": "usd-coin",
+            "logoUri": "assets/cmkxujgim0000ukfmjb1rs91q/logo.png",
+            "name": "USD Coin",
+            "status": "active",
+            "symbol": "USDC",
+            "type": "ERC20"
+        },
+    ],
+    "logoUri": "",
+    "name": "Iron Wallet: Base",
+    "status": "active",
+    "timestamp": "2024-10-25T23:11:09.042Z",
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+    }
+}

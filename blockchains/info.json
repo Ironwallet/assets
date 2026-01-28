@@ -252,6 +252,17 @@
                 "minor": 0,
                 "patch": 1
             }
+        },
+		{
+            "blockchain": "base",
+            "chainId": 8453,
+            "list": "assets.mainnet.json",
+            "timestamp": "2026-01-28T10:56:08.887Z",
+            "version": {
+                "major": 0,
+                "minor": 0,
+                "patch": 1
+            }
         }
     ]
 }
