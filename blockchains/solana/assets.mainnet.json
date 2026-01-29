@@ -4766,21 +4766,6 @@
             "status": "active",
             "symbol": "usdg",
             "type": "Solana"
-        },
-        {
-            "address": "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
-            "asset_id": "cmkfkysrt0000ncfmafgxs12l",
-            "chainId": 1,
-            "decimals": 6,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
-            "externalId": "huma-finance",
-            "logoUri": "assets/cmkfkysrt0000ncfmafgxs12l/logo.png",
-            "name": "Huma Finance",
-            "status": "active",
-            "symbol": "huma",
-            "type": "Solana"
         }
     ],
     "logoUri": "",
@@ -4792,5 +4777,4 @@
         "minor": 2,
         "patch": 4
     }
-
 }
