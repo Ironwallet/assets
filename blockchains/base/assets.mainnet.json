@@ -198,7 +198,7 @@
   ],
   "logoUri": "",
   "name": "Iron Wallet: Base",
-  "statu": null,
+  "status": "active",
   "timestamp": "2024-10-25T23:11:09.042Z",
   "version": {
     "major": 0,
