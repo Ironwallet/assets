@@ -10,7 +10,7 @@
       "explorer": null,
       "externalId": "ethereum",
       "logoUri": "assets/cmkxv8smw0000gkfms23z7jpp/logo.png",
-      "name": "Ethereum",
+      "name": "ETH (Base)",
       "status": "active",
       "symbol": "ETH",
       "type": null
@@ -28,7 +28,7 @@
       "name": "USD Coin",
       "status": "active",
       "symbol": "USDC",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82",
@@ -43,7 +43,7 @@
       "name": "Base Bridged SOL (Base)",
       "status": "active",
       "symbol": "sol",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
@@ -58,7 +58,7 @@
       "name": "Coinbase Wrapped BTC",
       "status": "active",
       "symbol": "cbbtc",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
@@ -73,7 +73,7 @@
       "name": "Ethena USDe",
       "status": "active",
       "symbol": "usde",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
@@ -88,7 +88,7 @@
       "name": "L2 Standard Bridged DAI (Base)",
       "status": "active",
       "symbol": "dai",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
@@ -103,7 +103,7 @@
       "name": "EURC",
       "status": "active",
       "symbol": "eurc",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
@@ -118,7 +118,7 @@
       "name": "USDS",
       "status": "active",
       "symbol": "usds",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
@@ -133,7 +133,7 @@
       "name": "Virtuals Protocol",
       "status": "active",
       "symbol": "virtual",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
@@ -148,7 +148,7 @@
       "name": "Rocket Pool ETH",
       "status": "active",
       "symbol": "reth",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
@@ -163,7 +163,7 @@
       "name": "Ethena",
       "status": "active",
       "symbol": "ena",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0x63706e401c06ac8513145b7687a14804d17f814b",
@@ -178,7 +178,7 @@
       "name": "Aave",
       "status": "active",
       "symbol": "aave",
-      "type": "ERC20"
+      "type": "Base"
     },
     {
       "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
@@ -193,7 +193,7 @@
       "name": "L2 Standard Bridged USDT (Base)",
       "status": "active",
       "symbol": "usdt",
-      "type": "ERC20"
+      "type": "Base"
     }
   ],
   "logoUri": "",
