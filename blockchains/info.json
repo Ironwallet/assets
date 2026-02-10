@@ -8,7 +8,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 4
+                "patch": 6
             }
         },
         {
@@ -18,8 +18,8 @@
             "timestamp": "2025-12-26T11:11:08.887Z",
             "version": {
                 "major": 0,
-                "minor": 4,
-                "patch": 9
+                "minor": 5,
+                "patch": 2
             }
         },
         {
@@ -30,7 +30,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 3
+                "patch": 7
             }
         },
         {
@@ -41,7 +41,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 5
+                "patch": 7
             }
         },
         {
@@ -52,7 +52,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 6
+                "patch": 8
             }
         },
         {
@@ -63,7 +63,7 @@
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 4
+                "patch": 6
             }
         },
         {
@@ -74,7 +74,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 2
+                "patch": 4
             }
         },
         {
@@ -85,7 +85,7 @@
             "version": {
                 "major": 0,
                 "minor": 2,
-                "patch": 2
+                "patch": 4
             }
         },
         {
@@ -96,7 +96,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 4
+                "patch": 6
             }
         },
         {
@@ -106,8 +106,8 @@
             "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
-                "minor": 1,
-                "patch": 9
+                "minor": 2,
+                "patch": 1
             }
         },
         {
@@ -118,7 +118,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 7
+                "patch": 9
             }
         },
         {
@@ -128,8 +128,8 @@
             "timestamp": "2025-12-09T14:01:08.887Z",
             "version": {
                 "major": 0,
-                "minor": 2,
-                "patch": 9
+                "minor": 3,
+                "patch": 0
             }
         },
         {
@@ -140,7 +140,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 0
+                "patch": 2
             }
         },
         {
@@ -151,7 +151,7 @@
             "version": {
                 "major": 0,
                 "minor": 3,
-                "patch": 7
+                "patch": 9
             }
         },
         {
@@ -162,7 +162,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 2
+                "patch": 4
             }
         },
         {
@@ -172,8 +172,8 @@
             "timestamp": "2025-12-09T10:11:08.887Z",
             "version": {
                 "major": 0,
-                "minor": 0,
-                "patch": 8
+                "minor": 1,
+                "patch": 0
             }
         },
         {
@@ -184,7 +184,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 2
+                "patch": 4
             }
         },
         {
@@ -195,7 +195,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 7
+                "patch": 9
             }
         },
         {
@@ -206,7 +206,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 1
+                "patch": 3
             }
         },
         {
@@ -217,7 +217,7 @@
             "version": {
                 "major": 0,
                 "minor": 1,
-                "patch": 7
+                "patch": 9
             }
         },
         {
@@ -228,7 +228,7 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 2
+                "patch": 4
             }
         },
         {
@@ -239,9 +239,31 @@
             "version": {
                 "major": 0,
                 "minor": 0,
-                "patch": 3
+                "patch": 5
             }
-        }
+        },
+		{
+			  "blockchain": "base",
+			  "chainId": 84532,
+			  "list": "assets.sepolia.json",
+			  "timestamp": "2026-02-06T09:46:08.887Z",
+			  "version": {
+				"major": 0,
+				"minor": 0,
+				"patch": 7
+			}
+		},
+		{
+			  "blockchain": "base",
+			  "chainId": 8453,
+			  "list": "assets.mainnet.json",
+			  "timestamp": "2026-02-06T09:46:07.865Z",
+			  "version": {
+				"major": 0,
+				"minor": 0,
+				"patch": 9
+			}
+		}
     ]
 }
 

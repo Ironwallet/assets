@@ -1,0 +1,100 @@
+{
+  "name": "Iron Wallet: Base (Sepolia)",
+  "logoUri": "",
+  "timestamp": "2025-09-23T15:38:12Z",
+  "status": "active",
+  "assets": [
+	{
+      "chainId": 84532,
+      "asset_id": "cml87osbw0000acfmga7c4bo5",
+      "externalId": "ethereum",
+      "name": "ETH (Base)",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoUri": "dev_assets/cml87osbw0000acfmga7c4bo5/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 6
+    },
+	{
+      "chainId": 84532,
+      "asset_id": "cml87pftr0000dofmtf2vsg27",
+      "externalId": "usd-coin",
+      "type": "Base",
+      "address": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoUri": "dev_assets/cml87pftr0000dofmtf2vsg27/logo.png",
+      "status": "active",
+      "default": false,
+      "displayDecimals": 2,
+      "explorer": "https://sepolia.basescan.org/token/0x036CbD53842c5426634e7929541eC2318f3dCF7e"
+    },
+    {
+      "chainId": 84532,
+      "asset_id": "cml87pyb80000eofm4q9sy1f9",
+      "externalId": "weth",
+      "type": "Base",
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoUri": "dev_assets/cml87pyb80000eofm4q9sy1f9/logo.png",
+      "status": "active",
+      "default": false,
+      "displayDecimals": 6,
+      "explorer": "https://sepolia.basescan.org/token/0x4200000000000000000000000000000000000006"
+    },
+    {
+      "chainId": 84532,
+      "asset_id": "cml87qaue0000fkfmo89p4bdc",
+      "externalId": "dai",
+      "type": "Base",
+      "address": "0x7683022d84F726a96c4A6611cD31DBf5409c0Ac9",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoUri": "dev_assets/cml87qaue0000fkfmo89p4bdc/logo.png",
+      "status": "active",
+      "default": false,
+      "displayDecimals": 2,
+      "explorer": "https://sepolia.basescan.org/token/0x7683022d84F726a96c4A6611cD31DBf5409c0Ac9"
+    },
+    {
+      "chainId": 84532,
+      "asset_id": "cml87qoz70000w8fm6dmgc1o2",
+      "externalId": "chainlink",
+      "type": "Base",
+      "address": "0xE4aB69C077896252FAFBD49EFD26B5D171A32410",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoUri": "dev_assets/cml87qoz70000w8fm6dmgc1o2/logo.png",
+      "status": "active",
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://sepolia.basescan.org/token/0xE4aB69C077896252FAFBD49EFD26B5D171A32410"
+    },
+    {
+      "chainId": 84532,
+      "asset_id": "cml87qzkw0000c8fm4vmai5i2",
+      "externalId": "uniswap",
+      "type": "Base",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoUri": "dev_assets/cml87qzkw0000c8fm4vmai5i2/logo.png",
+      "status": "active",
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://sepolia.basescan.org/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
