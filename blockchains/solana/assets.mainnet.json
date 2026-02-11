@@ -4788,7 +4788,7 @@
   ],
   "logoUri": "",
   "name": "Iron Wallet: Solana",
-  "statu": null,
+  "status": "active",
   "timestamp": "2025-01-21T23:15:30.610Z",
   "version": {
     "major": 0,
