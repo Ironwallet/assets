@@ -13,7 +13,7 @@
             "symbol": "ETH"
         },
         {
-            "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
             "asset_id": "cmkxujgim0000ukfmjb1rs91q",
             "chainId": 8453,
             "decimals": 6,
@@ -28,7 +28,7 @@
             "type": "Base"
         },
         {
-            "address": "0x311935cd80b76769bf2ecc9d8ab7635b2139cf82",
+            "address": "0x311935Cd80B76769bF2ecC9D8Ab7635b2139cf82",
             "asset_id": "cmkxvpvjb0000fcfmwptnct1d",
             "chainId": 8453,
             "decimals": 9,
@@ -43,7 +43,7 @@
             "type": "Base"
         },
         {
-            "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
             "asset_id": "cmkxvwdv0000058fmu19q9cg3",
             "chainId": 8453,
             "decimals": 8,
@@ -58,7 +58,7 @@
             "type": "Base"
         },
         {
-            "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+            "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
             "asset_id": "cmkxvwvnf00000ofm7yo752kt",
             "chainId": 8453,
             "decimals": 18,
@@ -88,7 +88,7 @@
             "type": "Base"
         },
         {
-            "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+            "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
             "asset_id": "cmkxvym540000pwfmbo20eyce",
             "chainId": 8453,
             "decimals": 6,
@@ -103,7 +103,7 @@
             "type": "Base"
         },
         {
-            "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
+            "address": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
             "asset_id": "cmkxvzfuk000000fmqoliqqcn",
             "chainId": 8453,
             "decimals": 18,
@@ -118,7 +118,7 @@
             "type": "Base"
         },
         {
-            "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+            "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
             "asset_id": "cmkxw10nx0000e0fmgkggml7c",
             "chainId": 8453,
             "decimals": 18,
@@ -133,7 +133,7 @@
             "type": "Base"
         },
         {
-            "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
+            "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
             "asset_id": "cmkxw2ah700003wfm822urewm",
             "chainId": 8453,
             "decimals": 18,
@@ -148,7 +148,7 @@
             "type": "Base"
         },
         {
-            "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+            "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
             "asset_id": "cmkxw2qwd0000d0fmvfhgfacl",
             "chainId": 8453,
             "decimals": 18,
@@ -163,7 +163,7 @@
             "type": "Base"
         },
         {
-            "address": "0x63706e401c06ac8513145b7687a14804d17f814b",
+            "address": "0x63706e401c06ac8513145b7687A14804d17f814b",
             "asset_id": "cmkxw49gn0000zsfmwobforuo",
             "chainId": 8453,
             "decimals": 18,
@@ -178,7 +178,7 @@
             "type": "Base"
         },
         {
-            "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+            "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
             "asset_id": "cmkxxof7j000038fmw4v5zx32",
             "chainId": 8453,
             "decimals": 6,
@@ -6691,10 +6691,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Base",
     "status": "active",
-    "timestamp": "2026-02-06T15:14:26.873Z",
+    "timestamp": "2026-02-18T12:20:06.640Z",
     "version": {
         "major": 0,
         "minor": 0,
-        "patch": 9
+        "patch": 10
     }
 }
