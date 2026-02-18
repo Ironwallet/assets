@@ -15,11 +15,11 @@
       "blockchain": "ethereum",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-02-11T07:03:13.826Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 5,
-        "patch": 4
+        "patch": 5
       }
     },
     {
@@ -37,7 +37,7 @@
       "blockchain": "bitcoin",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2024-03-12T15:38:12Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 1,
@@ -59,11 +59,11 @@
       "blockchain": "bsc",
       "chainId": 56,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-02-11T07:02:09.196Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 7
+        "patch": 8
       }
     },
     {
@@ -81,11 +81,11 @@
       "blockchain": "tron",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2025-12-09T10:11:08.887Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 4
+        "patch": 5
       }
     },
     {
@@ -103,11 +103,11 @@
       "blockchain": "avalanche",
       "chainId": 43114,
       "list": "assets.mainnet.json",
-      "timestamp": "2025-12-09T10:11:08.887Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 1
+        "patch": 2
       }
     },
     {
@@ -125,11 +125,11 @@
       "blockchain": "polygon",
       "chainId": 137,
       "list": "assets.mainnet.json",
-      "timestamp": "2025-12-09T14:01:08.887Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 3,
-        "patch": 0
+        "patch": 1
       }
     },
     {
@@ -147,11 +147,11 @@
       "blockchain": "solana",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-02-11T07:00:29.114Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 4,
-        "patch": 0
+        "patch": 1
       }
     },
     {
@@ -169,11 +169,11 @@
       "blockchain": "arbitrum",
       "chainId": 42161,
       "list": "assets.mainnet.json",
-      "timestamp": "2025-12-09T10:11:08.887Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 0
+        "patch": 1
       }
     },
     {
@@ -191,11 +191,11 @@
       "blockchain": "ton",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2025-12-09T10:11:08.887Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
-        "minor": 0,
-        "patch": 9
+        "minor": 1,
+        "patch": 0
       }
     },
     {
@@ -213,11 +213,11 @@
       "blockchain": "optimism",
       "chainId": 10,
       "list": "assets.mainnet.json",
-      "timestamp": "2025-12-09T10:11:08.887Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
-        "minor": 1,
-        "patch": 9
+        "minor": 2,
+        "patch": 0
       }
     },
     {
@@ -257,11 +257,11 @@
       "blockchain": "base",
       "chainId": 8453,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-02-06T09:46:07.865Z",
+      "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
-        "minor": 0,
-        "patch": 9
+        "minor": 1,
+        "patch": 0
       }
     }
   ]
