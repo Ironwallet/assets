@@ -39,7 +39,7 @@
             "logoUri": "assets/clgmuz45l00003guzbza30isj/logo.png",
             "name": "Wrapped POL",
             "status": "active",
-            "symbol": "WPOL",
+            "symbol": "wpol",
             "type": "Polygon"
         },
         {
@@ -50,11 +50,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-            "externalId": "usd-coin",
+            "externalId": "bridged-usdc-polygon-pos-bridge",
             "logoUri": "assets/clgmuz45m00013guzglqbxbsb/logo.png",
-            "name": "USD Coin (PoS)",
+            "name": "Polygon Bridged USDC (Polygon PoS)",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc.e",
             "type": "Polygon"
         },
         {
@@ -65,11 +65,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-            "externalId": "weth",
+            "externalId": "polygon-pos-bridged-weth-polygon-pos",
             "logoUri": "assets/clgmuz45m00023guzi3yvbsgu/logo.png",
-            "name": "Wrapped Ether",
+            "name": "Polygon PoS Bridged WETH (Polygon POS)",
             "status": "active",
-            "symbol": "WETH",
+            "symbol": "weth",
             "type": "Polygon"
         },
         {
@@ -84,7 +84,7 @@
             "logoUri": "assets/clgmuz45n00033guzjnmgk4mu/logo.png",
             "name": "USDT0",
             "status": "active",
-            "symbol": "USDT0",
+            "symbol": "usdt0",
             "type": "Polygon"
         },
         {
@@ -95,11 +95,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-            "externalId": "wrapped-bitcoin",
+            "externalId": "polygon-bridged-wbtc-polygon-pos",
             "logoUri": "assets/clgmuz45p00043guziox31tou/logo.png",
-            "name": "(PoS) Wrapped BTC",
+            "name": "Polygon Bridged WBTC (Polygon POS)",
             "status": "active",
-            "symbol": "WBTC",
+            "symbol": "wbtc",
             "type": "Polygon"
         },
         {
@@ -112,9 +112,9 @@
             "explorer": "https://polygonscan.com/token/0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
             "externalId": "lido-staked-matic",
             "logoUri": "assets/clgmuz45q00053guzscrdrpwq/logo.png",
-            "name": "Staked MATIC (PoS)",
+            "name": "Lido Staked Matic",
             "status": "active",
-            "symbol": "stMATIC",
+            "symbol": "stmatic",
             "type": "Polygon"
         },
         {
@@ -125,11 +125,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
-            "externalId": "dai",
+            "externalId": "polygon-pos-bridged-dai-polygon-pos",
             "logoUri": "assets/clgmuz45s00073guzru8lyust/logo.png",
-            "name": "(PoS) Dai Stablecoin",
+            "name": "Polygon PoS Bridged DAI (Polygon POS)",
             "status": "active",
-            "symbol": "DAI",
+            "symbol": "dai",
             "type": "Polygon"
         },
         {
@@ -144,7 +144,7 @@
             "logoUri": "assets/clgmuz45t00083guzt5ilo7y1/logo.png",
             "name": "BOB",
             "status": "active",
-            "symbol": "BOB",
+            "symbol": "bob",
             "type": "Polygon"
         },
         {
@@ -159,7 +159,7 @@
             "logoUri": "assets/clgmuz45v000b3guzxsy2i9xs/logo.png",
             "name": "Gains Network",
             "status": "active",
-            "symbol": "GNS",
+            "symbol": "gns",
             "type": "Polygon"
         },
         {
@@ -172,9 +172,9 @@
             "explorer": "https://polygonscan.com/token/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
             "externalId": "mimatic",
             "logoUri": "assets/clgmuz45w000c3guzm6l9zv3r/logo.png",
-            "name": "miMATIC",
+            "name": "MAI",
             "status": "active",
-            "symbol": "miMATIC",
+            "symbol": "mimatic",
             "type": "Polygon"
         },
         {
@@ -187,9 +187,9 @@
             "explorer": "https://polygonscan.com/token/0x172370d5Cd63279eFa6d502DAB29171933a610AF",
             "externalId": "curve-dao-token",
             "logoUri": "assets/clgmuz45w000d3guzmfbe5ben/logo.png",
-            "name": "CRV (PoS)",
+            "name": "Curve DAO",
             "status": "active",
-            "symbol": "CRV",
+            "symbol": "crv",
             "type": "Polygon"
         },
         {
@@ -202,9 +202,9 @@
             "explorer": "https://polygonscan.com/token/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
             "externalId": "voxies",
             "logoUri": "assets/clgmuz45z000e3guzy2zkqipq/logo.png",
-            "name": "VOXEL Token",
+            "name": "Voxies",
             "status": "active",
-            "symbol": "VOXEL",
+            "symbol": "voxel",
             "type": "Polygon"
         },
         {
@@ -217,9 +217,9 @@
             "explorer": "https://polygonscan.com/token/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
             "externalId": "chainlink",
             "logoUri": "assets/clgmuz45z000f3guzm8j9olpr/logo.png",
-            "name": "ChainLink Token",
+            "name": "Chainlink",
             "status": "active",
-            "symbol": "LINK",
+            "symbol": "link",
             "type": "Polygon"
         },
         {
@@ -232,9 +232,9 @@
             "explorer": "https://polygonscan.com/token/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
             "externalId": "the-sandbox",
             "logoUri": "assets/clgmuz460000g3guzr0ubgxom/logo.png",
-            "name": "SAND",
+            "name": "The Sandbox",
             "status": "active",
-            "symbol": "SAND",
+            "symbol": "sand",
             "type": "Polygon"
         },
         {
@@ -247,9 +247,9 @@
             "explorer": "https://polygonscan.com/token/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
             "externalId": "aavegotchi",
             "logoUri": "assets/clgmuz461000h3guz81tygpoo/logo.png",
-            "name": "Aavegotchi GHST Token (PoS)",
+            "name": "Aavegotchi",
             "status": "active",
-            "symbol": "GHST",
+            "symbol": "ghst",
             "type": "Polygon"
         },
         {
@@ -264,7 +264,7 @@
             "logoUri": "assets/clgmuz462000i3guzy4qi1uoi/logo.png",
             "name": "XSGD",
             "status": "active",
-            "symbol": "XSGD",
+            "symbol": "xsgd",
             "type": "Polygon"
         },
         {
@@ -277,9 +277,9 @@
             "explorer": "https://polygonscan.com/token/0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
             "externalId": "aave",
             "logoUri": "assets/clgmuz463000j3guz8cxpt4su/logo.png",
-            "name": "Aave (PoS)",
+            "name": "Aave",
             "status": "active",
-            "symbol": "AAVE",
+            "symbol": "aave",
             "type": "Polygon"
         },
         {
@@ -292,9 +292,9 @@
             "explorer": "https://polygonscan.com/token/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
             "externalId": "lido-dao",
             "logoUri": "assets/clgmuz464000k3guzc1m7gczq/logo.png",
-            "name": "Lido DAO Token (PoS)",
+            "name": "Lido DAO",
             "status": "active",
-            "symbol": "LDO",
+            "symbol": "ldo",
             "type": "Polygon"
         },
         {
@@ -307,9 +307,9 @@
             "explorer": "https://polygonscan.com/token/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
             "externalId": "stargate-finance",
             "logoUri": "assets/clgmuz464000l3guz5dhpbbqi/logo.png",
-            "name": "StargateToken",
+            "name": "Stargate Finance",
             "status": "active",
-            "symbol": "STG",
+            "symbol": "stg",
             "type": "Polygon"
         },
         {
@@ -322,9 +322,9 @@
             "explorer": "https://polygonscan.com/token/0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
             "externalId": "quick",
             "logoUri": "assets/clgmuz465000n3guz3d5a8mui/logo.png",
-            "name": "Quickswap",
+            "name": "Quickswap [OLD]",
             "status": "active",
-            "symbol": "QUICK",
+            "symbol": "quick",
             "type": "Polygon"
         },
         {
@@ -337,9 +337,9 @@
             "explorer": "https://polygonscan.com/token/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
             "externalId": "telcoin",
             "logoUri": "assets/clgmuz467000o3guzln3mulrs/logo.png",
-            "name": "Telcoin (PoS)",
+            "name": "Telcoin",
             "status": "active",
-            "symbol": "TEL",
+            "symbol": "tel",
             "type": "Polygon"
         },
         {
@@ -352,9 +352,9 @@
             "explorer": "https://polygonscan.com/token/0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
             "externalId": "ageur",
             "logoUri": "assets/clgmuz468000p3guzs5lcblhb/logo.png",
-            "name": "agEUR",
+            "name": "EURA",
             "status": "active",
-            "symbol": "agEUR",
+            "symbol": "eura",
             "type": "Polygon"
         },
         {
@@ -367,9 +367,9 @@
             "explorer": "https://polygonscan.com/token/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
             "externalId": "balancer",
             "logoUri": "assets/clgmuz469000r3guzo4m5no4u/logo.png",
-            "name": "Balancer (PoS)",
+            "name": "Balancer",
             "status": "active",
-            "symbol": "BAL",
+            "symbol": "bal",
             "type": "Polygon"
         },
         {
@@ -382,9 +382,9 @@
             "explorer": "https://polygonscan.com/token/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
             "externalId": "route",
             "logoUri": "assets/clgmuz46b000u3guzuxpoja3f/logo.png",
-            "name": "Route",
+            "name": "Router Protocol [OLD]",
             "status": "active",
-            "symbol": "ROUTE (PoS)",
+            "symbol": "route",
             "type": "Polygon"
         },
         {
@@ -397,9 +397,9 @@
             "explorer": "https://polygonscan.com/token/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
             "externalId": "gensokishis-metaverse",
             "logoUri": "assets/clgmuz46o001c3guzapivcjb7/logo.png",
-            "name": "Metaverse (PoS)",
+            "name": "GensoKishi Metaverse",
             "status": "active",
-            "symbol": "MV",
+            "symbol": "mv",
             "type": "Polygon"
         },
         {
@@ -412,9 +412,9 @@
             "explorer": "https://polygonscan.com/token/0x430EF9263E76DAE63c84292C3409D61c598E9682",
             "externalId": "vulcan-forged",
             "logoUri": "assets/clgmuz46t001i3guz23urzx0h/logo.png",
-            "name": "PYR Token",
+            "name": "Vulcan Forged",
             "status": "active",
-            "symbol": "PYR",
+            "symbol": "pyr",
             "type": "Polygon"
         },
         {
@@ -427,9 +427,9 @@
             "explorer": "https://polygonscan.com/token/0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
             "externalId": "stasis-eurs",
             "logoUri": "assets/clgmuz46w001l3guzpo4jjs52/logo.png",
-            "name": "STASIS EURS Token (PoS)",
+            "name": "STASIS EURO",
             "status": "active",
-            "symbol": "EURS",
+            "symbol": "eurs",
             "type": "Polygon"
         },
         {
@@ -457,9 +457,9 @@
             "explorer": "https://polygonscan.com/token/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
             "externalId": "frax",
             "logoUri": "assets/clgmuz46z001q3guz99h83dm9/logo.png",
-            "name": "Frax",
+            "name": "Legacy Frax Dollar",
             "status": "active",
-            "symbol": "FRAX",
+            "symbol": "frax",
             "type": "Polygon"
         },
         {
@@ -472,9 +472,9 @@
             "explorer": "https://polygonscan.com/token/0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
             "externalId": "uniswap",
             "logoUri": "assets/clgmuz470001r3guz9g984voh/logo.png",
-            "name": "Uniswap (PoS)",
+            "name": "Uniswap",
             "status": "active",
-            "symbol": "UNI",
+            "symbol": "uni",
             "type": "Polygon"
         },
         {
@@ -487,9 +487,9 @@
             "explorer": "https://polygonscan.com/token/0x5fe2B58c013d7601147DcdD68C143A77499f5531",
             "externalId": "the-graph",
             "logoUri": "assets/clgmuz473001x3guzzatyx461/logo.png",
-            "name": "Graph Token (PoS)",
+            "name": "The Graph",
             "status": "active",
-            "symbol": "GRT",
+            "symbol": "grt",
             "type": "Polygon"
         },
         {
@@ -502,9 +502,9 @@
             "explorer": "https://polygonscan.com/token/0x638Df98Ad8069a15569dA5a6b01181804c47e34c",
             "externalId": "dafi-protocol",
             "logoUri": "assets/clgmuz474001y3guz2pu19tok/logo.png",
-            "name": "DAFI Token (PoS)",
+            "name": "Dafi Protocol",
             "status": "active",
-            "symbol": "DAFI",
+            "symbol": "dafi",
             "type": "Polygon"
         },
         {
@@ -532,9 +532,9 @@
             "explorer": "https://polygonscan.com/token/0xbFc70507384047Aa74c29Cdc8c5Cb88D0f7213AC",
             "externalId": "alethea-artificial-liquid-intelligence-token",
             "logoUri": "assets/clgmuz47500213guz1ud3b26u/logo.png",
-            "name": "Artificial Liquid Intelligence Token",
+            "name": "Artificial Liquid Intelligence",
             "status": "active",
-            "symbol": "ALI",
+            "symbol": "ali",
             "type": "Polygon"
         },
         {
@@ -547,9 +547,9 @@
             "explorer": "https://polygonscan.com/token/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
             "externalId": "sushi",
             "logoUri": "assets/clgmuz47600223guz9q00wpwm/logo.png",
-            "name": "SushiToken (PoS)",
+            "name": "Sushi",
             "status": "active",
-            "symbol": "SUSHI",
+            "symbol": "sushi",
             "type": "Polygon"
         },
         {
@@ -562,9 +562,9 @@
             "explorer": "https://polygonscan.com/token/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
             "externalId": "mask-network",
             "logoUri": "assets/clgmuz47800253guzdnodsprt/logo.png",
-            "name": "Mask Network (PoS)",
+            "name": "Mask Network",
             "status": "active",
-            "symbol": "MASK",
+            "symbol": "mask",
             "type": "Polygon"
         },
         {
@@ -577,9 +577,9 @@
             "explorer": "https://polygonscan.com/token/0x311434160D7537be358930def317AfB606C0D737",
             "externalId": "nakamoto-games",
             "logoUri": "assets/clgmuz47d002d3guzd0w98ayc/logo.png",
-            "name": "Nakamoto.Games",
+            "name": "Nakamoto Games",
             "status": "active",
-            "symbol": "NAKA",
+            "symbol": "naka",
             "type": "Polygon"
         },
         {
@@ -592,9 +592,9 @@
             "explorer": "https://polygonscan.com/token/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
             "externalId": "decentraland",
             "logoUri": "assets/clgmuz47g002i3guzt3lft0br/logo.png",
-            "name": "(PoS) Decentraland MANA",
+            "name": "Decentraland",
             "status": "active",
-            "symbol": "MANA",
+            "symbol": "mana",
             "type": "Polygon"
         },
         {
@@ -609,7 +609,7 @@
             "logoUri": "assets/clgmuz47h002j3guztstbmrct/logo.png",
             "name": "Affyn",
             "status": "active",
-            "symbol": "FYN",
+            "symbol": "fyn",
             "type": "Polygon"
         },
         {
@@ -622,9 +622,9 @@
             "explorer": "https://polygonscan.com/token/0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
             "externalId": "polytrade",
             "logoUri": "assets/clgmuz47h002k3guz98jppcyk/logo.png",
-            "name": "Polytrade (PoS)",
+            "name": "Polytrade",
             "status": "active",
-            "symbol": "TRADE",
+            "symbol": "trade",
             "type": "Polygon"
         },
         {
@@ -639,7 +639,7 @@
             "logoUri": "assets/clgmuz47n002u3guzwurs4m5n/logo.png",
             "name": "Request",
             "status": "active",
-            "symbol": "REQ",
+            "symbol": "req",
             "type": "Polygon"
         },
         {
@@ -652,9 +652,9 @@
             "explorer": "https://polygonscan.com/token/0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
             "externalId": "havven",
             "logoUri": "assets/clgmuz47p002w3guz1ip36w2i/logo.png",
-            "name": "Synthetix Network Token (PoS)",
+            "name": "Synthetix",
             "status": "active",
-            "symbol": "SNX",
+            "symbol": "snx",
             "type": "Polygon"
         },
         {
@@ -667,9 +667,9 @@
             "explorer": "https://polygonscan.com/token/0xB5C064F955D8e7F38fE0460C556a72987494eE17",
             "externalId": "quickswap",
             "logoUri": "assets/clgmuz47v00363guzz5h7to8o/logo.png",
-            "name": "QuickSwap",
+            "name": "Quickswap",
             "status": "active",
-            "symbol": "QUICK",
+            "symbol": "quick",
             "type": "Polygon"
         },
         {
@@ -684,7 +684,7 @@
             "logoUri": "assets/clgmuz481003d3guzeqgb52kc/logo.png",
             "name": "WiFi Map",
             "status": "active",
-            "symbol": "WIFI",
+            "symbol": "wifi",
             "type": "Polygon"
         },
         {
@@ -699,7 +699,7 @@
             "logoUri": "assets/clgmuz484003h3guz6cd2wmv3/logo.png",
             "name": "Streamr",
             "status": "active",
-            "symbol": "DATA",
+            "symbol": "data",
             "type": "Polygon"
         },
         {
@@ -729,7 +729,7 @@
             "logoUri": "assets/clgmuz48a003p3guzdbekoq03/logo.png",
             "name": "XIDR",
             "status": "active",
-            "symbol": "XIDR",
+            "symbol": "xidr",
             "type": "Polygon"
         },
         {
@@ -757,9 +757,9 @@
             "explorer": "https://polygonscan.com/token/0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
             "externalId": "hex",
             "logoUri": "assets/clgmuz48f003w3guzemlsmcjq/logo.png",
-            "name": "HEX (PoS)",
+            "name": "HEX",
             "status": "active",
-            "symbol": "HEX",
+            "symbol": "hex",
             "type": "Polygon"
         },
         {
@@ -770,11 +770,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
-            "externalId": "true-usd",
+            "externalId": "bridged-trueusd",
             "logoUri": "assets/clgmuz48h003y3guz0iu1hkr5/logo.png",
-            "name": "TrueUSD (PoS)",
+            "name": "Bridged TrueUSD",
             "status": "active",
-            "symbol": "TUSD",
+            "symbol": "tusd",
             "type": "Polygon"
         },
         {
@@ -787,9 +787,9 @@
             "explorer": "https://polygonscan.com/token/0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
             "externalId": "trustswap",
             "logoUri": "assets/clgmuz48i003z3guzlurtbz61/logo.png",
-            "name": "TrustSwap Token (PoS)",
+            "name": "TrustSwap",
             "status": "active",
-            "symbol": "SWAP",
+            "symbol": "swap",
             "type": "Polygon"
         },
         {
@@ -802,9 +802,9 @@
             "explorer": "https://polygonscan.com/token/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
             "externalId": "orbs",
             "logoUri": "assets/clgmuz48n00453guzr1ia2i1q/logo.png",
-            "name": "Orbs (PoS)",
+            "name": "Orbs",
             "status": "active",
-            "symbol": "ORBS",
+            "symbol": "orbs",
             "type": "Polygon"
         },
         {
@@ -819,7 +819,7 @@
             "logoUri": "assets/clgmuz48q00473guzrkhbsp2s/logo.png",
             "name": "Frax Ether",
             "status": "active",
-            "symbol": "frxETH",
+            "symbol": "frxeth",
             "type": "Polygon"
         },
         {
@@ -832,9 +832,9 @@
             "explorer": "https://polygonscan.com/token/0xB9638272aD6998708de56BBC0A290a1dE534a578",
             "externalId": "everipedia",
             "logoUri": "assets/clgmuz48s004a3guzqhp43tos/logo.png",
-            "name": "Everipedia IQ (PoS)",
+            "name": "IQ",
             "status": "active",
-            "symbol": "IQ",
+            "symbol": "iq",
             "type": "Polygon"
         },
         {
@@ -862,9 +862,9 @@
             "explorer": "https://polygonscan.com/token/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
             "externalId": "woo-network",
             "logoUri": "assets/clgmuz48v004f3guzvmnmsyc1/logo.png",
-            "name": "Wootrade Network (PoS)",
+            "name": "WOO",
             "status": "active",
-            "symbol": "WOO",
+            "symbol": "woo",
             "type": "Polygon"
         },
         {
@@ -877,9 +877,9 @@
             "explorer": "https://polygonscan.com/token/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
             "externalId": "dogelon-mars",
             "logoUri": "assets/clgmuz48w004g3guz7qhbm87x/logo.png",
-            "name": "Dogelon (PoS)",
+            "name": "Dogelon Mars",
             "status": "active",
-            "symbol": "ELON",
+            "symbol": "elon",
             "type": "Polygon"
         },
         {
@@ -892,9 +892,9 @@
             "explorer": "https://polygonscan.com/token/0xC004e2318722EA2b15499D6375905d75Ee5390B8",
             "externalId": "kommunitas",
             "logoUri": "assets/clgmuz48y004j3guzyfonphwi/logo.png",
-            "name": "Kommunitas",
+            "name": "Kommunitas [OLD]",
             "status": "active",
-            "symbol": "KOM",
+            "symbol": "kom",
             "type": "Polygon"
         },
         {
@@ -937,9 +937,9 @@
             "explorer": "https://polygonscan.com/token/0x11CD37bb86F65419713f30673A480EA33c826872",
             "externalId": "ethereum-wormhole",
             "logoUri": "assets/clgmuz499004y3guzw7vd4yy8/logo.png",
-            "name": "Wrapped Ether (Wormhole)",
+            "name": "Ethereum (Wormhole)",
             "status": "active",
-            "symbol": "WETH",
+            "symbol": "eth",
             "type": "Polygon"
         },
         {
@@ -967,9 +967,9 @@
             "explorer": "https://polygonscan.com/token/0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
             "externalId": "ankr",
             "logoUri": "assets/clgmuz49h00583guz22r2hup5/logo.png",
-            "name": "Ankr (PoS)",
+            "name": "Ankr Network",
             "status": "active",
-            "symbol": "ANKR",
+            "symbol": "ankr",
             "type": "Polygon"
         },
         {
@@ -980,11 +980,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
-            "externalId": "wrapped-avax",
+            "externalId": "bridged-wavax",
             "logoUri": "assets/clgmuz49i00593guzcfmafvyn/logo.png",
-            "name": "Avalanche Token",
+            "name": "Bridged WAVAX",
             "status": "active",
-            "symbol": "AVAX",
+            "symbol": "wavax",
             "type": "Polygon"
         },
         {
@@ -1012,9 +1012,9 @@
             "explorer": "https://polygonscan.com/token/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
             "externalId": "kyber-network-crystal",
             "logoUri": "assets/clgmuz4ax006x3guzubnn8d17/logo.png",
-            "name": "Kyber Network Crystal v2 (PoS)",
+            "name": "Kyber Network Crystal",
             "status": "active",
-            "symbol": "KNC",
+            "symbol": "knc",
             "type": "Polygon"
         },
         {
@@ -1087,7 +1087,7 @@
             "explorer": "https://polygonscan.com/token/0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
             "externalId": "allianceblock-nexera",
             "logoUri": "assets/clh9gcpqs06ieb0g4jjsnnfkd/logo.png",
-            "name": "AllianceBlock Nexera",
+            "name": "Nexera",
             "status": "active",
             "symbol": "nxra",
             "type": "Polygon"
@@ -1100,11 +1100,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0xb7b31a6bc18e48888545ce79e83e06003be70930",
-            "externalId": "apecoin",
+            "externalId": "wrapped-apecoin",
             "logoUri": "assets/clh9gcpqs06irb0g4qlnfcr8g/logo.png",
-            "name": "ApeCoin",
+            "name": "Wrapped ApeCoin",
             "status": "active",
-            "symbol": "ape",
+            "symbol": "wape",
             "type": "Polygon"
         },
         {
@@ -1162,7 +1162,7 @@
             "explorer": "https://polygonscan.com/token/0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
             "externalId": "axlusdc",
             "logoUri": "assets/clh9gcpqs06jpb0g4vevlp38u/logo.png",
-            "name": "Axelar USDC",
+            "name": "Axelar Bridged USDC",
             "status": "active",
             "symbol": "axlusdc",
             "type": "Polygon"
@@ -1387,9 +1387,9 @@
             "explorer": "https://polygonscan.com/token/0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
             "externalId": "frax-share",
             "logoUri": "assets/clh9gcpqs06qib0g4bxiuubmt/logo.png",
-            "name": "Frax Share",
+            "name": "Frax (prev. FXS)",
             "status": "active",
-            "symbol": "fxs",
+            "symbol": "frax",
             "type": "Polygon"
         },
         {
@@ -1522,9 +1522,9 @@
             "explorer": "https://polygonscan.com/token/0x306ee01a6ba3b4a8e993fa2c1adc7ea24462000c",
             "externalId": "neopin",
             "logoUri": "assets/clh9gcpra06wob0g452xjyquk/logo.png",
-            "name": "Neopin",
+            "name": "Mayflower",
             "status": "active",
-            "symbol": "npt",
+            "symbol": "may",
             "type": "Polygon"
         },
         {
@@ -1612,7 +1612,7 @@
             "explorer": "https://polygonscan.com/token/0x6109cb051c5c64093830121ed76272ab04bbdd7c",
             "externalId": "prosper",
             "logoUri": "assets/clh9gcpra0701b0g4v658icmo/logo.png",
-            "name": "Prosper",
+            "name": "Prosper [OLD]",
             "status": "active",
             "symbol": "pros",
             "type": "Polygon"
@@ -1777,7 +1777,7 @@
             "explorer": "https://polygonscan.com/token/0x4318cb63a2b8edf2de971e2f17f77097e499459d",
             "externalId": "usd-coin-wormhole-from-ethereum",
             "logoUri": "assets/clh9gcpru0758b0g49j11debt/logo.png",
-            "name": "USD Coin (Wormhole from Ethereum)",
+            "name": "Bridged USD Coin (Wormhole Ethereum)",
             "status": "active",
             "symbol": "usdcet",
             "type": "Polygon"
@@ -1987,7 +1987,7 @@
             "explorer": "https://polygonscan.com/token/0x9b3b0703d392321ad24338ff1f846650437a43c9",
             "externalId": "boson-protocol",
             "logoUri": "assets/clswxoham072d8cuhjkx8cvyi/logo.png",
-            "name": "Boson Protocol",
+            "name": "Boson",
             "status": "active",
             "symbol": "boson",
             "type": "Polygon"
@@ -2075,11 +2075,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
-            "externalId": "connext",
+            "externalId": "everclear",
             "logoUri": "assets/clswxohao073x8cuhhm2cjay5/logo.png",
-            "name": "Connext",
+            "name": "Everclear",
             "status": "active",
-            "symbol": "next",
+            "symbol": "clear",
             "type": "Polygon"
         },
         {
@@ -2347,7 +2347,7 @@
             "explorer": "https://polygonscan.com/token/0x09cad96bc28f55e9253cfb9a84a3a1ab79061e54",
             "externalId": "phantom-of-the-kill-alternative-imitation-oshi",
             "logoUri": "assets/clswxohay07hv8cuhlsufs4m6/logo.png",
-            "name": "Phantom of the Kill -Alternative Imitation- OSHI",
+            "name": "OSHI3",
             "status": "active",
             "symbol": "oshi",
             "type": "Polygon"
@@ -2362,7 +2362,7 @@
             "explorer": "https://polygonscan.com/token/0x8c069b6cef3453babb15fa97784affeb95d398fa",
             "externalId": "pmxx",
             "logoUri": "assets/clswxohay07i98cuh5m0huigh/logo.png",
-            "name": "People\u2019s Money PMXX",
+            "name": "People’s Money PMXX",
             "status": "active",
             "symbol": "pmxx",
             "type": "Polygon"
@@ -2452,7 +2452,7 @@
             "explorer": "https://polygonscan.com/token/0x6899face15c14348e1759371049ab64a3a06bfa6",
             "externalId": "smardex",
             "logoUri": "assets/clswxohb107lp8cuhic98k2g7/logo.png",
-            "name": "SmarDex",
+            "name": "SMARDEX",
             "status": "active",
             "symbol": "sdex",
             "type": "Polygon"
@@ -2482,9 +2482,9 @@
             "explorer": "https://polygonscan.com/token/0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
             "externalId": "sol-wormhole",
             "logoUri": "assets/clswxohb107lv8cuh6tw652iu/logo.png",
-            "name": "SOL (Wormhole)",
+            "name": "Wormhole Bridged WSOL",
             "status": "active",
-            "symbol": "sol",
+            "symbol": "wsol",
             "type": "Polygon"
         },
         {
@@ -2542,7 +2542,7 @@
             "explorer": "https://polygonscan.com/token/0xe78aee6ccb05471a69677fb74da80f5d251c042b",
             "externalId": "taki",
             "logoUri": "assets/clswxohb207n58cuh7ivdhq8v/logo.png",
-            "name": "Taki",
+            "name": "Taki Games",
             "status": "active",
             "symbol": "taki",
             "type": "Polygon"
@@ -2572,9 +2572,9 @@
             "explorer": "https://polygonscan.com/token/0x9417669fbf23357d2774e9d421307bd5ea1006d2",
             "externalId": "tether-usd-wormhole-from-ethereum",
             "logoUri": "assets/clswxohb207nf8cuhtgoldknu/logo.png",
-            "name": "Bridged Tether (Wormhole Ethereum)",
+            "name": "Wormhole Bridged USDT",
             "status": "active",
-            "symbol": "usdtet",
+            "symbol": "usdt",
             "type": "Polygon"
         },
         {
@@ -2705,9 +2705,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://polygonscan.com/token/0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
-            "externalId": "wrapped-steth",
+            "externalId": "polygon-bridged-wsteth-polygon",
             "logoUri": "assets/clswxohb507qu8cuhd2oede6c/logo.png",
-            "name": "Wrapped stETH",
+            "name": "Polygon Bridged wstETH (Polygon)",
             "status": "active",
             "symbol": "wsteth",
             "type": "Polygon"
@@ -3067,7 +3067,7 @@
             "explorer": "https://polygonscan.com/token/0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
             "externalId": "monerium-eur-money",
             "logoUri": "assets/cm2pco6k607bouwos6fri998t/logo.png",
-            "name": "Monerium EUR emoney",
+            "name": "Monerium EUR emoney [OLD]",
             "status": "active",
             "symbol": "eure",
             "type": "Polygon"
@@ -3157,7 +3157,7 @@
             "explorer": "https://polygonscan.com/token/0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
             "externalId": "orderly-network",
             "logoUri": "assets/cm2pco6k607dpuwosip3vdg70/logo.png",
-            "name": "Orderly Network",
+            "name": "Orderly",
             "status": "active",
             "symbol": "order",
             "type": "Polygon"
@@ -3307,7 +3307,7 @@
             "explorer": "https://polygonscan.com/token/0xeee3371b89fc43ea970e908536fcddd975135d8a",
             "externalId": "the-doge-nft",
             "logoUri": "assets/cm2pco6k707keuwos2op91io5/logo.png",
-            "name": "The Doge NFT",
+            "name": "Own The Doge",
             "status": "active",
             "symbol": "dog",
             "type": "Polygon"

@@ -37,9 +37,9 @@
             "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "externalId": "weth",
             "logoUri": "assets/cl6z9siee000um4g51g2qcoiq/logo.png",
-            "name": "Wrapped ETH",
+            "name": "WETH",
             "status": "active",
-            "symbol": "WETH",
+            "symbol": "weth",
             "type": "ERC20"
         },
         {
@@ -52,9 +52,9 @@
             "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "externalId": "usd-coin",
             "logoUri": "assets/cl71yr4zg000wm4g5hpaxfyb3/logo.png",
-            "name": "USD Coin",
+            "name": "USDC",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc",
             "type": "ERC20"
         },
         {
@@ -67,9 +67,9 @@
             "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "externalId": "tether",
             "logoUri": "assets/cl71yvqi1000ym4g54hjmcbti/logo.png",
-            "name": "Tether USD",
+            "name": "Tether",
             "status": "active",
-            "symbol": "USDT",
+            "symbol": "usdt",
             "type": "ERC20"
         },
         {
@@ -82,9 +82,9 @@
             "explorer": "https://etherscan.io/token/0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "externalId": "dai",
             "logoUri": "assets/cl71z1mq70012m4g55is7ah36/logo.png",
-            "name": "Dai Stablecoin",
+            "name": "Dai",
             "status": "active",
-            "symbol": "DAI",
+            "symbol": "dai",
             "type": "ERC20"
         },
         {
@@ -97,9 +97,9 @@
             "explorer": "https://etherscan.io/token/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "externalId": "wrapped-bitcoin",
             "logoUri": "assets/cl7dq00sk00084cuzsix3ahgg/logo.png",
-            "name": "Wrapped BTC",
+            "name": "Wrapped Bitcoin",
             "status": "active",
-            "symbol": "WBTC",
+            "symbol": "wbtc",
             "type": "ERC20"
         },
         {
@@ -112,9 +112,9 @@
             "explorer": "https://etherscan.io/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
             "externalId": "shiba-inu",
             "logoUri": "assets/cl7dq00sk00094cuzutaxfsvx/logo.png",
-            "name": "SHIBA INU",
+            "name": "Shiba Inu",
             "status": "active",
-            "symbol": "SHIB",
+            "symbol": "shib",
             "type": "ERC20"
         },
         {
@@ -129,7 +129,7 @@
             "logoUri": "assets/cl7dq00sk000b4cuzc9ja1269/logo.png",
             "name": "Uniswap",
             "status": "active",
-            "symbol": "UNI",
+            "symbol": "uni",
             "type": "ERC20"
         },
         {
@@ -142,9 +142,9 @@
             "explorer": "https://etherscan.io/token/0x090185f2135308BaD17527004364eBcC2D37e5F6",
             "externalId": "spell-token",
             "logoUri": "assets/cl7dq01c3003m4cuzilki6ybv/logo.png",
-            "name": "Spell Token",
+            "name": "Spell",
             "status": "active",
-            "symbol": "SPELL",
+            "symbol": "spell",
             "type": "ERC20"
         },
         {
@@ -157,9 +157,9 @@
             "explorer": "https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "externalId": "chainlink",
             "logoUri": "assets/cl7dq00sl000d4cuzlzv6193r/logo.png",
-            "name": "ChainLink Token",
+            "name": "Chainlink",
             "status": "active",
-            "symbol": "LINK",
+            "symbol": "link",
             "type": "ERC20"
         },
         {
@@ -174,7 +174,7 @@
             "logoUri": "assets/cl7dq00sl000f4cuze3tc0frk/logo.png",
             "name": "HEX",
             "status": "active",
-            "symbol": "HEX",
+            "symbol": "hex",
             "type": "ERC20"
         },
         {
@@ -187,9 +187,9 @@
             "explorer": "https://etherscan.io/token/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
             "externalId": "convex-finance",
             "logoUri": "assets/cl7dq01c7004l4cuzf0dmmdco/logo.png",
-            "name": "Convex Token",
+            "name": "Convex Finance",
             "status": "active",
-            "symbol": "CVX",
+            "symbol": "cvx",
             "type": "ERC20"
         },
         {
@@ -202,9 +202,9 @@
             "explorer": "https://etherscan.io/token/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
             "externalId": "dogelon-mars",
             "logoUri": "assets/cl7dq00sl000h4cuzwl09hxoe/logo.png",
-            "name": "Dogelon",
+            "name": "Dogelon Mars",
             "status": "active",
-            "symbol": "ELON",
+            "symbol": "elon",
             "type": "ERC20"
         },
         {
@@ -219,7 +219,7 @@
             "logoUri": "assets/cl7dq01wo005w4cuzxjxqy4kk/logo.png",
             "name": "Olympus",
             "status": "active",
-            "symbol": "OHM",
+            "symbol": "ohm",
             "type": "ERC20"
         },
         {
@@ -234,7 +234,7 @@
             "logoUri": "assets/cl7dq01wo005x4cuzrdwct560/logo.png",
             "name": "Alchemix",
             "status": "active",
-            "symbol": "ALCX",
+            "symbol": "alcx",
             "type": "ERC20"
         },
         {
@@ -247,9 +247,9 @@
             "explorer": "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
             "externalId": "the-sandbox",
             "logoUri": "assets/cl7dq00sl000i4cuz1jncm1jo/logo.png",
-            "name": "SAND",
+            "name": "The Sandbox",
             "status": "active",
-            "symbol": "SAND",
+            "symbol": "sand",
             "type": "ERC20"
         },
         {
@@ -264,7 +264,7 @@
             "logoUri": "assets/cl7dq00sl000j4cuz8u5a67ho/logo.png",
             "name": "Ampleforth",
             "status": "active",
-            "symbol": "AMPL",
+            "symbol": "ampl",
             "type": "ERC20"
         },
         {
@@ -279,7 +279,7 @@
             "logoUri": "assets/cl7dq00sm000k4cuzz0b0qqej/logo.png",
             "name": "yearn.finance",
             "status": "active",
-            "symbol": "YFI",
+            "symbol": "yfi",
             "type": "ERC20"
         },
         {
@@ -294,7 +294,7 @@
             "logoUri": "assets/cl7dq01wp00604cuz1w8fgcjq/logo.png",
             "name": "Synapse",
             "status": "active",
-            "symbol": "SYN",
+            "symbol": "syn",
             "type": "ERC20"
         },
         {
@@ -307,9 +307,9 @@
             "explorer": "https://etherscan.io/token/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
             "externalId": "superfarm",
             "logoUri": "assets/cl7dq00sm000l4cuzzsb27ht1/logo.png",
-            "name": "SuperFarm",
+            "name": "SuperVerse",
             "status": "active",
-            "symbol": "SUPER",
+            "symbol": "super",
             "type": "ERC20"
         },
         {
@@ -324,7 +324,7 @@
             "logoUri": "assets/cl7dq01wp00614cuz0qk8xc4j/logo.png",
             "name": "Illuvium",
             "status": "active",
-            "symbol": "ILV",
+            "symbol": "ilv",
             "type": "ERC20"
         },
         {
@@ -339,7 +339,7 @@
             "logoUri": "assets/cl7dq00sm000m4cuzywq7pozb/logo.png",
             "name": "Kishu Inu",
             "status": "active",
-            "symbol": "KISHU",
+            "symbol": "kishu",
             "type": "ERC20"
         },
         {
@@ -352,9 +352,9 @@
             "explorer": "https://etherscan.io/token/0xf4d2888d29D722226FafA5d9B24F9164c092421E",
             "externalId": "looksrare",
             "logoUri": "assets/cl7dq00sm000n4cuz6nr1cc32/logo.png",
-            "name": "LooksRare Token",
+            "name": "LooksRare",
             "status": "active",
-            "symbol": "LOOKS",
+            "symbol": "looks",
             "type": "ERC20"
         },
         {
@@ -367,9 +367,9 @@
             "explorer": "https://etherscan.io/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "externalId": "aave",
             "logoUri": "assets/cl7dq00sm000o4cuzweildrto/logo.png",
-            "name": "Aave Token",
+            "name": "Aave",
             "status": "active",
-            "symbol": "AAVE",
+            "symbol": "aave",
             "type": "ERC20"
         },
         {
@@ -382,9 +382,9 @@
             "explorer": "https://etherscan.io/token/0x27C70Cd1946795B66be9d954418546998b546634",
             "externalId": "leash",
             "logoUri": "assets/cl7dq00sm000p4cuzdv2kfeex/logo.png",
-            "name": "DOGE KILLER",
+            "name": "Doge Killer",
             "status": "active",
-            "symbol": "LEASH",
+            "symbol": "leash",
             "type": "ERC20"
         },
         {
@@ -397,9 +397,9 @@
             "explorer": "https://etherscan.io/token/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
             "externalId": "sushi",
             "logoUri": "assets/cl7dq00sm000r4cuzq37o27s5/logo.png",
-            "name": "SushiToken",
+            "name": "Sushi",
             "status": "active",
-            "symbol": "SUSHI",
+            "symbol": "sushi",
             "type": "ERC20"
         },
         {
@@ -412,9 +412,9 @@
             "explorer": "https://etherscan.io/token/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
             "externalId": "lido-dao",
             "logoUri": "assets/cl7dq01c7004f4cuzz651ouoo/logo.png",
-            "name": "Lido DAO Token",
+            "name": "Lido DAO",
             "status": "active",
-            "symbol": "LDO",
+            "symbol": "ldo",
             "type": "ERC20"
         },
         {
@@ -429,7 +429,7 @@
             "logoUri": "assets/cl7dq00sn000s4cuzhxed8t9g/logo.png",
             "name": "StarLink",
             "status": "active",
-            "symbol": "STARL",
+            "symbol": "starl",
             "type": "ERC20"
         },
         {
@@ -444,7 +444,7 @@
             "logoUri": "assets/cl7dq00sn000v4cuzxxewmgsj/logo.png",
             "name": "Maker",
             "status": "active",
-            "symbol": "MKR",
+            "symbol": "mkr",
             "type": "ERC20"
         },
         {
@@ -459,7 +459,7 @@
             "logoUri": "assets/cl7dq00sn000w4cuz9pkguhkf/logo.png",
             "name": "Merit Circle",
             "status": "active",
-            "symbol": "MC",
+            "symbol": "mc",
             "type": "ERC20"
         },
         {
@@ -472,9 +472,9 @@
             "explorer": "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
             "externalId": "barnbridge",
             "logoUri": "assets/cl7dq00sn000x4cuzmlpapgb7/logo.png",
-            "name": "BarnBridge Governance Token",
+            "name": "BarnBridge",
             "status": "active",
-            "symbol": "BOND",
+            "symbol": "bond",
             "type": "ERC20"
         },
         {
@@ -485,11 +485,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://etherscan.io/token/0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
-            "externalId": "fantom",
+            "externalId": "wrapped-fantom",
             "logoUri": "assets/cl7dq01c2003g4cuz6246skg3/logo.png",
-            "name": "Fantom Token",
+            "name": "Wrapped Fantom",
             "status": "active",
-            "symbol": "FTM",
+            "symbol": "wftm",
             "type": "ERC20"
         },
         {
@@ -517,9 +517,9 @@
             "explorer": "https://etherscan.io/token/0xBBc2AE13b23d715c30720F079fcd9B4a74093505",
             "externalId": "ethernity-chain",
             "logoUri": "assets/cl7dq00so000z4cuzhmk0o6ts/logo.png",
-            "name": "@EthernityChain $ERN Token",
+            "name": "Ethernity Chain",
             "status": "active",
-            "symbol": "ERN",
+            "symbol": "ern",
             "type": "ERC20"
         },
         {
@@ -532,9 +532,9 @@
             "explorer": "https://etherscan.io/token/0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
             "externalId": "woo-network",
             "logoUri": "assets/cl7dq00so00104cuz4k5bb49r/logo.png",
-            "name": "Wootrade Network",
+            "name": "WOO",
             "status": "active",
-            "symbol": "WOO",
+            "symbol": "woo",
             "type": "ERC20"
         },
         {
@@ -547,9 +547,9 @@
             "explorer": "https://etherscan.io/token/0x853d955aCEf822Db058eb8505911ED77F175b99e",
             "externalId": "frax",
             "logoUri": "assets/cl7dq00so00114cuz4szirboa/logo.png",
-            "name": "Frax",
+            "name": "Legacy Frax Dollar",
             "status": "active",
-            "symbol": "FRAX",
+            "symbol": "frax",
             "type": "ERC20"
         },
         {
@@ -562,9 +562,9 @@
             "explorer": "https://etherscan.io/token/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
             "externalId": "polkastarter",
             "logoUri": "assets/cl7dq00so00134cuzu25e4ixn/logo.png",
-            "name": "PolkastarterToken",
+            "name": "Polkastarter",
             "status": "active",
-            "symbol": "POLS",
+            "symbol": "pols",
             "type": "ERC20"
         },
         {
@@ -579,7 +579,7 @@
             "logoUri": "assets/cl7dq01wq00674cuz9yd7mi0v/logo.png",
             "name": "Badger",
             "status": "active",
-            "symbol": "BADGER",
+            "symbol": "badger",
             "type": "ERC20"
         },
         {
@@ -594,7 +594,7 @@
             "logoUri": "assets/cl7dq01wq00684cuzpgfju2pk/logo.png",
             "name": "BitDAO",
             "status": "active",
-            "symbol": "BIT",
+            "symbol": "bit",
             "type": "ERC20"
         },
         {
@@ -607,9 +607,9 @@
             "explorer": "https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52",
             "externalId": "curve-dao-token",
             "logoUri": "assets/cl7dq00sp00164cuzac66qq1k/logo.png",
-            "name": "Curve DAO Token",
+            "name": "Curve DAO",
             "status": "active",
-            "symbol": "CRV",
+            "symbol": "crv",
             "type": "ERC20"
         },
         {
@@ -622,9 +622,9 @@
             "explorer": "https://etherscan.io/token/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
             "externalId": "yield-guild-games",
             "logoUri": "assets/cl7dq01c6004e4cuzrdtb9d8g/logo.png",
-            "name": "Yield Guild Games Token",
+            "name": "Yield Guild Games",
             "status": "active",
-            "symbol": "YGG",
+            "symbol": "ygg",
             "type": "ERC20"
         },
         {
@@ -637,9 +637,9 @@
             "explorer": "https://etherscan.io/token/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "externalId": "havven",
             "logoUri": "assets/cl7dq00sp00174cuzzk0i1qsz/logo.png",
-            "name": "Synthetix Network Token",
+            "name": "Synthetix",
             "status": "active",
-            "symbol": "SNX",
+            "symbol": "snx",
             "type": "ERC20"
         },
         {
@@ -652,9 +652,9 @@
             "explorer": "https://etherscan.io/token/0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
             "externalId": "alpha-finance",
             "logoUri": "assets/cl7oq8nl80002fcg562kz9hpn/logo.png",
-            "name": "AlphaToken",
+            "name": "Stella",
             "status": "active",
-            "symbol": "ALPHA",
+            "symbol": "alpha",
             "type": "ERC20"
         },
         {
@@ -667,9 +667,9 @@
             "explorer": "https://etherscan.io/token/0xa0246c9032bC3A600820415aE600c6388619A14D",
             "externalId": "harvest-finance",
             "logoUri": "assets/cl7dq00sp001c4cuzmqnag05t/logo.png",
-            "name": "FARM Reward Token",
+            "name": "Harvest Finance",
             "status": "active",
-            "symbol": "FARM",
+            "symbol": "farm",
             "type": "ERC20"
         },
         {
@@ -682,9 +682,9 @@
             "explorer": "https://etherscan.io/token/0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
             "externalId": "the-graph",
             "logoUri": "assets/cl7dq00sp001d4cuz3q9e0l26/logo.png",
-            "name": "Graph Token",
+            "name": "The Graph",
             "status": "active",
-            "symbol": "GRT",
+            "symbol": "grt",
             "type": "ERC20"
         },
         {
@@ -699,7 +699,7 @@
             "logoUri": "assets/cl7dq00sq001f4cuzr6zp0pi0/logo.png",
             "name": "Keep3rV1",
             "status": "active",
-            "symbol": "KP3R",
+            "symbol": "kp3r",
             "type": "ERC20"
         },
         {
@@ -714,7 +714,7 @@
             "logoUri": "assets/cl7dq00sq001i4cuzvzldagi1/logo.png",
             "name": "Cult DAO",
             "status": "active",
-            "symbol": "CULT",
+            "symbol": "cult",
             "type": "ERC20"
         },
         {
@@ -727,9 +727,9 @@
             "explorer": "https://etherscan.io/token/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
             "externalId": "big-data-protocol",
             "logoUri": "assets/cl7dq00sr001p4cuz45qm3xeh/logo.png",
-            "name": "BDPToken",
+            "name": "Big Data Protocol",
             "status": "active",
-            "symbol": "BDP",
+            "symbol": "bdp",
             "type": "ERC20"
         },
         {
@@ -742,9 +742,9 @@
             "explorer": "https://etherscan.io/token/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
             "externalId": "trustswap",
             "logoUri": "assets/cl7dq00sr001r4cuzy8kk9nt9/logo.png",
-            "name": "TrustSwap Token",
+            "name": "TrustSwap",
             "status": "active",
-            "symbol": "SWAP",
+            "symbol": "swap",
             "type": "ERC20"
         },
         {
@@ -759,7 +759,7 @@
             "logoUri": "assets/cl7dq00ss001t4cuzlfgrul7b/logo.png",
             "name": "Compound",
             "status": "active",
-            "symbol": "COMP",
+            "symbol": "comp",
             "type": "ERC20"
         },
         {
@@ -774,7 +774,7 @@
             "logoUri": "assets/cl7dq00ss001u4cuzoa0w8d0x/logo.png",
             "name": "DAO Maker",
             "status": "active",
-            "symbol": "DAO",
+            "symbol": "dao",
             "type": "ERC20"
         },
         {
@@ -789,7 +789,7 @@
             "logoUri": "assets/cl7dq01wr006i4cuzffx4yt76/logo.png",
             "name": "Serum",
             "status": "active",
-            "symbol": "SRM",
+            "symbol": "srm",
             "type": "ERC20"
         },
         {
@@ -804,7 +804,7 @@
             "logoUri": "assets/cl7dq00ss001z4cuz87k24tbq/logo.png",
             "name": "Audius",
             "status": "active",
-            "symbol": "AUDIO",
+            "symbol": "audio",
             "type": "ERC20"
         },
         {
@@ -819,7 +819,7 @@
             "logoUri": "assets/cl7dq00st00224cuze8xue9ca/logo.png",
             "name": "Amp",
             "status": "active",
-            "symbol": "AMP",
+            "symbol": "amp",
             "type": "ERC20"
         },
         {
@@ -832,9 +832,9 @@
             "explorer": "https://etherscan.io/token/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
             "externalId": "liquity-usd",
             "logoUri": "assets/cl7dq00st00254cuzwtucix8n/logo.png",
-            "name": "LUSD Stablecoin",
+            "name": "Liquity USD",
             "status": "active",
-            "symbol": "LUSD",
+            "symbol": "lusd",
             "type": "ERC20"
         },
         {
@@ -847,9 +847,9 @@
             "explorer": "https://etherscan.io/token/0xbC396689893D065F41bc2C6EcbeE5e0085233447",
             "externalId": "perpetual-protocol",
             "logoUri": "assets/cl7dq00st00264cuz37yopy7n/logo.png",
-            "name": "Perpetual",
+            "name": "Perpetual Protocol",
             "status": "active",
-            "symbol": "PERP",
+            "symbol": "perp",
             "type": "ERC20"
         },
         {
@@ -864,7 +864,7 @@
             "logoUri": "assets/cl7dq00su00284cuzvmn4rq5m/logo.png",
             "name": "Rally",
             "status": "active",
-            "symbol": "RLY",
+            "symbol": "rly",
             "type": "ERC20"
         },
         {
@@ -877,9 +877,9 @@
             "explorer": "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
             "externalId": "api3",
             "logoUri": "assets/cl7dq00su002c4cuz6zbbw0ef/logo.png",
-            "name": "API3",
+            "name": "Api3",
             "status": "active",
-            "symbol": "API3",
+            "symbol": "api3",
             "type": "ERC20"
         },
         {
@@ -892,9 +892,9 @@
             "explorer": "https://etherscan.io/token/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
             "externalId": "tornado-cash",
             "logoUri": "assets/cl7dq00su002d4cuzl410th6n/logo.png",
-            "name": "TornadoCash",
+            "name": "Tornado Cash",
             "status": "active",
-            "symbol": "TORN",
+            "symbol": "torn",
             "type": "ERC20"
         },
         {
@@ -907,9 +907,9 @@
             "explorer": "https://etherscan.io/token/0x111111111117dC0aa78b770fA6A738034120C302",
             "externalId": "1inch",
             "logoUri": "assets/cl7dq00su002e4cuzn2e9soxq/logo.png",
-            "name": "1INCH Token",
+            "name": "1INCH",
             "status": "active",
-            "symbol": "1INCH",
+            "symbol": "1inch",
             "type": "ERC20"
         },
         {
@@ -924,7 +924,7 @@
             "logoUri": "assets/cl7dq00sv002j4cuzs6sbvwpz/logo.png",
             "name": "A Hunters Dream",
             "status": "active",
-            "symbol": "CAW",
+            "symbol": "caw",
             "type": "ERC20"
         },
         {
@@ -937,9 +937,9 @@
             "explorer": "https://etherscan.io/token/0x408e41876cCCDC0F92210600ef50372656052a38",
             "externalId": "republic-protocol",
             "logoUri": "assets/cl7dq00sw002n4cuzgka35bb5/logo.png",
-            "name": "Republic Token",
+            "name": "Ren",
             "status": "active",
-            "symbol": "REN",
+            "symbol": "ren",
             "type": "ERC20"
         },
         {
@@ -952,9 +952,9 @@
             "explorer": "https://etherscan.io/token/0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
             "externalId": "immutable-x",
             "logoUri": "assets/cl7dq01c9004w4cuzrt3leys8/logo.png",
-            "name": "Immutable X",
+            "name": "Immutable",
             "status": "active",
-            "symbol": "IMX",
+            "symbol": "imx",
             "type": "ERC20"
         },
         {
@@ -967,9 +967,9 @@
             "explorer": "https://etherscan.io/token/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
             "externalId": "decentraland",
             "logoUri": "assets/cl7dq00sw002r4cuz6ygbytg5/logo.png",
-            "name": "Decentraland MANA",
+            "name": "Decentraland",
             "status": "active",
-            "symbol": "MANA",
+            "symbol": "mana",
             "type": "ERC20"
         },
         {
@@ -982,9 +982,9 @@
             "explorer": "https://etherscan.io/token/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
             "externalId": "nusd",
             "logoUri": "assets/cl7dq01c8004t4cuzrbi38h6s/logo.png",
-            "name": "Synth sUSD",
+            "name": "Synthetix sUSD",
             "status": "active",
-            "symbol": "sUSD",
+            "symbol": "susd",
             "type": "ERC20"
         },
         {
@@ -997,9 +997,9 @@
             "explorer": "https://etherscan.io/token/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
             "externalId": "uma",
             "logoUri": "assets/cl7dq01wt006w4cuz7nb1201y/logo.png",
-            "name": "UMA Voting Token v1",
+            "name": "UMA",
             "status": "active",
-            "symbol": "UMA",
+            "symbol": "uma",
             "type": "ERC20"
         },
         {
@@ -1012,9 +1012,9 @@
             "explorer": "https://etherscan.io/token/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
             "externalId": "metis-token",
             "logoUri": "assets/cl7dq01c2003e4cuz03id1yjq/logo.png",
-            "name": "Metis Token",
+            "name": "Metis",
             "status": "active",
-            "symbol": "Metis",
+            "symbol": "metis",
             "type": "ERC20"
         },
         {
@@ -1029,7 +1029,7 @@
             "logoUri": "assets/cl7dq01c100384cuz81k53kms/logo.png",
             "name": "Ethereum Name Service",
             "status": "active",
-            "symbol": "ENS",
+            "symbol": "ens",
             "type": "ERC20"
         },
         {
@@ -1042,9 +1042,9 @@
             "explorer": "https://etherscan.io/token/0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
             "externalId": "opendao",
             "logoUri": "assets/cl7dq01c500454cuzre3tjze2/logo.png",
-            "name": "SOS",
+            "name": "OpenDAO",
             "status": "active",
-            "symbol": "SOS",
+            "symbol": "sos",
             "type": "ERC20"
         },
         {
@@ -1057,9 +1057,9 @@
             "explorer": "https://etherscan.io/token/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
             "externalId": "band-protocol",
             "logoUri": "assets/cl7dq01wu00744cuzt1wa1fl0/logo.png",
-            "name": "BandToken",
+            "name": "Band",
             "status": "active",
-            "symbol": "BAND",
+            "symbol": "band",
             "type": "ERC20"
         },
         {
@@ -1072,9 +1072,9 @@
             "explorer": "https://etherscan.io/token/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
             "externalId": "axie-infinity",
             "logoUri": "assets/cl7dq01c1003a4cuzkpcjew7i/logo.png",
-            "name": "Axie Infinity Shard",
+            "name": "Axie Infinity",
             "status": "active",
-            "symbol": "AXS",
+            "symbol": "axs",
             "type": "ERC20"
         },
         {
@@ -1085,11 +1085,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://etherscan.io/token/0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-            "externalId": "apecoin",
+            "externalId": "wrapped-apecoin",
             "logoUri": "assets/cl7dq01c0002z4cuz5wotc751/logo.png",
-            "name": "ApeCoin",
+            "name": "Wrapped ApeCoin",
             "status": "active",
-            "symbol": "APE",
+            "symbol": "wape",
             "type": "ERC20"
         },
         {
@@ -1104,7 +1104,7 @@
             "logoUri": "assets/cl7dq01c100394cuzv4pkeh7g/logo.png",
             "name": "dYdX",
             "status": "active",
-            "symbol": "DYDX",
+            "symbol": "ethdydx",
             "type": "ERC20"
         },
         {
@@ -1132,9 +1132,9 @@
             "explorer": "https://etherscan.io/token/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
             "externalId": "frax-share",
             "logoUri": "assets/cl7dq01c8004p4cuzitwyjaln/logo.png",
-            "name": "Frax Share",
+            "name": "Frax (prev. FXS)",
             "status": "active",
-            "symbol": "FXS",
+            "symbol": "frax",
             "type": "ERC20"
         },
         {
@@ -1147,9 +1147,9 @@
             "explorer": "https://etherscan.io/token/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
             "externalId": "origin-protocol",
             "logoUri": "assets/cl7dq01ww007h4cuzw5tvvf10/logo.png",
-            "name": "OriginToken",
+            "name": "Origin Token",
             "status": "active",
-            "symbol": "OGN",
+            "symbol": "ogn",
             "type": "ERC20"
         },
         {
@@ -1164,7 +1164,7 @@
             "logoUri": "assets/cl7dq01ww007j4cuzicmpixnx/logo.png",
             "name": "TrueFi",
             "status": "active",
-            "symbol": "TRU",
+            "symbol": "tru",
             "type": "ERC20"
         },
         {
@@ -1177,9 +1177,9 @@
             "explorer": "https://etherscan.io/token/0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
             "externalId": "magic-internet-money",
             "logoUri": "assets/cl7dq01c2003f4cuz0r09mddt/logo.png",
-            "name": "Magic Internet Money",
+            "name": "Magic Internet Money (Ethereum)",
             "status": "active",
-            "symbol": "MIM",
+            "symbol": "mim",
             "type": "ERC20"
         },
         {
@@ -1192,9 +1192,9 @@
             "explorer": "https://etherscan.io/token/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
             "externalId": "wrapped-steth",
             "logoUri": "assets/cl7dq01wx007p4cuzwfg2bglq/logo.png",
-            "name": "Wrapped liquid staked Ether 2.0",
+            "name": "Wrapped stETH",
             "status": "active",
-            "symbol": "wstETH",
+            "symbol": "wsteth",
             "type": "ERC20"
         },
         {
@@ -1209,7 +1209,7 @@
             "logoUri": "assets/cl7dq01wx007r4cuzx5vwgu80/logo.png",
             "name": "Multichain",
             "status": "active",
-            "symbol": "MULTI",
+            "symbol": "multi",
             "type": "ERC20"
         },
         {
@@ -1224,7 +1224,7 @@
             "logoUri": "assets/cl7dq01wx007s4cuzja6rskgn/logo.png",
             "name": "Bifrost",
             "status": "active",
-            "symbol": "BFC",
+            "symbol": "bfc",
             "type": "ERC20"
         },
         {
@@ -1239,7 +1239,7 @@
             "logoUri": "assets/cl7dq01wz00854cuzuvg2904d/logo.png",
             "name": "OMG Network",
             "status": "active",
-            "symbol": "OMG",
+            "symbol": "omg",
             "type": "ERC20"
         },
         {
@@ -1254,7 +1254,7 @@
             "logoUri": "assets/cl7dq01x0008a4cuz98hodace/logo.png",
             "name": "Manifold Finance",
             "status": "active",
-            "symbol": "FOLD",
+            "symbol": "fold",
             "type": "ERC20"
         },
         {
@@ -1269,7 +1269,7 @@
             "logoUri": "assets/cl7dq01c1003b4cuzij86ljez/logo.png",
             "name": "Pax Dollar",
             "status": "active",
-            "symbol": "USDP",
+            "symbol": "usdp",
             "type": "ERC20"
         },
         {
@@ -1284,7 +1284,7 @@
             "logoUri": "assets/cl7oqb8d70006fcg59yrc3jpi/logo.png",
             "name": "Euro Tether",
             "status": "active",
-            "symbol": "EURT",
+            "symbol": "eurt",
             "type": "ERC20"
         },
         {
@@ -1297,9 +1297,9 @@
             "explorer": "https://etherscan.io/token/0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
             "externalId": "ribbon-finance",
             "logoUri": "assets/cl7dq01c2003j4cuzkhpa59pw/logo.png",
-            "name": "Ribbon",
+            "name": "Ribbon Finance",
             "status": "active",
-            "symbol": "RBN",
+            "symbol": "rbn",
             "type": "ERC20"
         },
         {
@@ -1312,9 +1312,9 @@
             "explorer": "https://etherscan.io/token/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
             "externalId": "ageur",
             "logoUri": "assets/cl7dq01c3003n4cuz205cpwld/logo.png",
-            "name": "agEUR",
+            "name": "EURA",
             "status": "active",
-            "symbol": "agEUR",
+            "symbol": "eura",
             "type": "ERC20"
         },
         {
@@ -1329,7 +1329,7 @@
             "logoUri": "assets/cl7dq01c3003o4cuz98ao5dlv/logo.png",
             "name": "Adventure Gold",
             "status": "active",
-            "symbol": "AGLD",
+            "symbol": "agld",
             "type": "ERC20"
         },
         {
@@ -1342,9 +1342,9 @@
             "explorer": "https://etherscan.io/token/0xdB25f211AB05b1c97D595516F45794528a807ad8",
             "externalId": "stasis-eurs",
             "logoUri": "assets/cl7dq01c3003r4cuzlkgj12yd/logo.png",
-            "name": "STASIS EURS Token",
+            "name": "STASIS EURO",
             "status": "active",
-            "symbol": "EURS",
+            "symbol": "eurs",
             "type": "ERC20"
         },
         {
@@ -1359,7 +1359,7 @@
             "logoUri": "assets/cl7dq01c4003t4cuzujbbfrk0/logo.png",
             "name": "ConstitutionDAO",
             "status": "active",
-            "symbol": "PEOPLE",
+            "symbol": "people",
             "type": "ERC20"
         },
         {
@@ -1374,7 +1374,7 @@
             "logoUri": "assets/cl7dq01c500404cuzz7tcbdeq/logo.png",
             "name": "SuperRare",
             "status": "active",
-            "symbol": "RARE",
+            "symbol": "rare",
             "type": "ERC20"
         },
         {
@@ -1389,7 +1389,7 @@
             "logoUri": "assets/cl7oqbztg0008fcg5czqyfqav/logo.png",
             "name": "Quant",
             "status": "active",
-            "symbol": "QNT",
+            "symbol": "qnt",
             "type": "ERC20"
         },
         {
@@ -1402,9 +1402,9 @@
             "explorer": "https://etherscan.io/token/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
             "externalId": "nexo",
             "logoUri": "assets/cl7dq01c500424cuzl6bhpu1q/logo.png",
-            "name": "Nexo",
+            "name": "NEXO",
             "status": "active",
-            "symbol": "NEXO",
+            "symbol": "nexo",
             "type": "ERC20"
         },
         {
@@ -1417,9 +1417,9 @@
             "explorer": "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
             "externalId": "binance-usd",
             "logoUri": "assets/cl7dq01c6004a4cuz52ecc31o/logo.png",
-            "name": "Binance USD",
+            "name": "BUSD",
             "status": "active",
-            "symbol": "BUSD",
+            "symbol": "busd",
             "type": "ERC20"
         },
         {
@@ -1434,7 +1434,7 @@
             "logoUri": "assets/cl7dq01c7004h4cuzwd39ee1l/logo.png",
             "name": "XSGD",
             "status": "active",
-            "symbol": "XSGD",
+            "symbol": "xsgd",
             "type": "ERC20"
         },
         {
@@ -1447,9 +1447,9 @@
             "explorer": "https://etherscan.io/token/0x55296f69f40Ea6d20E478533C15A6B08B654E758",
             "externalId": "xyo-network",
             "logoUri": "assets/cl7dq01c7004i4cuz2qqvdleq/logo.png",
-            "name": "XY Oracle",
+            "name": "XYO Network",
             "status": "active",
-            "symbol": "XYO",
+            "symbol": "xyo",
             "type": "ERC20"
         },
         {
@@ -1462,9 +1462,9 @@
             "explorer": "https://etherscan.io/token/0x6810e776880C02933D47DB1b9fc05908e5386b96",
             "externalId": "gnosis",
             "logoUri": "assets/cl7dq01c7004m4cuzjhfe1bxy/logo.png",
-            "name": "Gnosis Token",
+            "name": "Gnosis",
             "status": "active",
-            "symbol": "GNO",
+            "symbol": "gno",
             "type": "ERC20"
         },
         {
@@ -1477,9 +1477,9 @@
             "explorer": "https://etherscan.io/token/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
             "externalId": "stargate-finance",
             "logoUri": "assets/cl7dq01c8004o4cuzqgg1efrg/logo.png",
-            "name": "StargateToken",
+            "name": "Stargate Finance",
             "status": "active",
-            "symbol": "STG",
+            "symbol": "stg",
             "type": "ERC20"
         },
         {
@@ -1492,9 +1492,9 @@
             "explorer": "https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D",
             "externalId": "lukso-token",
             "logoUri": "assets/cl7dq01c8004s4cuz71n3iojy/logo.png",
-            "name": "LUKSO Token",
+            "name": "LUKSO [OLD]",
             "status": "active",
-            "symbol": "LYXe",
+            "symbol": "lyxe",
             "type": "ERC20"
         },
         {
@@ -1507,9 +1507,9 @@
             "explorer": "https://etherscan.io/token/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
             "externalId": "ftx-token",
             "logoUri": "assets/cl7dq01c9004u4cuznsuxz1gz/logo.png",
-            "name": "FTT",
+            "name": "FTX",
             "status": "active",
-            "symbol": "FTX Token",
+            "symbol": "ftt",
             "type": "ERC20"
         },
         {
@@ -1524,7 +1524,7 @@
             "logoUri": "assets/cl7dq01c9004v4cuza6icaou3/logo.png",
             "name": "Gitcoin",
             "status": "active",
-            "symbol": "GTC",
+            "symbol": "gtc",
             "type": "ERC20"
         },
         {
@@ -1539,7 +1539,7 @@
             "logoUri": "assets/cl7dq01c9004x4cuz6nm6el6a/logo.png",
             "name": "TrueUSD",
             "status": "active",
-            "symbol": "TUSD",
+            "symbol": "tusd",
             "type": "ERC20"
         },
         {
@@ -1552,9 +1552,9 @@
             "explorer": "https://etherscan.io/token/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
             "externalId": "liquity",
             "logoUri": "assets/cl7dq01c9004y4cuzc71apvzj/logo.png",
-            "name": "LQTY",
+            "name": "Liquity",
             "status": "active",
-            "symbol": "LQTY",
+            "symbol": "lqty",
             "type": "ERC20"
         },
         {
@@ -1569,7 +1569,7 @@
             "logoUri": "assets/cl7dq01c9004z4cuzmcf6kh8h/logo.png",
             "name": "NvirWorld",
             "status": "active",
-            "symbol": "Nvir",
+            "symbol": "nvir",
             "type": "ERC20"
         },
         {
@@ -1599,7 +1599,7 @@
             "logoUri": "assets/cl7dq01c900514cuzv48llj0t/logo.png",
             "name": "Enjin Coin",
             "status": "active",
-            "symbol": "ENJ",
+            "symbol": "enj",
             "type": "ERC20"
         },
         {
@@ -1612,9 +1612,9 @@
             "explorer": "https://etherscan.io/token/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
             "externalId": "loopring",
             "logoUri": "assets/cl7dq01ca00524cuzcqlrg1ej/logo.png",
-            "name": "LoopringCoin V2",
+            "name": "Loopring",
             "status": "active",
-            "symbol": "LRC",
+            "symbol": "lrc",
             "type": "ERC20"
         },
         {
@@ -1627,9 +1627,9 @@
             "explorer": "https://etherscan.io/token/0xF411903cbC70a74d22900a5DE66A2dda66507255",
             "externalId": "verasity",
             "logoUri": "assets/cl7dq01ca00534cuzi3yircjd/logo.png",
-            "name": "VERA",
+            "name": "Verasity",
             "status": "active",
-            "symbol": "VRA",
+            "symbol": "vra",
             "type": "ERC20"
         },
         {
@@ -1657,9 +1657,9 @@
             "explorer": "https://etherscan.io/token/0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
             "externalId": "ultra",
             "logoUri": "assets/cl7dq01ca00574cuzztqth073/logo.png",
-            "name": "Ultra Token",
+            "name": "Ultra",
             "status": "active",
-            "symbol": "UOS",
+            "symbol": "uos",
             "type": "ERC20"
         },
         {
@@ -1674,7 +1674,7 @@
             "logoUri": "assets/cl7dq01cb005d4cuzjkebrk51/logo.png",
             "name": "Rocket Pool ETH",
             "status": "active",
-            "symbol": "rETH",
+            "symbol": "reth",
             "type": "ERC20"
         },
         {
@@ -1687,9 +1687,9 @@
             "explorer": "https://etherscan.io/token/0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
             "externalId": "basic-attention-token",
             "logoUri": "assets/cl7dq01cc005h4cuzhookuq3h/logo.png",
-            "name": "Basic Attention Token",
+            "name": "Basic Attention",
             "status": "active",
-            "symbol": "BAT",
+            "symbol": "bat",
             "type": "ERC20"
         },
         {
@@ -1777,7 +1777,7 @@
             "explorer": "https://etherscan.io/token/0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
             "externalId": "adex",
             "logoUri": "assets/clh9g2txg0034b0g4ugt848ys/logo.png",
-            "name": "Ambire AdEx",
+            "name": "AdEx",
             "status": "active",
             "symbol": "adx",
             "type": "ERC20"
@@ -1867,9 +1867,9 @@
             "explorer": "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
             "externalId": "akropolis",
             "logoUri": "assets/clh9g2txk004db0g414l3tvi4/logo.png",
-            "name": "Akropolis",
+            "name": "Kaon",
             "status": "active",
-            "symbol": "akro",
+            "symbol": "kaon",
             "type": "ERC20"
         },
         {
@@ -1927,7 +1927,7 @@
             "explorer": "https://etherscan.io/token/0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
             "externalId": "allianceblock-nexera",
             "logoUri": "assets/clh9g2txm004zb0g4wt3rcbjf/logo.png",
-            "name": "AllianceBlock Nexera",
+            "name": "Nexera",
             "status": "active",
             "symbol": "nxra",
             "type": "ERC20"
@@ -2032,7 +2032,7 @@
             "explorer": "https://etherscan.io/token/0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
             "externalId": "apenft",
             "logoUri": "assets/clh9g2txr006pb0g4z2uk9tne/logo.png",
-            "name": "APENFT",
+            "name": "AINFT",
             "status": "active",
             "symbol": "nft",
             "type": "ERC20"
@@ -2047,7 +2047,7 @@
             "explorer": "https://etherscan.io/token/0x52a8845df664d76c69d2eea607cd793565af42b8",
             "externalId": "apex-token-2",
             "logoUri": "assets/clh9g2txs006rb0g4ghd5qpj6/logo.png",
-            "name": "ApeX",
+            "name": "APEX",
             "status": "active",
             "symbol": "apex",
             "type": "ERC20"
@@ -2062,7 +2062,7 @@
             "explorer": "https://etherscan.io/token/0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
             "externalId": "apm-coin",
             "logoUri": "assets/clh9g2txs006ub0g47nleoya7/logo.png",
-            "name": "apM Coin",
+            "name": "apM",
             "status": "active",
             "symbol": "apm",
             "type": "ERC20"
@@ -2422,9 +2422,9 @@
             "explorer": "https://etherscan.io/token/0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a",
             "externalId": "bepro-network",
             "logoUri": "assets/clh9g2ty700c1b0g4xl9kd9lj/logo.png",
-            "name": "BEPRO Network",
+            "name": "LayerX",
             "status": "active",
-            "symbol": "bepro",
+            "symbol": "lx",
             "type": "ERC20"
         },
         {
@@ -2977,7 +2977,7 @@
             "explorer": "https://etherscan.io/token/0xbba39fd2935d5769116ce38d46a71bde9cf03099",
             "externalId": "choise",
             "logoUri": "assets/clh9g2tyw00jzb0g4kx1be8ov/logo.png",
-            "name": "Choise.com",
+            "name": "Choise.ai",
             "status": "active",
             "symbol": "cho",
             "type": "ERC20"
@@ -3742,7 +3742,7 @@
             "explorer": "https://etherscan.io/token/0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
             "externalId": "dusk-network",
             "logoUri": "assets/clh9g2tzv00x7b0g4w7zf6i2z/logo.png",
-            "name": "DUSK Network",
+            "name": "DUSK",
             "status": "active",
             "symbol": "dusk",
             "type": "ERC20"
@@ -3862,7 +3862,7 @@
             "explorer": "https://etherscan.io/token/0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
             "externalId": "ethos",
             "logoUri": "assets/clh9g2u04010ob0g46w2mkfp4/logo.png",
-            "name": "Voyager VGX",
+            "name": "VGX Token",
             "status": "active",
             "symbol": "vgx",
             "type": "ERC20"
@@ -4012,7 +4012,7 @@
             "explorer": "https://etherscan.io/token/0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
             "externalId": "fetch-ai",
             "logoUri": "assets/clh9g2u09012jb0g4lgzote65/logo.png",
-            "name": "Fetch.ai",
+            "name": "Artificial Superintelligence Alliance",
             "status": "active",
             "symbol": "fet",
             "type": "ERC20"
@@ -4342,7 +4342,7 @@
             "explorer": "https://etherscan.io/token/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
             "externalId": "graphlinq-protocol",
             "logoUri": "assets/clh9g2u0q018wb0g4gtojvbto/logo.png",
-            "name": "GraphLinq Protocol",
+            "name": "GraphLinq Chain",
             "status": "active",
             "symbol": "glq",
             "type": "ERC20"
@@ -4777,7 +4777,7 @@
             "explorer": "https://etherscan.io/token/0xda7c0810ce6f8329786160bb3d1734cf6661ca6e",
             "externalId": "jaypegggers",
             "logoUri": "assets/clh9g2u1901gzb0g4cx9omdjg/logo.png",
-            "name": "Jaypegggers",
+            "name": "Jaypeggers",
             "status": "active",
             "symbol": "jay",
             "type": "ERC20"
@@ -4792,7 +4792,7 @@
             "explorer": "https://etherscan.io/token/0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
             "externalId": "jupiter",
             "logoUri": "assets/clh9g2u1a01hrb0g4vyliz4wr/logo.png",
-            "name": "Jupiter",
+            "name": "Jupiter Project",
             "status": "active",
             "symbol": "jup",
             "type": "ERC20"
@@ -5152,7 +5152,7 @@
             "explorer": "https://etherscan.io/token/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
             "externalId": "magic",
             "logoUri": "assets/clh9g2u1s01o4b0g45zqod7m9/logo.png",
-            "name": "Magic",
+            "name": "Treasure",
             "status": "active",
             "symbol": "magic",
             "type": "ERC20"
@@ -5662,7 +5662,7 @@
             "explorer": "https://etherscan.io/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed",
             "externalId": "newscrypto-coin",
             "logoUri": "assets/clh9g2u2e01wxb0g407l2quxs/logo.png",
-            "name": "Newscrypto Coin",
+            "name": "Numerico",
             "status": "active",
             "symbol": "nwc",
             "type": "ERC20"
@@ -5707,7 +5707,7 @@
             "explorer": "https://etherscan.io/token/0x3496b523e5c00a4b4150d6721320cddb234c3079",
             "externalId": "numbers-protocol",
             "logoUri": "assets/clh9g2u2h01yhb0g4rssmpeuj/logo.png",
-            "name": "NUM Token",
+            "name": "Numbers Protocol",
             "status": "active",
             "symbol": "num",
             "type": "ERC20"
@@ -5782,7 +5782,7 @@
             "explorer": "https://etherscan.io/token/0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
             "externalId": "octopus-network",
             "logoUri": "assets/clh9g2u2j01yxb0g4b4r66b5g/logo.png",
-            "name": "Octopus Network",
+            "name": "Omnity Convertible Token",
             "status": "active",
             "symbol": "oct",
             "type": "ERC20"
@@ -6022,7 +6022,7 @@
             "explorer": "https://etherscan.io/token/0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
             "externalId": "orion-protocol",
             "logoUri": "assets/clh9g2u2s0217b0g46zupbxa8/logo.png",
-            "name": "Orion Protocol",
+            "name": "Orion",
             "status": "active",
             "symbol": "orn",
             "type": "ERC20"
@@ -6202,7 +6202,7 @@
             "explorer": "https://etherscan.io/token/0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
             "externalId": "pha",
             "logoUri": "assets/clh9g2u2z023gb0g4i78o05wc/logo.png",
-            "name": "Phala",
+            "name": "PHALA",
             "status": "active",
             "symbol": "pha",
             "type": "ERC20"
@@ -6337,7 +6337,7 @@
             "explorer": "https://etherscan.io/token/0x595832f8fc6bf59c85c527fec3740a1b7a361269",
             "externalId": "power-ledger",
             "logoUri": "assets/clh9g2u35026hb0g4u8wyrh59/logo.png",
-            "name": "Power Ledger",
+            "name": "Powerledger",
             "status": "active",
             "symbol": "powr",
             "type": "ERC20"
@@ -6412,7 +6412,7 @@
             "explorer": "https://etherscan.io/token/0x5faa989af96af85384b8a938c2ede4a7378d9875",
             "externalId": "project-galaxy",
             "logoUri": "assets/clh9g2u38026zb0g4ueiljtkv/logo.png",
-            "name": "Galxe",
+            "name": "GAL (migrated to Gravity - G)",
             "status": "active",
             "symbol": "gal",
             "type": "ERC20"
@@ -6457,7 +6457,7 @@
             "explorer": "https://etherscan.io/token/0x8642a849d0dcb7a15a974794668adcfbe4794b56",
             "externalId": "prosper",
             "logoUri": "assets/clh9g2u390279b0g48ls3ndfw/logo.png",
-            "name": "Prosper",
+            "name": "Prosper [OLD]",
             "status": "active",
             "symbol": "pros",
             "type": "ERC20"
@@ -6472,7 +6472,7 @@
             "explorer": "https://etherscan.io/token/0xd7efb00d12c2c13131fd319336fdf952525da2af",
             "externalId": "proton",
             "logoUri": "assets/clh9g2u3a027cb0g49yb6b40t/logo.png",
-            "name": "Proton",
+            "name": "XPR Network",
             "status": "active",
             "symbol": "xpr",
             "type": "ERC20"
@@ -6592,7 +6592,7 @@
             "explorer": "https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
             "externalId": "radicle",
             "logoUri": "assets/clh9g2u3f0294b0g4rkczgvj6/logo.png",
-            "name": "Radicle",
+            "name": "Radworks",
             "status": "active",
             "symbol": "rad",
             "type": "ERC20"
@@ -6714,7 +6714,7 @@
             "logoUri": "assets/clh9g2u3j02aqb0g49hv3198o/logo.png",
             "name": "Render",
             "status": "active",
-            "symbol": "rndr",
+            "symbol": "render",
             "type": "ERC20"
         },
         {
@@ -6787,7 +6787,7 @@
             "explorer": "https://etherscan.io/token/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
             "externalId": "route",
             "logoUri": "assets/clh9g2u3n02c8b0g4kb187pnt/logo.png",
-            "name": "Router Protocol",
+            "name": "Router Protocol [OLD]",
             "status": "active",
             "symbol": "route",
             "type": "ERC20"
@@ -7132,7 +7132,7 @@
             "explorer": "https://etherscan.io/token/0xe3c408bd53c31c085a1746af401a4042954ff740",
             "externalId": "stepn",
             "logoUri": "assets/clh9g2u4502kjb0g4s8brtxl4/logo.png",
-            "name": "STEPN",
+            "name": "GMT",
             "status": "active",
             "symbol": "gmt",
             "type": "ERC20"
@@ -7252,7 +7252,7 @@
             "explorer": "https://etherscan.io/token/0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
             "externalId": "sweatcoin",
             "logoUri": "assets/clh9g2u4a02m8b0g45kedwo64/logo.png",
-            "name": "Sweatcoin (Sweat Economy)",
+            "name": "SWEAT",
             "status": "active",
             "symbol": "sweat",
             "type": "ERC20"
@@ -7282,7 +7282,7 @@
             "explorer": "https://etherscan.io/token/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
             "externalId": "swipe",
             "logoUri": "assets/clh9g2u4b02mcb0g4kcmjwosq/logo.png",
-            "name": "SXP",
+            "name": "Solar",
             "status": "active",
             "symbol": "sxp",
             "type": "ERC20"
@@ -7462,7 +7462,7 @@
             "explorer": "https://etherscan.io/token/0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
             "externalId": "the-virtua-kolect",
             "logoUri": "assets/clh9g2u4j02ovb0g4vtsco045/logo.png",
-            "name": "The Virtua Kolect",
+            "name": "Virtua",
             "status": "active",
             "symbol": "tvk",
             "type": "ERC20"
@@ -7582,7 +7582,7 @@
             "explorer": "https://etherscan.io/token/0x4385328cc4d643ca98dfea734360c0f596c83449",
             "externalId": "tominet",
             "logoUri": "assets/clh9g2u4n02q5b0g49tq3atny/logo.png",
-            "name": "tomiNet",
+            "name": "TOMI",
             "status": "active",
             "symbol": "tomi",
             "type": "ERC20"
@@ -7762,7 +7762,7 @@
             "explorer": "https://etherscan.io/token/0xe60779cc1b2c1d0580611c526a8df0e3f870ec48",
             "externalId": "unsheth",
             "logoUri": "assets/clh9g2u4x02ucb0g4zuiis0i8/logo.png",
-            "name": "unshETH",
+            "name": "unshETHing_Token",
             "status": "active",
             "symbol": "ush",
             "type": "ERC20"
@@ -7837,7 +7837,7 @@
             "explorer": "https://etherscan.io/token/0xd13cfd3133239a3c73a9e535a5c4dadee36b395c",
             "externalId": "vaiot",
             "logoUri": "assets/clh9g2u5002v5b0g4mdmc82we/logo.png",
-            "name": "Vaiot",
+            "name": "VAIOT",
             "status": "active",
             "symbol": "vai",
             "type": "ERC20"
@@ -8077,7 +8077,7 @@
             "explorer": "https://etherscan.io/token/0x925206b8a707096ed26ae47c84747fe0bb734f59",
             "externalId": "whitebit",
             "logoUri": "assets/clh9g2u5902xxb0g49j77a7n1/logo.png",
-            "name": "WhiteBIT Token",
+            "name": "WhiteBIT Coin",
             "status": "active",
             "symbol": "wbt",
             "type": "ERC20"
@@ -8107,7 +8107,7 @@
             "explorer": "https://etherscan.io/token/0x5026f006b85729a8b14553fae6af249ad16c9aab",
             "externalId": "wojak",
             "logoUri": "assets/clh9g2u5a02ybb0g4e1yy4y8x/logo.png",
-            "name": "Wojak",
+            "name": "Wojak Coin",
             "status": "active",
             "symbol": "wojak",
             "type": "ERC20"
@@ -8364,7 +8364,7 @@
             "logoUri": "assets/clm3mdf2h0000w4g523vm8xb4/logo.png",
             "name": "PayPal USD",
             "status": "active",
-            "symbol": "PYUSD",
+            "symbol": "pyusd",
             "type": "ERC20"
         },
         {
@@ -8422,7 +8422,7 @@
             "explorer": "https://etherscan.io/token/0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
             "externalId": "agoras-currency-of-tau",
             "logoUri": "assets/clswxoaqv005d8cuhnwkj7e4v/logo.png",
-            "name": "Agoras: Currency of Tau",
+            "name": "Agoras: Tau Net",
             "status": "active",
             "symbol": "agrs",
             "type": "ERC20"
@@ -8497,7 +8497,7 @@
             "explorer": "https://etherscan.io/token/0x27702a26126e0b3702af63ee09ac4d1a084ef628",
             "externalId": "aleph",
             "logoUri": "assets/clswxoaqx006z8cuhyu57mzi9/logo.png",
-            "name": "Aleph.im",
+            "name": "Aleph Cloud",
             "status": "active",
             "symbol": "aleph",
             "type": "ERC20"
@@ -8542,7 +8542,7 @@
             "explorer": "https://etherscan.io/token/0x3106a0a076bedae847652f42ef07fd58589e001f",
             "externalId": "alkimi",
             "logoUri": "assets/clswxoaqy00788cuhs49btj8t/logo.png",
-            "name": "Alkimi",
+            "name": "Alkimi [OLD]",
             "status": "active",
             "symbol": "$ads",
             "type": "ERC20"
@@ -8692,7 +8692,7 @@
             "explorer": "https://etherscan.io/token/0x2565ae0385659badcada1031db704442e1b69982",
             "externalId": "assemble-protocol",
             "logoUri": "assets/clswxoar300bj8cuhmytybdvp/logo.png",
-            "name": "Assemble Protocol",
+            "name": "Assemble AI",
             "status": "active",
             "symbol": "asm",
             "type": "ERC20"
@@ -8992,7 +8992,7 @@
             "explorer": "https://etherscan.io/token/0xc477d038d5420c6a9e0b031712f61c5120090de9",
             "externalId": "boson-protocol",
             "logoUri": "assets/clswxoarf00lo8cuh8w7rdw4a/logo.png",
-            "name": "Boson Protocol",
+            "name": "Boson",
             "status": "active",
             "symbol": "boson",
             "type": "ERC20"
@@ -9307,7 +9307,7 @@
             "explorer": "https://etherscan.io/token/0xa6c0c097741d55ecd9a3a7def3a8253fd022ceb9",
             "externalId": "concierge-io",
             "logoUri": "assets/clswxoarn00tv8cuhzznti1vz/logo.png",
-            "name": "AVA",
+            "name": "AVA (Travala)",
             "status": "active",
             "symbol": "ava",
             "type": "ERC20"
@@ -9487,7 +9487,7 @@
             "explorer": "https://etherscan.io/token/0x14778860e937f509e651192a90589de711fb88a9",
             "externalId": "cyberconnect",
             "logoUri": "assets/clswxoarr00xk8cuhjfgdwkew/logo.png",
-            "name": "CyberConnect",
+            "name": "CYBER",
             "status": "active",
             "symbol": "cyber",
             "type": "ERC20"
@@ -10087,9 +10087,9 @@
             "explorer": "https://etherscan.io/token/0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
             "externalId": "gmt-token",
             "logoUri": "assets/clswxoasc01jw8cuhpqpdjscb/logo.png",
-            "name": "Gomining Token",
+            "name": "GoMining Token",
             "status": "active",
-            "symbol": "gmt",
+            "symbol": "gomining",
             "type": "ERC20"
         },
         {
@@ -10149,7 +10149,7 @@
             "logoUri": "assets/clswxoase01lm8cuhfw2c2pr4/logo.png",
             "name": "Grok",
             "status": "active",
-            "symbol": "$grok",
+            "symbol": "grok",
             "type": "ERC20"
         },
         {
@@ -10252,7 +10252,7 @@
             "explorer": "https://etherscan.io/token/0xccccb68e1a848cbdb5b60a974e07aae143ed40c3",
             "externalId": "hytopia",
             "logoUri": "assets/clswxoasj01rb8cuhjnmczscl/logo.png",
-            "name": "Hytopia",
+            "name": "TOPIA",
             "status": "active",
             "symbol": "topia",
             "type": "ERC20"
@@ -10582,7 +10582,7 @@
             "explorer": "https://etherscan.io/token/0x872952d3c1caf944852c5adda65633f1ef218a26",
             "externalId": "liquid-crypto",
             "logoUri": "assets/clswxoass02178cuhhx2g3tng/logo.png",
-            "name": "Liquid Crypto",
+            "name": "Reddex",
             "status": "active",
             "symbol": "lqdx",
             "type": "ERC20"
@@ -11377,7 +11377,7 @@
             "explorer": "https://etherscan.io/token/0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
             "externalId": "polygon-ecosystem-token",
             "logoUri": "assets/clswxoatg02pd8cuhs3fx0th9/logo.png",
-            "name": "Polygon Ecosystem Token",
+            "name": "POL (ex-MATIC)",
             "status": "active",
             "symbol": "pol",
             "type": "ERC20"
@@ -11604,7 +11604,7 @@
             "logoUri": "assets/clswxoatn02um8cuhdmynbd85/logo.png",
             "name": "Real Smurf Cat",
             "status": "active",
-            "symbol": "шайлушай",
+            "symbol": "smurfcat",
             "type": "ERC20"
         },
         {
@@ -11857,7 +11857,7 @@
             "explorer": "https://etherscan.io/token/0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
             "externalId": "smardex",
             "logoUri": "assets/clswxoatv033b8cuh23at47hu/logo.png",
-            "name": "SmarDex",
+            "name": "SMARDEX",
             "status": "active",
             "symbol": "sdex",
             "type": "ERC20"
@@ -11932,9 +11932,9 @@
             "explorer": "https://etherscan.io/token/0xd31a59c85ae9d8edefec411d448f90841571b89c",
             "externalId": "sol-wormhole",
             "logoUri": "assets/clswxoatw034g8cuha27ejsgs/logo.png",
-            "name": "SOL (Wormhole)",
+            "name": "Wormhole Bridged WSOL",
             "status": "active",
-            "symbol": "sol",
+            "symbol": "wsol",
             "type": "ERC20"
         },
         {
@@ -11977,7 +11977,7 @@
             "explorer": "https://etherscan.io/token/0x004626a008b1acdc4c74ab51644093b155e59a23",
             "externalId": "staked-ageur",
             "logoUri": "assets/clswxoaty036z8cuh1us8c2ci/logo.png",
-            "name": "Staked agEUR",
+            "name": "Angle Staked EURA",
             "status": "active",
             "symbol": "steur",
             "type": "ERC20"
@@ -12054,7 +12054,7 @@
             "logoUri": "assets/clswxoau1038n8cuhon1ydwnp/logo.png",
             "name": "Strike",
             "status": "active",
-            "symbol": "strk",
+            "symbol": "strike",
             "type": "ERC20"
         },
         {
@@ -13010,9 +13010,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://etherscan.io/token/0xf4fb9bf10e489ea3edb03e094939341399587b0c",
-            "externalId": "amber",
+            "externalId": "airdao-old",
             "logoUri": "assets/cm2pciyfk007huwos4qddqcjh/logo.png",
-            "name": "AirDAO",
+            "name": "Ascendia (ex AirDAO) [Old]",
             "status": "active",
             "symbol": "amb",
             "type": "ERC20"
@@ -13342,7 +13342,7 @@
             "explorer": "https://etherscan.io/token/0x8fc17671d853341d9e8b001f5fc3c892d09cb53a",
             "externalId": "blockgames",
             "logoUri": "assets/cm2pciyfn00j7uwosuj0u7nky/logo.png",
-            "name": "BlockGames",
+            "name": "BlockProtocol",
             "status": "active",
             "symbol": "block",
             "type": "ERC20"
@@ -13372,7 +13372,7 @@
             "explorer": "https://etherscan.io/token/0xb90b2a35c65dbc466b04240097ca756ad2005295",
             "externalId": "bobo-coin",
             "logoUri": "assets/cm2pciyfn00k9uwos8ai77ke7/logo.png",
-            "name": "BOBO Coin",
+            "name": "Bobo Coin",
             "status": "active",
             "symbol": "bobo",
             "type": "ERC20"
@@ -13445,9 +13445,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://etherscan.io/token/0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
-            "externalId": "catcoin-cash",
+            "externalId": "catcoin-eth",
             "logoUri": "assets/cm2pciyfo00okuwos0d6u9tnw/logo.png",
-            "name": "Catcoin",
+            "name": "Catcoin (ETH)",
             "status": "active",
             "symbol": "cat",
             "type": "ERC20"
@@ -13492,7 +13492,7 @@
             "explorer": "https://etherscan.io/token/0x9ce84f6a69986a83d92c324df10bc8e64771030f",
             "externalId": "chex-token",
             "logoUri": "assets/cm2pciyfo00qnuwospo64dalo/logo.png",
-            "name": "CHEX Token",
+            "name": "Chintai",
             "status": "active",
             "symbol": "chex",
             "type": "ERC20"
@@ -13537,7 +13537,7 @@
             "explorer": "https://etherscan.io/token/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
             "externalId": "cookie",
             "logoUri": "assets/cm2pciyfp00uquwosladn7ce8/logo.png",
-            "name": "Cookie",
+            "name": "Cookie DAO",
             "status": "active",
             "symbol": "cookie",
             "type": "ERC20"
@@ -13867,7 +13867,7 @@
             "explorer": "https://etherscan.io/token/0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
             "externalId": "eigenlayer",
             "logoUri": "assets/cm2pciyfs018cuwospelp2kqt/logo.png",
-            "name": "Eigenlayer",
+            "name": "EigenCloud (prev. EigenLayer)",
             "status": "active",
             "symbol": "eigen",
             "type": "ERC20"
@@ -14257,7 +14257,7 @@
             "explorer": "https://etherscan.io/token/0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
             "externalId": "g-token",
             "logoUri": "assets/cm2pciyfw01neuwostuub45lq/logo.png",
-            "name": "Gravity",
+            "name": "Gravity (by Galxe)",
             "status": "active",
             "symbol": "g",
             "type": "ERC20"
@@ -14437,7 +14437,7 @@
             "explorer": "https://etherscan.io/token/0xc96de26018a54d51c097160568752c4e3bd6c364",
             "externalId": "ignition-fbtc",
             "logoUri": "assets/cm2pciyfx01t2uwost0wa69kt/logo.png",
-            "name": "Ignition FBTC",
+            "name": "Function FBTC",
             "status": "active",
             "symbol": "fbtc",
             "type": "ERC20"
@@ -14617,7 +14617,7 @@
             "explorer": "https://etherscan.io/token/0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
             "externalId": "kendu-inu",
             "logoUri": "assets/cm2pciyfy01yjuwos22trw5xb/logo.png",
-            "name": "Kendu Inu",
+            "name": "Kendu",
             "status": "active",
             "symbol": "kendu",
             "type": "ERC20"
@@ -14992,7 +14992,7 @@
             "explorer": "https://etherscan.io/token/0xf944e35f95e819e752f3ccb5faf40957d311e8c5",
             "externalId": "mocaverse",
             "logoUri": "assets/cm2pciyg102bvuwos83rdp84l/logo.png",
-            "name": "Moca Coin",
+            "name": "Moca Network",
             "status": "active",
             "symbol": "moca",
             "type": "ERC20"
@@ -15007,7 +15007,7 @@
             "explorer": "https://etherscan.io/token/0x3231cb76718cdef2155fc47b5286d82e6eda273f",
             "externalId": "monerium-eur-money",
             "logoUri": "assets/cm2pciyg202cquwosgg20th7v/logo.png",
-            "name": "Monerium EUR emoney",
+            "name": "Monerium EUR emoney [OLD]",
             "status": "active",
             "symbol": "eure",
             "type": "ERC20"
@@ -15140,9 +15140,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://etherscan.io/token/0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
-            "externalId": "near",
+            "externalId": "rainbow-bridged-near-ethereum",
             "logoUri": "assets/cm2pciyg202fjuwosh95itgoa/logo.png",
-            "name": "NEAR Protocol",
+            "name": "Rainbow Bridged Near (Ethereum)",
             "status": "active",
             "symbol": "near",
             "type": "ERC20"
@@ -15292,7 +15292,7 @@
             "explorer": "https://etherscan.io/token/0xabd4c63d2616a5201454168269031355f4764337",
             "externalId": "orderly-network",
             "logoUri": "assets/cm2pciyg402m4uwoskyj8anit/logo.png",
-            "name": "Orderly Network",
+            "name": "Orderly",
             "status": "active",
             "symbol": "order",
             "type": "ERC20"
@@ -15879,7 +15879,7 @@
             "logoUri": "assets/cm2pciyg8033ouwos7w7a784u/logo.png",
             "name": "Seedworld",
             "status": "active",
-            "symbol": "$sworld",
+            "symbol": "sworld",
             "type": "ERC20"
         },
         {
@@ -15922,7 +15922,7 @@
             "explorer": "https://etherscan.io/token/0xe2512a2f19f0388ad3d7a5263eaa82acd564827b",
             "externalId": "shido-2",
             "logoUri": "assets/cm2pciyg9035muwos4sm2oztc/logo.png",
-            "name": "Shido",
+            "name": "Shido Network",
             "status": "active",
             "symbol": "shido",
             "type": "ERC20"
@@ -16027,7 +16027,7 @@
             "explorer": "https://etherscan.io/token/0x7a56e1c57c7475ccf742a1832b028f0456652f97",
             "externalId": "solv-btc",
             "logoUri": "assets/cm2pciyg9038fuwos922m1bv1/logo.png",
-            "name": "Solv Protocol SolvBTC",
+            "name": "Solv Protocol BTC",
             "status": "active",
             "symbol": "solvbtc",
             "type": "ERC20"
@@ -16042,9 +16042,9 @@
             "explorer": "https://etherscan.io/token/0xd9d920aa40f578ab794426f5c90f6c731d159def",
             "externalId": "solv-protocol-solvbtc-bbn",
             "logoUri": "assets/cm2pciyga038iuwosqhpmvpfp/logo.png",
-            "name": "Solv Protocol SolvBTC.BBN",
+            "name": "Solv Protocol Staked BTC",
             "status": "active",
-            "symbol": "solvbtc.bbn",
+            "symbol": "xsolvbtc",
             "type": "ERC20"
         },
         {
@@ -16207,7 +16207,7 @@
             "explorer": "https://etherscan.io/token/0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
             "externalId": "suzuverse",
             "logoUri": "assets/cm2pciygb03e4uwosrcnprye7/logo.png",
-            "name": "Suzuverse",
+            "name": "AI Avatar",
             "status": "active",
             "symbol": "sgt",
             "type": "ERC20"
@@ -16312,7 +16312,7 @@
             "explorer": "https://etherscan.io/token/0xbaac2b4491727d78d2b78815144570b9f2fe8899",
             "externalId": "the-doge-nft",
             "logoUri": "assets/cm2pciygc03hkuwos0vnzykk0/logo.png",
-            "name": "The Doge NFT",
+            "name": "Own The Doge",
             "status": "active",
             "symbol": "dog",
             "type": "ERC20"
@@ -16477,9 +16477,9 @@
             "explorer": "https://etherscan.io/token/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
             "externalId": "usd0-liquid-bond",
             "logoUri": "assets/cm2pciyge03oouwos9yxtjegx/logo.png",
-            "name": "USD0 Liquid Bond",
+            "name": "Bond USD0",
             "status": "active",
-            "symbol": "usd0++",
+            "symbol": "busd0",
             "type": "ERC20"
         },
         {

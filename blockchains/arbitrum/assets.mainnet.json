@@ -112,7 +112,7 @@
             "explorer": "https://arbiscan.io/token/0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
             "externalId": "apex-token-2",
             "logoUri": "assets/clxd13ksp001ggbos4sv58s8n/logo.png",
-            "name": "ApeX",
+            "name": "APEX",
             "status": "active",
             "symbol": "apex",
             "type": "Arbitrum"
@@ -155,11 +155,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-            "externalId": "arbitrum-bridged-usdt-arbitrum",
+            "externalId": "usdt0",
             "logoUri": "assets/clxd13ksq001qgbosw0f2wb6b/logo.png",
-            "name": "USDT (Arbitrum)",
+            "name": "USDT0",
             "status": "active",
-            "symbol": "usdt",
+            "symbol": "usdt0",
             "type": "Arbitrum"
         },
         {
@@ -202,7 +202,7 @@
             "explorer": "https://arbiscan.io/token/0xe0ee18eacafddaeb38f8907c74347c44385578ab",
             "externalId": "axondao-governance-token",
             "logoUri": "assets/clxd13kss002egbosxzj6inoc/logo.png",
-            "name": "AxonDAO Governance Token",
+            "name": "AxonDAO Governance Token [OLD]",
             "status": "active",
             "symbol": "axgt",
             "type": "Arbitrum"
@@ -305,9 +305,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x2297aebd383787a160dd0d9f71508148769342e3",
-            "externalId": "bitcoin-avalanche-bridged-btc-b",
+            "externalId": "avalanche-bridged-btc-arbitrum-one",
             "logoUri": "assets/clxd13ksv002ygbos1fcyjfwm/logo.png",
-            "name": "Bitcoin Avalanche Bridged (BTC.b)",
+            "name": "Avalanche Bridged BTC (Arbitrum One)",
             "status": "active",
             "symbol": "btc.b",
             "type": "Arbitrum"
@@ -500,11 +500,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
-            "externalId": "connext",
+            "externalId": "everclear",
             "logoUri": "assets/clxd13kt00048gbosxp2vgk03/logo.png",
             "name": "Everclear",
             "status": "active",
-            "symbol": "next",
+            "symbol": "clear",
             "type": "Arbitrum"
         },
         {
@@ -575,9 +575,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-            "externalId": "dai",
+            "externalId": "makerdao-arbitrum-bridged-dai-arbitrum-one",
             "logoUri": "assets/clxd13kt2004ogbosg9xwvdor/logo.png",
-            "name": "Dai",
+            "name": "MakerDAO Arbitrum Bridged DAI (Arbitrum One)",
             "status": "active",
             "symbol": "dai",
             "type": "Arbitrum"
@@ -727,7 +727,7 @@
             "explorer": "https://arbiscan.io/token/0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
             "externalId": "frax",
             "logoUri": "assets/clxd13kt8006wgbosd2uluz6q/logo.png",
-            "name": "Frax",
+            "name": "Legacy Frax Dollar",
             "status": "active",
             "symbol": "frax",
             "type": "Arbitrum"
@@ -757,9 +757,9 @@
             "explorer": "https://arbiscan.io/token/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
             "externalId": "frax-share",
             "logoUri": "assets/clxd13kt90070gbos4c11sdyq/logo.png",
-            "name": "Frax Share",
+            "name": "Frax (prev. FXS)",
             "status": "active",
-            "symbol": "fxs",
+            "symbol": "frax",
             "type": "Arbitrum"
         },
         {
@@ -922,7 +922,7 @@
             "explorer": "https://arbiscan.io/token/0xa58663faef461761e44066ea26c1fcddf2927b80",
             "externalId": "kommunitas",
             "logoUri": "assets/clxd13ktg009igbos4330oshi/logo.png",
-            "name": "Kommunitas",
+            "name": "Kommunitas [OLD]",
             "status": "active",
             "symbol": "kom",
             "type": "Arbitrum"
@@ -1072,7 +1072,7 @@
             "explorer": "https://arbiscan.io/token/0x539bde0d7dbd336b79148aa742883198bbf60342",
             "externalId": "magic",
             "logoUri": "assets/clxd13ktk00akgbosmfr692mf/logo.png",
-            "name": "Magic",
+            "name": "Treasure",
             "status": "active",
             "symbol": "magic",
             "type": "Arbitrum"
@@ -1132,7 +1132,7 @@
             "explorer": "https://arbiscan.io/token/0x092baadb7def4c3981454dd9c0a0d7ff07bcfc86",
             "externalId": "morpheusai",
             "logoUri": "assets/clxd13ktn00bbgboshnnl6n0i/logo.png",
-            "name": "MorpheusAI",
+            "name": "Morpheus AI",
             "status": "active",
             "symbol": "mor",
             "type": "Arbitrum"
@@ -1162,7 +1162,7 @@
             "explorer": "https://arbiscan.io/token/0xa970af1a584579b618be4d69ad6f73459d112f95",
             "externalId": "nusd",
             "logoUri": "assets/clxd13kto00bwgbos438ygelb/logo.png",
-            "name": "sUSD",
+            "name": "Synthetix sUSD",
             "status": "active",
             "symbol": "susd",
             "type": "Arbitrum"
@@ -1357,7 +1357,7 @@
             "explorer": "https://arbiscan.io/token/0x18c14c2d707b2212e17d1579789fc06010cfca23",
             "externalId": "reserve-protocol-eth-plus",
             "logoUri": "assets/clxd13ktu00e1gbos9ic6cnpd/logo.png",
-            "name": "Reserve Protocol ETH Plus",
+            "name": "ETHPlus",
             "status": "active",
             "symbol": "eth+",
             "type": "Arbitrum"
@@ -1417,7 +1417,7 @@
             "explorer": "https://arbiscan.io/token/0x11bbf12363dc8375b78d2719395d505f52a02f68",
             "externalId": "route",
             "logoUri": "assets/clxd13ktw00efgbos19nxe8n3/logo.png",
-            "name": "Router Protocol",
+            "name": "Router Protocol [OLD]",
             "status": "active",
             "symbol": "route",
             "type": "Arbitrum"
@@ -1447,7 +1447,7 @@
             "explorer": "https://arbiscan.io/token/0xabd587f2607542723b17f14d00d99b987c29b074",
             "externalId": "smardex",
             "logoUri": "assets/clxd13ktx00f0gbos74r4icg0/logo.png",
-            "name": "SmarDex",
+            "name": "SMARDEX",
             "status": "active",
             "symbol": "sdex",
             "type": "Arbitrum"
@@ -1462,7 +1462,7 @@
             "explorer": "https://arbiscan.io/token/0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0",
             "externalId": "solv-btc",
             "logoUri": "assets/clxd13kty00f5gbosxzdf58z0/logo.png",
-            "name": "Solv Protocol solvBTC",
+            "name": "Solv Protocol BTC",
             "status": "active",
             "symbol": "solvbtc",
             "type": "Arbitrum"
@@ -1657,7 +1657,7 @@
             "explorer": "https://arbiscan.io/token/0xb59c8912c83157a955f9d715e556257f432c35d7",
             "externalId": "truflation",
             "logoUri": "assets/clxd13ku400gvgbospqj04r8r/logo.png",
-            "name": "Truflation",
+            "name": "TRUF.Network",
             "status": "active",
             "symbol": "truf",
             "type": "Arbitrum"
@@ -1700,11 +1700,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
-            "externalId": "usd",
+            "externalId": "overnight-fi-usd-arbitrum-one",
             "logoUri": "assets/clxd13ku500hcgbosz9bcnh3a/logo.png",
-            "name": "Overnight.fi USD+",
+            "name": "xUSD",
             "status": "active",
-            "symbol": "usd+",
+            "symbol": "xusd",
             "type": "Arbitrum"
         },
         {
@@ -1732,7 +1732,7 @@
             "explorer": "https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
             "externalId": "usd-coin-ethereum-bridged",
             "logoUri": "assets/clxd13ku600hegbosm1qm9is3/logo.png",
-            "name": "Bridged USDC (Arbitrum)",
+            "name": "Arbitrum Bridged USDC (Arbitrum)",
             "status": "active",
             "symbol": "usdc.e",
             "type": "Arbitrum"
@@ -1790,9 +1790,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-            "externalId": "weth",
+            "externalId": "arbitrum-bridged-weth-arbitrum-one",
             "logoUri": "assets/clxd13ku800hzgbosmws0cdo6/logo.png",
-            "name": "WETH",
+            "name": "Arbitrum Bridged WETH (Arbitrum One)",
             "status": "active",
             "symbol": "weth",
             "type": "Arbitrum"
@@ -1835,9 +1835,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-            "externalId": "wrapped-bitcoin",
+            "externalId": "arbitrum-bridged-wbtc-arbitrum-one",
             "logoUri": "assets/clxd13ku900ibgbosqwjhfzgf/logo.png",
-            "name": "Wrapped Bitcoin",
+            "name": "Arbitrum Bridged WBTC (Arbitrum One)",
             "status": "active",
             "symbol": "wbtc",
             "type": "Arbitrum"
@@ -1850,9 +1850,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
-            "externalId": "wrapped-eeth",
+            "externalId": "arbitrum-bridged-wrapped-eeth",
             "logoUri": "assets/clxd13ku900icgbosyznqcnl2/logo.png",
-            "name": "Wrapped eETH",
+            "name": "Arbitrum Bridged Wrapped eETH (Arbitrum)",
             "status": "active",
             "symbol": "weeth",
             "type": "Arbitrum"
@@ -1865,9 +1865,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x5979d7b546e38e414f7e9822514be443a4800529",
-            "externalId": "wrapped-steth",
+            "externalId": "arbitrum-bridged-wsteth-arbitrum",
             "logoUri": "assets/clxd13kua00iggbost4fppjh2/logo.png",
-            "name": "Wrapped stETH",
+            "name": "Arbitrum Bridged wstETH (Arbitrum)",
             "status": "active",
             "symbol": "wsteth",
             "type": "Arbitrum"
@@ -2060,9 +2060,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-            "externalId": "bridged-usde",
+            "externalId": "ethena-usde",
             "logoUri": "assets/cm2pcxho209heuwosug5yh1s8/logo.png",
-            "name": "Bridged USDe",
+            "name": "Ethena USDe",
             "status": "active",
             "symbol": "usde",
             "type": "Arbitrum"
@@ -2165,9 +2165,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-            "externalId": "kelpdao-bridged-rseth-arbitrum",
+            "externalId": "kelp-dao-restaked-eth",
             "logoUri": "assets/cm2pcxho309niuwosjjofc9s2/logo.png",
-            "name": "KelpDAO Bridged rsETH (Arbitrum)",
+            "name": "Kelp DAO Restaked ETH",
             "status": "active",
             "symbol": "rseth",
             "type": "Arbitrum"
@@ -2287,7 +2287,7 @@
             "explorer": "https://arbiscan.io/token/0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
             "externalId": "orderly-network",
             "logoUri": "assets/cm2pcxho309qruwos37mabzqv/logo.png",
-            "name": "Orderly Network",
+            "name": "Orderly",
             "status": "active",
             "symbol": "order",
             "type": "Arbitrum"
@@ -2379,7 +2379,7 @@
             "logoUri": "assets/cm2pcxho409tcuwosvvnop1ne/logo.png",
             "name": "Seedworld",
             "status": "active",
-            "symbol": "$sworld",
+            "symbol": "sworld",
             "type": "Arbitrum"
         },
         {
@@ -2407,9 +2407,9 @@
             "explorer": "https://arbiscan.io/token/0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab",
             "externalId": "solv-protocol-solvbtc-bbn",
             "logoUri": "assets/cm2pcxho409tpuwos2y3wl1zn/logo.png",
-            "name": "Solv Protocol SolvBTC.BBN",
+            "name": "Solv Protocol Staked BTC",
             "status": "active",
-            "symbol": "solvbtc.bbn",
+            "symbol": "xsolvbtc",
             "type": "Arbitrum"
         },
         {
@@ -2452,7 +2452,7 @@
             "explorer": "https://arbiscan.io/token/0x4425742f1ec8d98779690b5a3a6276db85ddc01a",
             "externalId": "the-doge-nft",
             "logoUri": "assets/cm2pcxho409v7uwosgykz41x2/logo.png",
-            "name": "The Doge NFT",
+            "name": "Own The Doge",
             "status": "active",
             "symbol": "dog",
             "type": "Arbitrum"

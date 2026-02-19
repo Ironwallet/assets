@@ -22,9 +22,9 @@
             "explorer": "https://tronscan.org/#/token20/TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
             "externalId": "wink",
             "logoUri": "assets/cldeo4das0000twuz35tgy1gl/logo.png",
-            "name": "WINK",
+            "name": "WINkLink",
             "status": "active",
-            "symbol": "WIN",
+            "symbol": "win",
             "type": "TRC20"
         },
         {
@@ -37,9 +37,9 @@
             "explorer": "https://tronscan.org/#/token20/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
             "externalId": "tether",
             "logoUri": "assets/cldeo4das0001twuzto18laqe/logo.png",
-            "name": "Tether USD",
+            "name": "Tether",
             "status": "active",
-            "symbol": "USDT",
+            "symbol": "usdt",
             "type": "TRC20"
         },
         {
@@ -52,9 +52,9 @@
             "explorer": "https://tronscan.org/#/token20/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
             "externalId": "wrapped-tron",
             "logoUri": "assets/cldeo4das0002twuz3z0czrwl/logo.png",
-            "name": "Wrapped TRX",
+            "name": "Wrapped Tron",
             "status": "active",
-            "symbol": "WTRX",
+            "symbol": "wtrx",
             "type": "TRC20"
         },
         {
@@ -67,9 +67,9 @@
             "explorer": "https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
             "externalId": "just",
             "logoUri": "assets/cldeo4das0003twuzr7smltlm/logo.png",
-            "name": "JUST GOV v1.0",
+            "name": "JUST",
             "status": "active",
-            "symbol": "JST",
+            "symbol": "jst",
             "type": "TRC20"
         },
         {
@@ -82,9 +82,9 @@
             "explorer": "https://tronscan.org/#/token20/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
             "externalId": "weth",
             "logoUri": "assets/cldeo4das0004twuzxbq8n4b6/logo.png",
-            "name": "Ethereum",
+            "name": "WETH",
             "status": "active",
-            "symbol": "ETH",
+            "symbol": "weth",
             "type": "TRC20"
         },
         {
@@ -97,9 +97,9 @@
             "explorer": "https://tronscan.org/#/token20/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
             "externalId": "apenft",
             "logoUri": "assets/cldeu26250006i0uzn9z2qgdk/logo.png",
-            "name": "APENFT",
+            "name": "AINFT",
             "status": "active",
-            "symbol": "NFT",
+            "symbol": "nft",
             "type": "TRC20"
         },
         {
@@ -112,9 +112,9 @@
             "explorer": "https://tronscan.org/#/token20/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
             "externalId": "sun-token",
             "logoUri": "assets/cldeu26250007i0uzc6gnsozt/logo.png",
-            "name": "SUN TOKEN",
+            "name": "Sun Token",
             "status": "active",
-            "symbol": "SUN",
+            "symbol": "sun",
             "type": "TRC20"
         },
         {
@@ -129,7 +129,7 @@
             "logoUri": "assets/cldeu2625000ai0uzzvj7187i/logo.png",
             "name": "BitTorrent",
             "status": "active",
-            "symbol": "BTT",
+            "symbol": "btt",
             "type": "TRC20"
         },
         {
@@ -144,7 +144,7 @@
             "logoUri": "assets/cldeu2625000bi0uzlj83tclk/logo.png",
             "name": "TrueUSD",
             "status": "active",
-            "symbol": "TUSD",
+            "symbol": "tusd",
             "type": "TRC20"
         },
         {
@@ -217,7 +217,7 @@
             "explorer": "https://tronscan.org/#/token20/TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt",
             "externalId": "whitebit",
             "logoUri": "assets/clh9gbnom0673b0g4yvuvik4x/logo.png",
-            "name": "WhiteBIT Token",
+            "name": "WhiteBIT Coin",
             "status": "active",
             "symbol": "wbt",
             "type": "TRC20"
@@ -232,9 +232,9 @@
             "explorer": "https://tronscan.org/#/token20/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
             "externalId": "usd-coin",
             "logoUri": "assets/cllmizivo000a34g53bkkduv4/logo.png",
-            "name": "INACTIVE USD Coin",
+            "name": "USDC",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc",
             "type": "TRC20"
         },
         {
@@ -307,7 +307,7 @@
             "explorer": "https://tronscan.org/#/token20/TGkxzkDKyMeq2T7edKnyjZoFypyzjkkssq",
             "externalId": "wrapped-staked-usdt",
             "logoUri": "assets/clswxofm906ly8cuh4s0eboln/logo.png",
-            "name": "Wrapped Staked Tether",
+            "name": "Wrapped Staked USDT",
             "status": "active",
             "symbol": "wstusdt",
             "type": "TRC20"

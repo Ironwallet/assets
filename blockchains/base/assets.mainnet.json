@@ -22,9 +22,9 @@
             "explorer": "https://basescan.org/token/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
             "externalId": "usd-coin",
             "logoUri": "assets/cmkxujgim0000ukfmjb1rs91q/logo.png",
-            "name": "USD Coin",
+            "name": "USDC",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc",
             "type": "Base"
         },
         {
@@ -3142,7 +3142,7 @@
             "explorer": "https://basescan.org/token/0x6ee7a6ed125619b9e83e4cff1778404a0947ff01",
             "externalId": "little",
             "logoUri": "assets/cmlb10fjc00yff0fmttagl9a6/logo.png",
-            "name": "LITTLE \u888b\u5b50",
+            "name": "LITTLE 袋子",
             "status": "active",
             "symbol": "bao",
             "type": "Base"

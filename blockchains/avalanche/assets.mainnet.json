@@ -24,7 +24,7 @@
             "logoUri": "assets/cldeqtkx60000m4uzetzrhxe2/logo.png",
             "name": "Wrapped AVAX",
             "status": "active",
-            "symbol": "WAVAX",
+            "symbol": "wavax",
             "type": "Avalanche"
         },
         {
@@ -37,9 +37,9 @@
             "explorer": "https://snowtrace.io/token/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
             "externalId": "usd-coin-avalanche-bridged-usdc-e",
             "logoUri": "assets/cldeqtkx70001m4uzxgqmuieh/logo.png",
-            "name": "USD Coin",
+            "name": "Avalanche Bridged USDC (Avalanche)",
             "status": "active",
-            "symbol": "USDC.e",
+            "symbol": "usdc.e",
             "type": "Avalanche"
         },
         {
@@ -50,11 +50,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0x130966628846BFd36ff31a822705796e8cb8C18D",
-            "externalId": "magic-internet-money",
+            "externalId": "magic-internet-money-avalanche",
             "logoUri": "assets/cldeqtkx70002m4uzz8jsnu1u/logo.png",
-            "name": "Magic Internet Money",
+            "name": "Magic Internet Money (Avalanche)",
             "status": "active",
-            "symbol": "MIM",
+            "symbol": "mim",
             "type": "Avalanche"
         },
         {
@@ -67,9 +67,9 @@
             "explorer": "https://snowtrace.io/token/0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "externalId": "tether-avalanche-bridged-usdt-e",
             "logoUri": "assets/cldeqtkx70003m4uzw65kl40q/logo.png",
-            "name": "Tether USD",
+            "name": "Avalanche Bridged USDT (Avalanche)",
             "status": "active",
-            "symbol": "USDT.e",
+            "symbol": "usdte",
             "type": "Avalanche"
         },
         {
@@ -80,11 +80,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-            "externalId": "weth",
+            "externalId": "avalanche-bridged-weth-avalanche",
             "logoUri": "assets/cldeqtkx70004m4uzgrggov2g/logo.png",
-            "name": "Wrapped Ether",
+            "name": "Avalanche Bridged WETH (Avalanche)",
             "status": "active",
-            "symbol": "WETH.e",
+            "symbol": "weth",
             "type": "Avalanche"
         },
         {
@@ -97,9 +97,9 @@
             "explorer": "https://snowtrace.io/token/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
             "externalId": "usd-coin",
             "logoUri": "assets/cldeqtkx70006m4uzn1g23910/logo.png",
-            "name": "USD Coin",
+            "name": "USDC",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc",
             "type": "Avalanche"
         },
         {
@@ -112,9 +112,9 @@
             "explorer": "https://snowtrace.io/token/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
             "externalId": "joe",
             "logoUri": "assets/cldeqtkx80008m4uzeor6qcfv/logo.png",
-            "name": "JoeToken",
+            "name": "JOE",
             "status": "active",
-            "symbol": "JOE",
+            "symbol": "joe",
             "type": "Avalanche"
         },
         {
@@ -125,11 +125,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-            "externalId": "dai",
+            "externalId": "avalanche-bridged-dai-avalanche",
             "logoUri": "assets/cldeqtkx80009m4uz00gql8ro/logo.png",
-            "name": "Dai Stablecoin",
+            "name": "Avalanche Bridged DAI (Avalanche)",
             "status": "active",
-            "symbol": "DAI.e",
+            "symbol": "dai",
             "type": "Avalanche"
         },
         {
@@ -140,11 +140,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0x50b7545627a5162F82A992c33b87aDc75187B218",
-            "externalId": "wrapped-bitcoin",
+            "externalId": "avalanche-old-bridged-wbtc-avalanche",
             "logoUri": "assets/cldeqtkx8000bm4uzhkq730ag/logo.png",
-            "name": "Wrapped BTC",
+            "name": "Avalanche Bridged WBTC (Avalanche)",
             "status": "active",
-            "symbol": "WBTC.e",
+            "symbol": "wbtc.e",
             "type": "Avalanche"
         },
         {
@@ -157,9 +157,9 @@
             "explorer": "https://snowtrace.io/token/0x5947BB275c521040051D82396192181b413227A3",
             "externalId": "chainlink",
             "logoUri": "assets/cldeqtkx8000cm4uz13hohlmp/logo.png",
-            "name": "Chainlink Token",
+            "name": "Chainlink",
             "status": "active",
-            "symbol": "LINK.e",
+            "symbol": "link",
             "type": "Avalanche"
         },
         {
@@ -172,9 +172,9 @@
             "explorer": "https://snowtrace.io/token/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
             "externalId": "tether",
             "logoUri": "assets/cldeqtkx9000km4uz31hb3pxj/logo.png",
-            "name": "TetherToken",
+            "name": "Tether",
             "status": "active",
-            "symbol": "USDt",
+            "symbol": "usdt",
             "type": "Avalanche"
         },
         {
@@ -185,11 +185,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0x264c1383EA520f73dd837F915ef3a732e204a493",
-            "externalId": "wbnb",
+            "externalId": "mutlichain-bridged-wbnb-avalanche",
             "logoUri": "assets/cldeqtkxa000om4uzp8lmh0fg/logo.png",
-            "name": "Binance",
+            "name": "Multichain Bridged WBNB (Avalanche C-Chain)",
             "status": "active",
-            "symbol": "BNB",
+            "symbol": "wbnb",
             "type": "Avalanche"
         },
         {
@@ -204,7 +204,7 @@
             "logoUri": "assets/cldeqtkxa000pm4uz56qwe6dh/logo.png",
             "name": "BENQI",
             "status": "active",
-            "symbol": "QI",
+            "symbol": "qi",
             "type": "Avalanche"
         },
         {
@@ -219,7 +219,7 @@
             "logoUri": "assets/cldeqtkxa000qm4uzkwnzl1d8/logo.png",
             "name": "GMX",
             "status": "active",
-            "symbol": "GMX",
+            "symbol": "gmx",
             "type": "Avalanche"
         },
         {
@@ -232,9 +232,9 @@
             "explorer": "https://snowtrace.io/token/0x152b9d0FdC40C096757F570A51E494bd4b943E50",
             "externalId": "bitcoin-avalanche-bridged-btc-b",
             "logoUri": "assets/cldeqtkxb000ym4uzazpfuq8z/logo.png",
-            "name": "Bitcoin",
+            "name": "Avalanche Bridged BTC (Avalanche)",
             "status": "active",
-            "symbol": "BTC.b",
+            "symbol": "btc.b",
             "type": "Avalanche"
         },
         {
@@ -247,9 +247,9 @@
             "explorer": "https://snowtrace.io/token/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
             "externalId": "stargate-finance",
             "logoUri": "assets/cldeqtkxc0016m4uz7h560vwi/logo.png",
-            "name": "StargateToken",
+            "name": "Stargate Finance",
             "status": "active",
-            "symbol": "STG",
+            "symbol": "stg",
             "type": "Avalanche"
         },
         {
@@ -262,9 +262,9 @@
             "explorer": "https://snowtrace.io/token/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
             "externalId": "roco-finance",
             "logoUri": "assets/cldeqtkxd0018m4uzlo5073gm/logo.png",
-            "name": "ROCO",
+            "name": "Roco Finance",
             "status": "active",
-            "symbol": "ROCO",
+            "symbol": "roco",
             "type": "Avalanche"
         },
         {
@@ -277,9 +277,9 @@
             "explorer": "https://snowtrace.io/token/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
             "externalId": "step-app-fitfi",
             "logoUri": "assets/cldeqtkxf001qm4uzozyeh3yp/logo.png",
-            "name": "STEP.APP",
+            "name": "Step App",
             "status": "active",
-            "symbol": "FITFI",
+            "symbol": "fitfi",
             "type": "Avalanche"
         },
         {
@@ -292,9 +292,9 @@
             "explorer": "https://snowtrace.io/token/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
             "externalId": "frax",
             "logoUri": "assets/cldeqtkxf001rm4uzyq2tincu/logo.png",
-            "name": "Frax",
+            "name": "Legacy Frax Dollar",
             "status": "active",
-            "symbol": "FRAX",
+            "symbol": "frax",
             "type": "Avalanche"
         },
         {
@@ -307,9 +307,9 @@
             "explorer": "https://snowtrace.io/token/0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
             "externalId": "aave",
             "logoUri": "assets/cldeqtkxi002dm4uzaowed1iu/logo.png",
-            "name": "Aave Token",
+            "name": "Aave",
             "status": "active",
-            "symbol": "AAVE.e",
+            "symbol": "aave",
             "type": "Avalanche"
         },
         {
@@ -322,9 +322,9 @@
             "explorer": "https://snowtrace.io/token/0x214DB107654fF987AD859F34125307783fC8e387",
             "externalId": "frax-share",
             "logoUri": "assets/cldeqtkxj002jm4uz46rkgoc6/logo.png",
-            "name": "Frax Share",
+            "name": "Frax (prev. FXS)",
             "status": "active",
-            "symbol": "FXS",
+            "symbol": "frax",
             "type": "Avalanche"
         },
         {
@@ -339,7 +339,7 @@
             "logoUri": "assets/cldeqtkxl002zm4uzqvikg2xg/logo.png",
             "name": "Synapse",
             "status": "active",
-            "symbol": "SYN",
+            "symbol": "syn",
             "type": "Avalanche"
         },
         {
@@ -352,9 +352,9 @@
             "explorer": "https://snowtrace.io/token/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
             "externalId": "spell-token",
             "logoUri": "assets/cldeqtkxm0035m4uzu8g59406/logo.png",
-            "name": "Spell Token",
+            "name": "Spell",
             "status": "active",
-            "symbol": "SPELL",
+            "symbol": "spell",
             "type": "Avalanche"
         },
         {
@@ -384,7 +384,7 @@
             "logoUri": "assets/cldeqtkxn003gm4uzp6pqo0m2/logo.png",
             "name": "XEN Crypto",
             "status": "active",
-            "symbol": "aXEN",
+            "symbol": "xen",
             "type": "Avalanche"
         },
         {
@@ -397,9 +397,9 @@
             "explorer": "https://snowtrace.io/token/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
             "externalId": "alpha-finance",
             "logoUri": "assets/cldeqtkxp003pm4uzv0cudd14/logo.png",
-            "name": "AlphaToken",
+            "name": "Stella",
             "status": "active",
-            "symbol": "ALPHA.e",
+            "symbol": "alpha",
             "type": "Avalanche"
         },
         {
@@ -412,9 +412,9 @@
             "explorer": "https://snowtrace.io/token/0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
             "externalId": "ampleforth",
             "logoUri": "assets/cldeqtkxv004om4uzluawitv2/logo.png",
-            "name": "Ampleforth secured by Meter Passport",
+            "name": "Ampleforth",
             "status": "active",
-            "symbol": "AMPL",
+            "symbol": "ampl",
             "type": "Avalanche"
         },
         {
@@ -427,9 +427,9 @@
             "explorer": "https://snowtrace.io/token/0x8b82A291F83ca07Af22120ABa21632088fC92931",
             "externalId": "ethereum-wormhole",
             "logoUri": "assets/cldev57hi0043w0uz5lad2rus/logo.png",
-            "name": "Wrapped Ether (Wormhole)",
+            "name": "Ethereum (Wormhole)",
             "status": "active",
-            "symbol": "WETH",
+            "symbol": "eth",
             "type": "Avalanche"
         },
         {
@@ -442,9 +442,9 @@
             "explorer": "https://snowtrace.io/token/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
             "externalId": "sushi",
             "logoUri": "assets/cldev57ju004qw0uzo49jdn6i/logo.png",
-            "name": "SushiToken",
+            "name": "Sushi",
             "status": "active",
-            "symbol": "SUSHI.e",
+            "symbol": "sushi",
             "type": "Avalanche"
         },
         {
@@ -459,7 +459,7 @@
             "logoUri": "assets/cldev57xg007ow0uz8y6lsiz6/logo.png",
             "name": "TrueUSD",
             "status": "active",
-            "symbol": "TUSD",
+            "symbol": "tusd",
             "type": "Avalanche"
         },
         {
@@ -472,9 +472,9 @@
             "explorer": "https://snowtrace.io/token/0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
             "externalId": "kyber-network-crystal",
             "logoUri": "assets/cldev57ym007ww0uzhjrwu9f4/logo.png",
-            "name": "Kyber Network Crystal v2",
+            "name": "Kyber Network Crystal",
             "status": "active",
-            "symbol": "KNC",
+            "symbol": "knc",
             "type": "Avalanche"
         },
         {
@@ -487,9 +487,9 @@
             "explorer": "https://snowtrace.io/token/0xc7B5D72C836e718cDA8888eaf03707fAef675079",
             "externalId": "trustswap",
             "logoUri": "assets/cldev583w008ow0uzxrlydbu4/logo.png",
-            "name": "TrustSwap Token",
+            "name": "TrustSwap",
             "status": "active",
-            "symbol": "SWAP.e",
+            "symbol": "swap",
             "type": "Avalanche"
         },
         {
@@ -502,9 +502,9 @@
             "explorer": "https://snowtrace.io/token/0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
             "externalId": "woo-network",
             "logoUri": "assets/cldev587x009aw0uz6nbsaoa8/logo.png",
-            "name": "Wootrade Network",
+            "name": "WOO",
             "status": "active",
-            "symbol": "WOO.e",
+            "symbol": "woo",
             "type": "Avalanche"
         },
         {
@@ -519,7 +519,7 @@
             "logoUri": "assets/cldev58ax009qw0uzn9994mek/logo.png",
             "name": "Uniswap",
             "status": "active",
-            "symbol": "UNI.e",
+            "symbol": "uni",
             "type": "Avalanche"
         },
         {
@@ -530,11 +530,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
-            "externalId": "binance-usd",
+            "externalId": "binance-peg-busd",
             "logoUri": "assets/cldev58dp00a6w0uzgja3vqpo/logo.png",
-            "name": "BUSD Token",
+            "name": "Binance-Peg BUSD",
             "status": "active",
-            "symbol": "BUSD",
+            "symbol": "busd",
             "type": "Avalanche"
         },
         {
@@ -562,9 +562,9 @@
             "explorer": "https://snowtrace.io/token/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
             "externalId": "ferrum-network",
             "logoUri": "assets/cldev58y400cww0uzlw5921ub/logo.png",
-            "name": "Ferrum Network Token",
+            "name": "Ferrum Network",
             "status": "active",
-            "symbol": "FRM",
+            "symbol": "frm",
             "type": "Avalanche"
         },
         {
@@ -579,7 +579,7 @@
             "logoUri": "assets/cldev594i00dsw0uztvoxkj38/logo.png",
             "name": "DEAPCOIN",
             "status": "active",
-            "symbol": "DEP",
+            "symbol": "dep",
             "type": "Avalanche"
         },
         {
@@ -590,11 +590,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0x596fa47043f99a4e0f122243b841e55375cde0d2",
-            "externalId": "0x",
+            "externalId": "0x-protocol-avalanche-bridged-zrx-e",
             "logoUri": "assets/clh9gbun3067cb0g4rvndlc02/logo.png",
-            "name": "0x Protocol",
+            "name": "Avalanche Bridged ZRX (Avalanche)",
             "status": "active",
-            "symbol": "zrx",
+            "symbol": "zrx.e",
             "type": "Avalanche"
         },
         {
@@ -622,7 +622,7 @@
             "explorer": "https://snowtrace.io/token/0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
             "externalId": "allianceblock-nexera",
             "logoUri": "assets/clh9gbun5067sb0g4p8ewkewl/logo.png",
-            "name": "AllianceBlock Nexera",
+            "name": "Nexera",
             "status": "active",
             "symbol": "nxra",
             "type": "Avalanche"
@@ -667,7 +667,7 @@
             "explorer": "https://snowtrace.io/token/0xfab550568c688d5d8a52c7d794cb93edc26ec0ec",
             "externalId": "axlusdc",
             "logoUri": "assets/clh9gbun6068ib0g4u07hov5t/logo.png",
-            "name": "Axelar USDC",
+            "name": "Axelar Bridged USDC",
             "status": "active",
             "symbol": "axlusdc",
             "type": "Avalanche"
@@ -772,7 +772,7 @@
             "explorer": "https://snowtrace.io/token/0xbec243c995409e6520d7c41e404da5deba4b209b",
             "externalId": "havven",
             "logoUri": "assets/clh9gbunc06b9b0g49hvs4ngo/logo.png",
-            "name": "Synthetix Network",
+            "name": "Synthetix",
             "status": "active",
             "symbol": "snx",
             "type": "Avalanche"
@@ -907,7 +907,7 @@
             "explorer": "https://snowtrace.io/token/0xb24ca28d4e2742907115fecda335b40dbda07a4c",
             "externalId": "usd-coin-wormhole-from-ethereum",
             "logoUri": "assets/clh9gbunn06fyb0g4rrdscb50/logo.png",
-            "name": "USD Coin (Wormhole from Ethereum)",
+            "name": "Bridged USD Coin (Wormhole Ethereum)",
             "status": "active",
             "symbol": "usdcet",
             "type": "Avalanche"
@@ -1102,7 +1102,7 @@
             "explorer": "https://snowtrace.io/token/0x872952d3c1caf944852c5adda65633f1ef218a26",
             "externalId": "liquid-crypto",
             "logoUri": "assets/clswxogb706rq8cuhw50qgrow/logo.png",
-            "name": "Liquid Crypto",
+            "name": "Reddex",
             "status": "active",
             "symbol": "lqdx",
             "type": "Avalanche"
@@ -1175,11 +1175,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://snowtrace.io/token/0xa77e70d0af1ac7ff86726740db1bd065c3566937",
-            "externalId": "playa3ull-games-2",
+            "externalId": "wrapped-3ull",
             "logoUri": "assets/clswxogb906to8cuht6tyyc61/logo.png",
-            "name": "PLAYA3ULL GAMES",
+            "name": "Wrapped 3ULL",
             "status": "active",
-            "symbol": "3ull",
+            "symbol": "w3ull",
             "type": "Avalanche"
         },
         {
@@ -1192,7 +1192,7 @@
             "explorer": "https://snowtrace.io/token/0xf44ff799ea2bbfec96f9a50498209aac3c2b3b8b",
             "externalId": "route",
             "logoUri": "assets/clswxogb906u88cuhnqnk6o9b/logo.png",
-            "name": "Router Protocol",
+            "name": "Router Protocol [OLD]",
             "status": "active",
             "symbol": "route",
             "type": "Avalanche"
@@ -1222,9 +1222,9 @@
             "explorer": "https://snowtrace.io/token/0xfe6b19286885a4f7f55adad09c3cd1f906d2478f",
             "externalId": "sol-wormhole",
             "logoUri": "assets/clswxogb906ur8cuhahkzyif8/logo.png",
-            "name": "SOL (Wormhole)",
+            "name": "Wormhole Bridged WSOL",
             "status": "active",
-            "symbol": "sol",
+            "symbol": "wsol",
             "type": "Avalanche"
         },
         {
@@ -1297,7 +1297,7 @@
             "explorer": "https://snowtrace.io/token/0xc0fbc4967259786c743361a5885ef49380473dcf",
             "externalId": "aleph",
             "logoUri": "assets/cm2pcnuzv06i8uwoshwo14xf4/logo.png",
-            "name": "Aleph.im",
+            "name": "Aleph Cloud",
             "status": "active",
             "symbol": "aleph",
             "type": "Avalanche"
@@ -1357,9 +1357,9 @@
             "explorer": "https://snowtrace.io/token/0xa25eaf2906fa1a3a13edac9b9657108af7b703e3",
             "externalId": "gogopool-ggavax",
             "logoUri": "assets/cm2pcnuzw06m2uwosqhklp4ch/logo.png",
-            "name": "GoGoPool ggAVAX",
+            "name": "Hypha Staked AVAX",
             "status": "active",
-            "symbol": "ggavax",
+            "symbol": "stavax",
             "type": "Avalanche"
         },
         {
@@ -1449,7 +1449,7 @@
             "logoUri": "assets/cm2pcnuzx06qcuwoskzosn37b/logo.png",
             "name": "Seedworld",
             "status": "active",
-            "symbol": "$sworld",
+            "symbol": "sworld",
             "type": "Avalanche"
         },
         {
@@ -1462,7 +1462,7 @@
             "explorer": "https://snowtrace.io/token/0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
             "externalId": "solv-btc",
             "logoUri": "assets/cm2pcnuzx06qpuwosdwtd7vu8/logo.png",
-            "name": "Solv Protocol SolvBTC",
+            "name": "Solv Protocol BTC",
             "status": "active",
             "symbol": "solvbtc",
             "type": "Avalanche"
@@ -1477,9 +1477,9 @@
             "explorer": "https://snowtrace.io/token/0xcc0966d8418d412c599a6421b760a847eb169a8c",
             "externalId": "solv-protocol-solvbtc-bbn",
             "logoUri": "assets/cm2pcnuzx06qquwose34743si/logo.png",
-            "name": "Solv Protocol SolvBTC.BBN",
+            "name": "Solv Protocol Staked BTC",
             "status": "active",
-            "symbol": "solvbtc.bbn",
+            "symbol": "xsolvbtc",
             "type": "Avalanche"
         },
         {

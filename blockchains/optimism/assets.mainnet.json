@@ -230,11 +230,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://optimistic.etherscan.io/token/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
-            "externalId": "connext",
+            "externalId": "everclear",
             "logoUri": "assets/cm1e583hq001m0hp9knnftu4y/logo.png",
             "name": "Everclear",
             "status": "active",
-            "symbol": "next",
+            "symbol": "clear",
             "type": "Optimism"
         },
         {
@@ -307,7 +307,7 @@
             "explorer": "https://optimistic.etherscan.io/token/0x2e3d870790dc77a83dd1d18184acc7439a53f475",
             "externalId": "frax",
             "logoUri": "assets/cm1e583hq002e0hp9cvan4fnd/logo.png",
-            "name": "Frax",
+            "name": "Legacy Frax Dollar",
             "status": "active",
             "symbol": "frax",
             "type": "Optimism"
@@ -367,7 +367,7 @@
             "explorer": "https://optimistic.etherscan.io/token/0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
             "externalId": "havven",
             "logoUri": "assets/cm1e583hq002q0hp9zji3wx77/logo.png",
-            "name": "Synthetix Network",
+            "name": "Synthetix",
             "status": "active",
             "symbol": "snx",
             "type": "Optimism"
@@ -485,9 +485,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://optimistic.etherscan.io/token/0x68f180fcce6836688e9084f035309e29bf0a2095",
-            "externalId": "optimism-bridged-wbtc-optimism",
+            "externalId": "wrapped-bitcoin",
             "logoUri": "assets/cm1e583hq00450hp9sx605w91/logo.png",
-            "name": "Optimism Bridged WBTC (Optimism)",
+            "name": "Wrapped Bitcoin",
             "status": "active",
             "symbol": "wbtc",
             "type": "Optimism"
@@ -502,7 +502,7 @@
             "explorer": "https://optimistic.etherscan.io/token/0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
             "externalId": "orderly-network",
             "logoUri": "assets/cm1e583hq00460hp93spie6gu/logo.png",
-            "name": "Orderly Network",
+            "name": "Orderly",
             "status": "active",
             "symbol": "order",
             "type": "Optimism"
@@ -635,9 +635,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://optimistic.etherscan.io/token/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
-            "externalId": "susd-optimism",
+            "externalId": "nusd",
             "logoUri": "assets/cm1e583hr005g0hp9jeq0lin1/logo.png",
-            "name": "sUSD (Optimism)",
+            "name": "Synthetix sUSD",
             "status": "active",
             "symbol": "susd",
             "type": "Optimism"
@@ -697,7 +697,7 @@
             "explorer": "https://optimistic.etherscan.io/token/0x8f69ee043d52161fd29137aedf63f5e70cd504d5",
             "externalId": "the-doge-nft",
             "logoUri": "assets/cm1e583hr005n0hp9m6ybqgoe/logo.png",
-            "name": "The Doge NFT",
+            "name": "Own The Doge",
             "status": "active",
             "symbol": "dog",
             "type": "Optimism"
@@ -815,9 +815,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://optimistic.etherscan.io/token/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
-            "externalId": "wrapped-steth",
+            "externalId": "superbridge-bridged-wsteth-optimism",
             "logoUri": "assets/cm1e583hr00660hp9v8zh8e0o/logo.png",
-            "name": "Wrapped stETH",
+            "name": "Superbridge Bridged wstETH (Optimism)",
             "status": "active",
             "symbol": "wsteth",
             "type": "Optimism"

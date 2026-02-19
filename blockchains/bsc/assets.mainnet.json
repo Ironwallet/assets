@@ -24,7 +24,7 @@
             "logoUri": "assets/cldd7liiq0000kguz3her3uhb/logo.png",
             "name": "Wrapped BNB",
             "status": "active",
-            "symbol": "WBNB",
+            "symbol": "wbnb",
             "type": "BEP20"
         },
         {
@@ -35,11 +35,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-            "externalId": "binance-usd",
+            "externalId": "binance-peg-busd",
             "logoUri": "assets/cldd7liiq0001kguzw9to400v/logo.png",
-            "name": "BUSD Token",
+            "name": "Binance-Peg BUSD",
             "status": "active",
-            "symbol": "BUSD",
+            "symbol": "busd",
             "type": "BEP20"
         },
         {
@@ -50,11 +50,11 @@
             "default": true,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
-            "externalId": "tether",
+            "externalId": "binance-bridged-usdt-bnb-smart-chain",
             "logoUri": "assets/cldd7liiq0002kguz3skrqava/logo.png",
-            "name": "Tether USD",
+            "name": "Binance Bridged USDT (BNB Smart Chain)",
             "status": "active",
-            "symbol": "USDT",
+            "symbol": "bsc-usd",
             "type": "BEP20"
         },
         {
@@ -67,9 +67,9 @@
             "explorer": "https://bscscan.com/token/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
             "externalId": "pancakeswap-token",
             "logoUri": "assets/cldd7liiq0003kguzaddys1t9/logo.png",
-            "name": "PancakeSwap Token",
+            "name": "PancakeSwap",
             "status": "active",
-            "symbol": "Cake",
+            "symbol": "cake",
             "type": "BEP20"
         },
         {
@@ -80,11 +80,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-            "externalId": "weth",
+            "externalId": "binance-peg-weth",
             "logoUri": "assets/cldd7liir0004kguzahlvzvr3/logo.png",
-            "name": "Ethereum Token",
+            "name": "Binance-Peg WETH",
             "status": "active",
-            "symbol": "ETH",
+            "symbol": "weth",
             "type": "BEP20"
         },
         {
@@ -95,11 +95,11 @@
             "default": true,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-            "externalId": "usd-coin",
+            "externalId": "binance-bridged-usdc-bnb-smart-chain",
             "logoUri": "assets/cldd7liir0005kguz080gfiyj/logo.png",
-            "name": "USD Coin",
+            "name": "Binance Bridged USDC (BNB Smart Chain)",
             "status": "active",
-            "symbol": "USDC",
+            "symbol": "usdc",
             "type": "BEP20"
         },
         {
@@ -112,9 +112,9 @@
             "explorer": "https://bscscan.com/token/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
             "externalId": "binance-bitcoin",
             "logoUri": "assets/cldd7liir0006kguzbvyht0f9/logo.png",
-            "name": "BTCB Token",
+            "name": "Binance Bitcoin",
             "status": "active",
-            "symbol": "BTCB",
+            "symbol": "btcb",
             "type": "BEP20"
         },
         {
@@ -127,9 +127,9 @@
             "explorer": "https://bscscan.com/token/0x12BB890508c125661E03b09EC06E404bc9289040",
             "externalId": "radio-caca",
             "logoUri": "assets/cldd7liir0007kguzawcdr9vw/logo.png",
-            "name": "Radio Caca V2",
+            "name": "Radio Caca",
             "status": "active",
-            "symbol": "RACA",
+            "symbol": "raca",
             "type": "BEP20"
         },
         {
@@ -144,7 +144,7 @@
             "logoUri": "assets/cldd7liir0008kguznmsiqrdj/logo.png",
             "name": "Mobox",
             "status": "active",
-            "symbol": "MBOX",
+            "symbol": "mbox",
             "type": "BEP20"
         },
         {
@@ -157,9 +157,9 @@
             "explorer": "https://bscscan.com/token/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
             "externalId": "alpaca-finance",
             "logoUri": "assets/cldd7liit000bkguzm881wtq5/logo.png",
-            "name": "AlpacaToken",
+            "name": "Alpaca Finance",
             "status": "active",
-            "symbol": "ALPACA",
+            "symbol": "alpaca",
             "type": "BEP20"
         },
         {
@@ -174,7 +174,7 @@
             "logoUri": "assets/cldd7liit000dkguz9htiatnn/logo.png",
             "name": "Venus",
             "status": "active",
-            "symbol": "XVS",
+            "symbol": "xvs",
             "type": "BEP20"
         },
         {
@@ -185,11 +185,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-            "externalId": "dai",
+            "externalId": "binance-peg-dai",
             "logoUri": "assets/cldd7liiu000kkguzuaejy72s/logo.png",
-            "name": "Dai Token",
+            "name": "Binance-Peg DAI",
             "status": "active",
-            "symbol": "DAI",
+            "symbol": "dai",
             "type": "BEP20"
         },
         {
@@ -204,7 +204,7 @@
             "logoUri": "assets/cldd7liiu000mkguz6h2cbc09/logo.png",
             "name": "Baby Doge Coin",
             "status": "active",
-            "symbol": "BabyDoge",
+            "symbol": "babydoge",
             "type": "BEP20"
         },
         {
@@ -217,9 +217,9 @@
             "explorer": "https://bscscan.com/token/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
             "externalId": "binance-peg-xrp",
             "logoUri": "assets/cldd7liiu000rkguzi03pen64/logo.png",
-            "name": "XRP Token",
+            "name": "Binance-Peg XRP",
             "status": "active",
-            "symbol": "XRP",
+            "symbol": "xrp",
             "type": "BEP20"
         },
         {
@@ -232,9 +232,9 @@
             "explorer": "https://bscscan.com/token/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
             "externalId": "safepal",
             "logoUri": "assets/cldd7liiw0010kguz4hwvvebs/logo.png",
-            "name": "SafePal Token",
+            "name": "SafePal",
             "status": "active",
-            "symbol": "SFP",
+            "symbol": "sfp",
             "type": "BEP20"
         },
         {
@@ -247,9 +247,9 @@
             "explorer": "https://bscscan.com/token/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
             "externalId": "chainlink",
             "logoUri": "assets/cldd7liiw0011kguze1afe4qo/logo.png",
-            "name": "ChainLink Token",
+            "name": "Chainlink",
             "status": "active",
-            "symbol": "LINK",
+            "symbol": "link",
             "type": "BEP20"
         },
         {
@@ -262,9 +262,9 @@
             "explorer": "https://bscscan.com/token/0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
             "externalId": "stepn",
             "logoUri": "assets/cldd7liiw0014kguz4h416lld/logo.png",
-            "name": "Green Metaverse Token",
+            "name": "GMT",
             "status": "active",
-            "symbol": "GMT",
+            "symbol": "gmt",
             "type": "BEP20"
         },
         {
@@ -277,9 +277,9 @@
             "explorer": "https://bscscan.com/token/0xAC51066d7bEC65Dc4589368da368b212745d63E8",
             "externalId": "my-neighbor-alice",
             "logoUri": "assets/cldd7liiw0017kguz0ubgt8w1/logo.png",
-            "name": "ALICE",
+            "name": "My Neighbor Alice",
             "status": "active",
-            "symbol": "ALICE",
+            "symbol": "alice",
             "type": "BEP20"
         },
         {
@@ -294,7 +294,7 @@
             "logoUri": "assets/cldd7liiw0018kguzfru18e3z/logo.png",
             "name": "Coin98",
             "status": "active",
-            "symbol": "C98",
+            "symbol": "c98",
             "type": "BEP20"
         },
         {
@@ -309,7 +309,7 @@
             "logoUri": "assets/cldd7liiw0019kguzm9986vky/logo.png",
             "name": "Altura",
             "status": "active",
-            "symbol": "ALU",
+            "symbol": "alu",
             "type": "BEP20"
         },
         {
@@ -339,7 +339,7 @@
             "logoUri": "assets/cldd7liiy001ekguztswk05kx/logo.png",
             "name": "Uniswap",
             "status": "active",
-            "symbol": "UNI",
+            "symbol": "uni",
             "type": "BEP20"
         },
         {
@@ -354,7 +354,7 @@
             "logoUri": "assets/cldd7liiy001hkguzz1icmtjt/logo.png",
             "name": "Trust Wallet",
             "status": "active",
-            "symbol": "TWT",
+            "symbol": "twt",
             "type": "BEP20"
         },
         {
@@ -367,9 +367,9 @@
             "explorer": "https://bscscan.com/token/0x2222227E22102Fe3322098e4CBfE18cFebD57c95",
             "externalId": "alien-worlds",
             "logoUri": "assets/cldd7liiy001jkguzz01qgv98/logo.png",
-            "name": "Alien Worlds Trilium",
+            "name": "Alien Worlds",
             "status": "active",
-            "symbol": "TLM",
+            "symbol": "tlm",
             "type": "BEP20"
         },
         {
@@ -382,9 +382,9 @@
             "explorer": "https://bscscan.com/token/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
             "externalId": "chromaway",
             "logoUri": "assets/cldd7liiy001mkguzq9zhwwnn/logo.png",
-            "name": "Chroma",
+            "name": "Chromia",
             "status": "active",
-            "symbol": "CHR",
+            "symbol": "chr",
             "type": "BEP20"
         },
         {
@@ -397,9 +397,9 @@
             "explorer": "https://bscscan.com/token/0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
             "externalId": "tranchess",
             "logoUri": "assets/cldd7liiy001nkguzby4jij81/logo.png",
-            "name": "Chess",
+            "name": "Tranchess",
             "status": "active",
-            "symbol": "CHESS",
+            "symbol": "chess",
             "type": "BEP20"
         },
         {
@@ -412,9 +412,9 @@
             "explorer": "https://bscscan.com/token/0x475bFaa1848591ae0E6aB69600f48d828f61a80E",
             "externalId": "everdome",
             "logoUri": "assets/cldd7liiy001okguzn84i2f84/logo.png",
-            "name": "Everdome",
+            "name": "Hum(AI)n Web3",
             "status": "active",
-            "symbol": "DOME",
+            "symbol": "dome",
             "type": "BEP20"
         },
         {
@@ -427,9 +427,9 @@
             "explorer": "https://bscscan.com/token/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
             "externalId": "swipe",
             "logoUri": "assets/cldd7liiy001pkguzq1n92twr/logo.png",
-            "name": "Swipe",
+            "name": "Solar",
             "status": "active",
-            "symbol": "SXP",
+            "symbol": "sxp",
             "type": "BEP20"
         },
         {
@@ -442,9 +442,9 @@
             "explorer": "https://bscscan.com/token/0x8595F9dA7b868b1822194fAEd312235E43007b49",
             "externalId": "bittorrent-old",
             "logoUri": "assets/cldd7lij1001ykguzvebwsl6x/logo.png",
-            "name": "BitTorrent",
+            "name": "BitTorrent [OLD]",
             "status": "active",
-            "symbol": "BTT",
+            "symbol": "bttold",
             "type": "BEP20"
         },
         {
@@ -457,9 +457,9 @@
             "explorer": "https://bscscan.com/token/0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
             "externalId": "tokocrypto",
             "logoUri": "assets/cldd7lij1001zkguzla5ubgi2/logo.png",
-            "name": "Tokocrypto Token",
+            "name": "Tokocrypto",
             "status": "active",
-            "symbol": "TKO",
+            "symbol": "tko",
             "type": "BEP20"
         },
         {
@@ -472,9 +472,9 @@
             "explorer": "https://bscscan.com/token/0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
             "externalId": "mines-of-dalarnia",
             "logoUri": "assets/cldd7lij20027kguzj99l7uqx/logo.png",
-            "name": "Dalarnia",
+            "name": "Mines of Dalarnia",
             "status": "active",
-            "symbol": "DAR",
+            "symbol": "dar",
             "type": "BEP20"
         },
         {
@@ -487,9 +487,9 @@
             "explorer": "https://bscscan.com/token/0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
             "externalId": "alpha-finance",
             "logoUri": "assets/cldd7lij3002ckguzwc261jp7/logo.png",
-            "name": "AlphaToken",
+            "name": "Stella",
             "status": "active",
-            "symbol": "ALPHA",
+            "symbol": "alpha",
             "type": "BEP20"
         },
         {
@@ -502,9 +502,9 @@
             "explorer": "https://bscscan.com/token/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
             "externalId": "axie-infinity",
             "logoUri": "assets/cldd7lij3002dkguzwfnmje9v/logo.png",
-            "name": "Axie Infinity Shard",
+            "name": "Axie Infinity",
             "status": "active",
-            "symbol": "AXS",
+            "symbol": "axs",
             "type": "BEP20"
         },
         {
@@ -517,9 +517,9 @@
             "explorer": "https://bscscan.com/token/0x762539b45A1dCcE3D36d080F74d1AED37844b878",
             "externalId": "linear",
             "logoUri": "assets/cldd7lij3002fkguzecux5pkg/logo.png",
-            "name": "Linear Token",
+            "name": "Linear",
             "status": "active",
-            "symbol": "LINA",
+            "symbol": "lina",
             "type": "BEP20"
         },
         {
@@ -534,7 +534,7 @@
             "logoUri": "assets/cldd7lij3002ikguzo00gjhhj/logo.png",
             "name": "Velas",
             "status": "active",
-            "symbol": "VLX",
+            "symbol": "vlx",
             "type": "BEP20"
         },
         {
@@ -547,9 +547,9 @@
             "explorer": "https://bscscan.com/token/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
             "externalId": "sushi",
             "logoUri": "assets/cldd7lij4002pkguz1pmxg3vr/logo.png",
-            "name": "SushiToken",
+            "name": "Sushi",
             "status": "active",
-            "symbol": "SUSHI",
+            "symbol": "sushi",
             "type": "BEP20"
         },
         {
@@ -560,11 +560,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x14016E85a25aeb13065688cAFB43044C2ef86784",
-            "externalId": "true-usd",
+            "externalId": "bridged-trueusd",
             "logoUri": "assets/cldd7lij4002skguzth448h2r/logo.png",
-            "name": "TrueUSD-old",
+            "name": "Bridged TrueUSD",
             "status": "active",
-            "symbol": "TUSD",
+            "symbol": "tusd",
             "type": "BEP20"
         },
         {
@@ -592,9 +592,9 @@
             "explorer": "https://bscscan.com/token/0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
             "externalId": "ceek",
             "logoUri": "assets/cldd7lij60031kguzv7qsy40o/logo.png",
-            "name": "CEEK",
+            "name": "CEEK Smart VR",
             "status": "active",
-            "symbol": "CEEK",
+            "symbol": "ceek",
             "type": "BEP20"
         },
         {
@@ -607,9 +607,9 @@
             "explorer": "https://bscscan.com/token/0xfb62AE373acA027177D1c18Ee0862817f9080d08",
             "externalId": "my-defi-pet",
             "logoUri": "assets/cldd7lij70036kguzzollc68r/logo.png",
-            "name": "My DeFi Pet Token",
+            "name": "My DeFi Pet",
             "status": "active",
-            "symbol": "DPET",
+            "symbol": "dpet",
             "type": "BEP20"
         },
         {
@@ -622,9 +622,9 @@
             "explorer": "https://bscscan.com/token/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
             "externalId": "dodo",
             "logoUri": "assets/cldd7lij70039kguzt8349t25/logo.png",
-            "name": "DODO bird",
+            "name": "DODO",
             "status": "active",
-            "symbol": "DODO",
+            "symbol": "dodo",
             "type": "BEP20"
         },
         {
@@ -639,7 +639,7 @@
             "logoUri": "assets/cldd7lij8003dkguzia62j6hi/logo.png",
             "name": "Alvey Chain",
             "status": "active",
-            "symbol": "wALV",
+            "symbol": "walv",
             "type": "BEP20"
         },
         {
@@ -652,9 +652,9 @@
             "explorer": "https://bscscan.com/token/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
             "externalId": "binance-peg-litecoin",
             "logoUri": "assets/cldd7lij9003jkguzy847jlv3/logo.png",
-            "name": "Litecoin Token",
+            "name": "Binance-Peg Litecoin",
             "status": "active",
-            "symbol": "LTC",
+            "symbol": "ltc",
             "type": "BEP20"
         },
         {
@@ -667,9 +667,9 @@
             "explorer": "https://bscscan.com/token/0x6679eB24F59dFe111864AEc72B443d1Da666B360",
             "externalId": "ariva",
             "logoUri": "assets/cldd7lij9003mkguzy0p5ni9g/logo.png",
-            "name": "ARIVA",
+            "name": "Ariva",
             "status": "active",
-            "symbol": "ARV",
+            "symbol": "arv",
             "type": "BEP20"
         },
         {
@@ -682,9 +682,9 @@
             "explorer": "https://bscscan.com/token/0xa2B726B1145A4773F68593CF171187d8EBe4d495",
             "externalId": "injective-protocol",
             "logoUri": "assets/cldd7lij9003nkguzh4qo7uhb/logo.png",
-            "name": "Injective Protocol",
+            "name": "Injective",
             "status": "active",
-            "symbol": "INJ",
+            "symbol": "inj",
             "type": "BEP20"
         },
         {
@@ -697,9 +697,9 @@
             "explorer": "https://bscscan.com/token/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
             "externalId": "beta-finance",
             "logoUri": "assets/cldd7lij9003pkguzjcmymg06/logo.png",
-            "name": "Beta Token",
+            "name": "Beta Finance",
             "status": "active",
-            "symbol": "BETA",
+            "symbol": "beta",
             "type": "BEP20"
         },
         {
@@ -712,9 +712,9 @@
             "explorer": "https://bscscan.com/token/0x79eBC9A2ce02277A4b5b3A768b1C0A4ed75Bd936",
             "externalId": "catgirl",
             "logoUri": "assets/cldd7lija003rkguzt8gn44jn/logo.png",
-            "name": "CatGirl",
+            "name": "Catgirl",
             "status": "active",
-            "symbol": "CATGIRL",
+            "symbol": "catgirl",
             "type": "BEP20"
         },
         {
@@ -727,9 +727,9 @@
             "explorer": "https://bscscan.com/token/0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
             "externalId": "reef",
             "logoUri": "assets/cldd7lijb003zkguzmr2zdocx/logo.png",
-            "name": "Reef.finance",
+            "name": "Reef",
             "status": "active",
-            "symbol": "REEF",
+            "symbol": "reef",
             "type": "BEP20"
         },
         {
@@ -742,9 +742,9 @@
             "explorer": "https://bscscan.com/token/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
             "externalId": "highstreet",
             "logoUri": "assets/cldd7lijc0049kguzkgqwxbp1/logo.png",
-            "name": "Highstreet Token",
+            "name": "Highstreet",
             "status": "active",
-            "symbol": "HIGH",
+            "symbol": "high",
             "type": "BEP20"
         },
         {
@@ -772,9 +772,9 @@
             "explorer": "https://bscscan.com/token/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
             "externalId": "stargate-finance",
             "logoUri": "assets/cldd7lijd004gkguzol9hidfx/logo.png",
-            "name": "StargateToken",
+            "name": "Stargate Finance",
             "status": "active",
-            "symbol": "STG",
+            "symbol": "stg",
             "type": "BEP20"
         },
         {
@@ -789,7 +789,7 @@
             "logoUri": "assets/cldd7lije004kkguzfrvj6olv/logo.png",
             "name": "Automata",
             "status": "active",
-            "symbol": "ATA",
+            "symbol": "ata",
             "type": "BEP20"
         },
         {
@@ -804,7 +804,7 @@
             "logoUri": "assets/cldd7lije004okguzuq64683g/logo.png",
             "name": "Mask Network",
             "status": "active",
-            "symbol": "MASK",
+            "symbol": "mask",
             "type": "BEP20"
         },
         {
@@ -817,9 +817,9 @@
             "explorer": "https://bscscan.com/token/0x8FFf93E810a2eDaaFc326eDEE51071DA9d398E83",
             "externalId": "bitrise-token",
             "logoUri": "assets/cldd7lije004qkguzfwanj790/logo.png",
-            "name": "Bitrise Token",
+            "name": "Bitgert",
             "status": "active",
-            "symbol": "BRISE",
+            "symbol": "brise",
             "type": "BEP20"
         },
         {
@@ -834,7 +834,7 @@
             "logoUri": "assets/cldd7lije004xkguzrtz88e0b/logo.png",
             "name": "CateCoin",
             "status": "active",
-            "symbol": "CATE",
+            "symbol": "cate",
             "type": "BEP20"
         },
         {
@@ -847,9 +847,9 @@
             "explorer": "https://bscscan.com/token/0xF700D4c708C2be1463E355F337603183D20E0808",
             "externalId": "outer-ring",
             "logoUri": "assets/cldd7lijf0051kguzama2ayft/logo.png",
-            "name": "Galactic Quadrant",
+            "name": "Blink Galaxy",
             "status": "active",
-            "symbol": "GQ",
+            "symbol": "gq",
             "type": "BEP20"
         },
         {
@@ -862,9 +862,9 @@
             "explorer": "https://bscscan.com/token/0x7e624FA0E1c4AbFD309cC15719b7E2580887f570",
             "externalId": "polkastarter",
             "logoUri": "assets/cldd7liji005ckguz357lpawy/logo.png",
-            "name": "PolkastarterToken",
+            "name": "Polkastarter",
             "status": "active",
-            "symbol": "POLS",
+            "symbol": "pols",
             "type": "BEP20"
         },
         {
@@ -879,7 +879,7 @@
             "logoUri": "assets/cldd7liji005dkguzyck0kyi0/logo.png",
             "name": "AgeOfGods",
             "status": "active",
-            "symbol": "AOG",
+            "symbol": "aog",
             "type": "BEP20"
         },
         {
@@ -907,9 +907,9 @@
             "explorer": "https://bscscan.com/token/0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
             "externalId": "woo-network",
             "logoUri": "assets/cldd7lijk005ukguz0alw2qgt/logo.png",
-            "name": "Wootrade Network",
+            "name": "WOO",
             "status": "active",
-            "symbol": "WOO",
+            "symbol": "woo",
             "type": "BEP20"
         },
         {
@@ -922,9 +922,9 @@
             "explorer": "https://bscscan.com/token/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
             "externalId": "x-world-games",
             "logoUri": "assets/cldd7lijl005zkguzryz29353/logo.png",
-            "name": "XWG",
+            "name": "X World Games",
             "status": "active",
-            "symbol": "XWG",
+            "symbol": "xwg",
             "type": "BEP20"
         },
         {
@@ -939,7 +939,7 @@
             "logoUri": "assets/cldd7lijl0060kguzbsozzem3/logo.png",
             "name": "Gamium",
             "status": "active",
-            "symbol": "GMM",
+            "symbol": "gmm",
             "type": "BEP20"
         },
         {
@@ -954,7 +954,7 @@
             "logoUri": "assets/cldd7lijl0065kguz20c0s0oc/logo.png",
             "name": "Biswap",
             "status": "active",
-            "symbol": "BSW",
+            "symbol": "bsw",
             "type": "BEP20"
         },
         {
@@ -969,7 +969,7 @@
             "logoUri": "assets/cldd7lijl006akguzqbkw37nj/logo.png",
             "name": "Zilliqa",
             "status": "active",
-            "symbol": "ZIL",
+            "symbol": "zil",
             "type": "BEP20"
         },
         {
@@ -982,9 +982,9 @@
             "explorer": "https://bscscan.com/token/0x6397de0F9aEDc0F7A8Fa8B438DDE883B9c201010",
             "externalId": "sin-city",
             "logoUri": "assets/cldd7lijn006gkguzmvml1tva/logo.png",
-            "name": "SinCity Token",
+            "name": "Sinverse",
             "status": "active",
-            "symbol": "SIN",
+            "symbol": "sin",
             "type": "BEP20"
         },
         {
@@ -997,9 +997,9 @@
             "explorer": "https://bscscan.com/token/0x0Eb3a705fc54725037CC9e008bDede697f62F335",
             "externalId": "cosmos",
             "logoUri": "assets/cldd7lijn006ikguziygj1aqe/logo.png",
-            "name": "Cosmos Token",
+            "name": "Cosmos Hub",
             "status": "active",
-            "symbol": "ATOM",
+            "symbol": "atom",
             "type": "BEP20"
         },
         {
@@ -1012,9 +1012,9 @@
             "explorer": "https://bscscan.com/token/0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
             "externalId": "frontier-token",
             "logoUri": "assets/cldd7lijo006kkguzlm4lh7zh/logo.png",
-            "name": "Frontier Token",
+            "name": "Frontier",
             "status": "active",
-            "symbol": "FRONT",
+            "symbol": "front",
             "type": "BEP20"
         },
         {
@@ -1042,9 +1042,9 @@
             "explorer": "https://bscscan.com/token/0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
             "externalId": "apollox-2",
             "logoUri": "assets/cldd7lijq0070kguzf90tc2qx/logo.png",
-            "name": "ApolloX Token",
+            "name": "APX",
             "status": "active",
-            "symbol": "APX",
+            "symbol": "apx",
             "type": "BEP20"
         },
         {
@@ -1057,9 +1057,9 @@
             "explorer": "https://bscscan.com/token/0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
             "externalId": "the-open-network",
             "logoUri": "assets/cldd7lijq0079kguz6yj1iwls/logo.png",
-            "name": "Wrapped TON Coin",
+            "name": "Toncoin",
             "status": "active",
-            "symbol": "TONCOIN",
+            "symbol": "ton",
             "type": "BEP20"
         },
         {
@@ -1072,9 +1072,9 @@
             "explorer": "https://bscscan.com/token/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
             "externalId": "binance-peg-filecoin",
             "logoUri": "assets/cldd7lijq007akguzhzcsnbup/logo.png",
-            "name": "Filecoin",
+            "name": "Binance-Peg Filecoin",
             "status": "active",
-            "symbol": "FIL",
+            "symbol": "fil",
             "type": "BEP20"
         },
         {
@@ -1089,7 +1089,7 @@
             "logoUri": "assets/cldd7lijw008bkguzo85y9x1g/logo.png",
             "name": "Hamster",
             "status": "active",
-            "symbol": "HAM",
+            "symbol": "ham",
             "type": "BEP20"
         },
         {
@@ -1104,7 +1104,7 @@
             "logoUri": "assets/cldd7lijy008qkguz38jxejuc/logo.png",
             "name": "Bella Protocol",
             "status": "active",
-            "symbol": "BEL",
+            "symbol": "bel",
             "type": "BEP20"
         },
         {
@@ -1117,9 +1117,9 @@
             "explorer": "https://bscscan.com/token/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
             "externalId": "compound-governance-token",
             "logoUri": "assets/cldd7lijy008wkguz23hmbye9/logo.png",
-            "name": "Compound Coin",
+            "name": "Compound",
             "status": "active",
-            "symbol": "COMP",
+            "symbol": "comp",
             "type": "BEP20"
         },
         {
@@ -1132,9 +1132,9 @@
             "explorer": "https://bscscan.com/token/0xD74b782E05AA25c50e7330Af541d46E18f36661C",
             "externalId": "richquack",
             "logoUri": "assets/cldd7lik00094kguzhi49ugxh/logo.png",
-            "name": "RichQUACK.com",
+            "name": "Rich Quack",
             "status": "active",
-            "symbol": "QUACK",
+            "symbol": "quack",
             "type": "BEP20"
         },
         {
@@ -1147,9 +1147,9 @@
             "explorer": "https://bscscan.com/token/0x5857c96DaE9cF8511B08Cb07f85753C472D36Ea3",
             "externalId": "fuse-network-token",
             "logoUri": "assets/cldd7lik10097kguze04u6d25/logo.png",
-            "name": "Fuse Token on BSC",
+            "name": "Fuse",
             "status": "active",
-            "symbol": "FUSE",
+            "symbol": "fuse",
             "type": "BEP20"
         },
         {
@@ -1162,9 +1162,9 @@
             "explorer": "https://bscscan.com/token/0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
             "externalId": "project-galaxy",
             "logoUri": "assets/cldd7lik1009fkguzeqrvsmi9/logo.png",
-            "name": "Project Galaxy",
+            "name": "GAL (migrated to Gravity - G)",
             "status": "active",
-            "symbol": "GAL",
+            "symbol": "gal",
             "type": "BEP20"
         },
         {
@@ -1179,7 +1179,7 @@
             "logoUri": "assets/cldd7lik3009kkguzicy8sbjt/logo.png",
             "name": "FLOKI",
             "status": "active",
-            "symbol": "FLOKI",
+            "symbol": "floki",
             "type": "BEP20"
         },
         {
@@ -1192,9 +1192,9 @@
             "explorer": "https://bscscan.com/token/0x07e551E31A793E20dc18494ff6b03095A8F8Ee36",
             "externalId": "qmall",
             "logoUri": "assets/cldd7lik3009lkguzojkwer48/logo.png",
-            "name": "Qmall Token",
+            "name": "Qmall",
             "status": "active",
-            "symbol": "QMALL",
+            "symbol": "qmall",
             "type": "BEP20"
         },
         {
@@ -1207,9 +1207,9 @@
             "explorer": "https://bscscan.com/token/0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
             "externalId": "weway",
             "logoUri": "assets/cldd7lik500a5kguzbdmn7x5j/logo.png",
-            "name": "WeWay Token",
+            "name": "WeWay",
             "status": "active",
-            "symbol": "WWY",
+            "symbol": "wwy",
             "type": "BEP20"
         },
         {
@@ -1224,7 +1224,7 @@
             "logoUri": "assets/cldd7lik800aqkguz2zwst1ki/logo.png",
             "name": "Scallop",
             "status": "active",
-            "symbol": "SCLP",
+            "symbol": "sclp",
             "type": "BEP20"
         },
         {
@@ -1237,9 +1237,9 @@
             "explorer": "https://bscscan.com/token/0x5de3939b2F811A61d830E6F52d13B066881412ab",
             "externalId": "proton",
             "logoUri": "assets/cldd7lik900askguzv5msojf6/logo.png",
-            "name": "Proton",
+            "name": "XPR Network",
             "status": "active",
-            "symbol": "XPR",
+            "symbol": "xpr",
             "type": "BEP20"
         },
         {
@@ -1252,9 +1252,9 @@
             "explorer": "https://bscscan.com/token/0x658A109C5900BC6d2357c87549B651670E5b0539",
             "externalId": "force-protocol",
             "logoUri": "assets/cldd7lik900axkguz5ofm1bkf/logo.png",
-            "name": "The Force Token",
+            "name": "ForTube",
             "status": "active",
-            "symbol": "FOR",
+            "symbol": "for",
             "type": "BEP20"
         },
         {
@@ -1312,9 +1312,9 @@
             "explorer": "https://bscscan.com/token/0xDB021b1B247fe2F1fa57e0A87C748Cc1E321F07F",
             "externalId": "ampleforth",
             "logoUri": "assets/cldd7like00bxkguzstivbha7/logo.png",
-            "name": "AMPL secured by Meter Passport",
+            "name": "Ampleforth",
             "status": "active",
-            "symbol": "AMPL",
+            "symbol": "ampl",
             "type": "BEP20"
         },
         {
@@ -1327,9 +1327,9 @@
             "explorer": "https://bscscan.com/token/0x77d547256A2cD95F32F67aE0313E450Ac200648d",
             "externalId": "lazio-fan-token",
             "logoUri": "assets/cldd7like00c1kguzkxu6qr2w/logo.png",
-            "name": "FC Lazio Fan Token",
+            "name": "Lazio Fan Token",
             "status": "active",
-            "symbol": "LAZIO",
+            "symbol": "lazio",
             "type": "BEP20"
         },
         {
@@ -1342,9 +1342,9 @@
             "explorer": "https://bscscan.com/token/0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
             "externalId": "santos-fc-fan-token",
             "logoUri": "assets/cldd7like00c2kguzzomq112q/logo.png",
-            "name": "FC Santos Fan Token",
+            "name": "Santos FC Fan Token",
             "status": "active",
-            "symbol": "SANTOS",
+            "symbol": "santos",
             "type": "BEP20"
         },
         {
@@ -1357,9 +1357,9 @@
             "explorer": "https://bscscan.com/token/0x44754455564474A89358B2C2265883DF993b12F0",
             "externalId": "zeroswap",
             "logoUri": "assets/cldd7likf00c8kguzu3wotug4/logo.png",
-            "name": "ZeroSwapToken",
+            "name": "ZeroSwap",
             "status": "active",
-            "symbol": "ZEE",
+            "symbol": "zee",
             "type": "BEP20"
         },
         {
@@ -1374,7 +1374,7 @@
             "logoUri": "assets/cldd7likh00cjkguzv91xn4qr/logo.png",
             "name": "Rainmaker Games",
             "status": "active",
-            "symbol": "RAIN",
+            "symbol": "rain",
             "type": "BEP20"
         },
         {
@@ -1387,9 +1387,9 @@
             "explorer": "https://bscscan.com/token/0xd983AB71a284d6371908420d8Ac6407ca943F810",
             "externalId": "ultron",
             "logoUri": "assets/cldd7liki00ctkguzdtvoc2gy/logo.png",
-            "name": "Ultron",
+            "name": "ULTRON",
             "status": "active",
-            "symbol": "ULX",
+            "symbol": "ulx",
             "type": "BEP20"
         },
         {
@@ -1417,9 +1417,9 @@
             "explorer": "https://bscscan.com/token/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
             "externalId": "wrapped-elrond",
             "logoUri": "assets/cldd7likk00d6kguzwfgd6oah/logo.png",
-            "name": "Elrond",
+            "name": "Wrapped EGLD",
             "status": "active",
-            "symbol": "EGLD",
+            "symbol": "wegld",
             "type": "BEP20"
         },
         {
@@ -1432,9 +1432,9 @@
             "explorer": "https://bscscan.com/token/0xeCEB87cF00DCBf2D4E2880223743Ff087a995aD9",
             "externalId": "numbers-protocol",
             "logoUri": "assets/cldd7likk00d9kguzkv7iewr0/logo.png",
-            "name": "NUM Token [via ChainPort.io]",
+            "name": "Numbers Protocol",
             "status": "active",
-            "symbol": "NUM",
+            "symbol": "num",
             "type": "BEP20"
         },
         {
@@ -1447,9 +1447,9 @@
             "explorer": "https://bscscan.com/token/0x7E35D0e9180bF3A1fc47b0d110bE7a21A10B41Fe",
             "externalId": "ovr",
             "logoUri": "assets/cldd7likq00edkguziiu2rclp/logo.png",
-            "name": "OVR",
+            "name": "Ovr",
             "status": "active",
-            "symbol": "OVR",
+            "symbol": "ovr",
             "type": "BEP20"
         },
         {
@@ -1462,9 +1462,9 @@
             "explorer": "https://bscscan.com/token/0x64619f611248256F7F4b72fE83872F89d5d60d64",
             "externalId": "quint",
             "logoUri": "assets/cldd7likr00ekkguzllsmpcqk/logo.png",
-            "name": "QUINT",
+            "name": "Quint",
             "status": "active",
-            "symbol": "QUINT",
+            "symbol": "quint",
             "type": "BEP20"
         },
         {
@@ -1477,9 +1477,9 @@
             "explorer": "https://bscscan.com/token/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
             "externalId": "bakerytoken",
             "logoUri": "assets/cldd7likr00eokguznj1zespc/logo.png",
-            "name": "BakeryToken",
+            "name": "BakerySwap",
             "status": "active",
-            "symbol": "BAKE",
+            "symbol": "bake",
             "type": "BEP20"
         },
         {
@@ -1492,9 +1492,9 @@
             "explorer": "https://bscscan.com/token/0x2FA5dAF6Fe0708fBD63b1A7D1592577284f52256",
             "externalId": "unmarshal",
             "logoUri": "assets/cldd7liks00etkguzgqvwt0xh/logo.png",
-            "name": "UnmarshalToken",
+            "name": "Unmarshal",
             "status": "active",
-            "symbol": "MARSH",
+            "symbol": "marsh",
             "type": "BEP20"
         },
         {
@@ -1507,9 +1507,9 @@
             "explorer": "https://bscscan.com/token/0xCBE5BcA571628894A38836b0baE833ff012f71D8",
             "externalId": "infinity-rocket-token",
             "logoUri": "assets/cldd7likt00f1kguzxnt0z95y/logo.png",
-            "name": "Infinity Rocket Token",
+            "name": "Infinity Rocket",
             "status": "active",
-            "symbol": "IRT",
+            "symbol": "irt",
             "type": "BEP20"
         },
         {
@@ -1524,7 +1524,7 @@
             "logoUri": "assets/cldd7liku00f5kguzl35zxmps/logo.png",
             "name": "iMe Lab",
             "status": "active",
-            "symbol": "LIME",
+            "symbol": "lime",
             "type": "BEP20"
         },
         {
@@ -1582,9 +1582,9 @@
             "explorer": "https://bscscan.com/token/0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
             "externalId": "fc-porto",
             "logoUri": "assets/cldd7lil100gikguzufjg8h7n/logo.png",
-            "name": "FC Porto Fan Token",
+            "name": "FC Porto",
             "status": "active",
-            "symbol": "PORTO",
+            "symbol": "porto",
             "type": "BEP20"
         },
         {
@@ -1627,9 +1627,9 @@
             "explorer": "https://bscscan.com/token/0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0",
             "externalId": "taboo-token",
             "logoUri": "assets/cldd7lil400h8kguzgudm201r/logo.png",
-            "name": "TABOO TOKEN",
+            "name": "Taboo",
             "status": "active",
-            "symbol": "TABOO",
+            "symbol": "taboo",
             "type": "BEP20"
         },
         {
@@ -1644,7 +1644,7 @@
             "logoUri": "assets/cldd7lil400h9kguzytzj9ckc/logo.png",
             "name": "Vita Inu",
             "status": "active",
-            "symbol": "VINU",
+            "symbol": "vinu",
             "type": "BEP20"
         },
         {
@@ -1659,7 +1659,7 @@
             "logoUri": "assets/cldd7lil400hakguzndae6xgo/logo.png",
             "name": "Katana Inu",
             "status": "active",
-            "symbol": "KATA",
+            "symbol": "kata",
             "type": "BEP20"
         },
         {
@@ -1687,9 +1687,9 @@
             "explorer": "https://bscscan.com/token/0x4D1E90aB966ae26c778b2f9f365aA40abB13f53C",
             "externalId": "sta-token",
             "logoUri": "assets/cldd7lil700htkguze7vg732d/logo.png",
-            "name": "STA TOKEN",
+            "name": "STA",
             "status": "active",
-            "symbol": "STA",
+            "symbol": "sta",
             "type": "BEP20"
         },
         {
@@ -1702,9 +1702,9 @@
             "explorer": "https://bscscan.com/token/0xf4914E6D97a75f014AcFcF4072f11be5CfFc4cA6",
             "externalId": "dexshare",
             "logoUri": "assets/cldd7lil800hxkguz4fwvi407/logo.png",
-            "name": "DEXShare",
+            "name": "dexSHARE",
             "status": "active",
-            "symbol": "DEXShare",
+            "symbol": "dexshare",
             "type": "BEP20"
         },
         {
@@ -1717,9 +1717,9 @@
             "explorer": "https://bscscan.com/token/0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
             "externalId": "singularitydao",
             "logoUri": "assets/cldd7lilc00iukguzltlaqkco/logo.png",
-            "name": "Singularity Dao",
+            "name": "SingularityDAO",
             "status": "active",
-            "symbol": "SDAO",
+            "symbol": "sdao",
             "type": "BEP20"
         },
         {
@@ -1734,7 +1734,7 @@
             "logoUri": "assets/cldd7lild00j0kguze2sbo1sv/logo.png",
             "name": "Kunci Coin",
             "status": "active",
-            "symbol": "KUNCI",
+            "symbol": "kunci",
             "type": "BEP20"
         },
         {
@@ -1747,9 +1747,9 @@
             "explorer": "https://bscscan.com/token/0xBc7d6B50616989655AfD682fb42743507003056D",
             "externalId": "alchemy-pay",
             "logoUri": "assets/cldd7lili00jwkguz98l2sual/logo.png",
-            "name": "Alchemy",
+            "name": "Alchemy Pay",
             "status": "active",
-            "symbol": "ACH",
+            "symbol": "ach",
             "type": "BEP20"
         },
         {
@@ -1762,9 +1762,9 @@
             "explorer": "https://bscscan.com/token/0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
             "externalId": "arpa",
             "logoUri": "assets/cldd7lili00k2kguzmgkn51fr/logo.png",
-            "name": "ARPA Token",
+            "name": "ARPA",
             "status": "active",
-            "symbol": "ARPA",
+            "symbol": "arpa",
             "type": "BEP20"
         },
         {
@@ -1794,7 +1794,7 @@
             "logoUri": "assets/cldd7lilw00mrkguzxn9oni8s/logo.png",
             "name": "MarsDAO",
             "status": "active",
-            "symbol": "MDAO",
+            "symbol": "mdao",
             "type": "BEP20"
         },
         {
@@ -1807,9 +1807,9 @@
             "explorer": "https://bscscan.com/token/0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
             "externalId": "adex",
             "logoUri": "assets/cldd7lily00n1kguzv9y77pkc/logo.png",
-            "name": "AdEx Network",
+            "name": "AdEx",
             "status": "active",
-            "symbol": "ADX",
+            "symbol": "adx",
             "type": "BEP20"
         },
         {
@@ -1839,7 +1839,7 @@
             "logoUri": "assets/cldd7lim000nkkguzguf1a5ev/logo.png",
             "name": "REVV",
             "status": "active",
-            "symbol": "REVV",
+            "symbol": "revv",
             "type": "BEP20"
         },
         {
@@ -1852,9 +1852,9 @@
             "explorer": "https://bscscan.com/token/0xFfBa7529AC181c2Ee1844548e6D7061c9A597dF4",
             "externalId": "coin-capsule",
             "logoUri": "assets/cldd7lim100nqkguz9en5duj8/logo.png",
-            "name": "Capsule Coin",
+            "name": "Ternoa",
             "status": "active",
-            "symbol": "CAPS",
+            "symbol": "caps",
             "type": "BEP20"
         },
         {
@@ -1867,9 +1867,9 @@
             "explorer": "https://bscscan.com/token/0x686318000d982bc8dCC1cdCF8fFd22322F0960Ed",
             "externalId": "opulous",
             "logoUri": "assets/cldd7lim200nxkguzzlx3lebr/logo.png",
-            "name": "OpulousToken [via ChainPort.io]",
+            "name": "Opulous",
             "status": "active",
-            "symbol": "OPUL",
+            "symbol": "opul",
             "type": "BEP20"
         },
         {
@@ -1882,9 +1882,9 @@
             "explorer": "https://bscscan.com/token/0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
             "externalId": "wrapped-fantom",
             "logoUri": "assets/cldd7lim300o0kguzo8csezi0/logo.png",
-            "name": "Fantom",
+            "name": "Wrapped Fantom",
             "status": "active",
-            "symbol": "FTM",
+            "symbol": "wftm",
             "type": "BEP20"
         },
         {
@@ -1899,7 +1899,7 @@
             "logoUri": "assets/cldd7limi00qqkguzpsqb9472/logo.png",
             "name": "SAFE(AnWang)",
             "status": "active",
-            "symbol": "SAFE",
+            "symbol": "safe",
             "type": "BEP20"
         },
         {
@@ -1912,9 +1912,9 @@
             "explorer": "https://bscscan.com/token/0x5B6DcF557E2aBE2323c48445E8CC948910d8c2c9",
             "externalId": "mirror-protocol",
             "logoUri": "assets/cldd7limi00qskguznnvyqcx2/logo.png",
-            "name": "Wrapped MIR Token",
+            "name": "Mirror Protocol",
             "status": "active",
-            "symbol": "MIR",
+            "symbol": "mir",
             "type": "BEP20"
         },
         {
@@ -1929,7 +1929,7 @@
             "logoUri": "assets/cldd7limn00rjkguzxsnsx9xv/logo.png",
             "name": "DOSE",
             "status": "active",
-            "symbol": "DOSE",
+            "symbol": "dose",
             "type": "BEP20"
         },
         {
@@ -1942,7 +1942,7 @@
             "explorer": "https://bscscan.com/token/0x111111111117dc0aa78b770fa6a738034120c302",
             "externalId": "1inch",
             "logoUri": "assets/clh9g84m1033yb0g4ni948gt6/logo.png",
-            "name": "1inch",
+            "name": "1INCH",
             "status": "active",
             "symbol": "1inch",
             "type": "BEP20"
@@ -1987,7 +1987,7 @@
             "explorer": "https://bscscan.com/token/0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
             "externalId": "allianceblock-nexera",
             "logoUri": "assets/clh9g84m60362b0g460lfeawh/logo.png",
-            "name": "AllianceBlock Nexera",
+            "name": "Nexera",
             "status": "active",
             "symbol": "nxra",
             "type": "BEP20"
@@ -2032,7 +2032,7 @@
             "explorer": "https://bscscan.com/token/0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca",
             "externalId": "apenft",
             "logoUri": "assets/clh9g84mb037qb0g4b4zwp4bp/logo.png",
-            "name": "APENFT",
+            "name": "AINFT",
             "status": "active",
             "symbol": "nft",
             "type": "BEP20"
@@ -2077,7 +2077,7 @@
             "explorer": "https://bscscan.com/token/0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
             "externalId": "axlusdc",
             "logoUri": "assets/clh9g84mg03adb0g4wrhynlgp/logo.png",
-            "name": "Axelar USDC",
+            "name": "Axelar Bridged USDC",
             "status": "active",
             "symbol": "axlusdc",
             "type": "BEP20"
@@ -2752,7 +2752,7 @@
             "explorer": "https://bscscan.com/token/0x031b41e504677879370e9dbcf937283a8691fa7f",
             "externalId": "fetch-ai",
             "logoUri": "assets/clh9g84nx0437b0g49429s8vi/logo.png",
-            "name": "Fetch.ai",
+            "name": "Artificial Superintelligence Alliance",
             "status": "active",
             "symbol": "fet",
             "type": "BEP20"
@@ -2782,7 +2782,7 @@
             "explorer": "https://bscscan.com/token/0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
             "externalId": "frax",
             "logoUri": "assets/clh9g84o0045ib0g4uzhtsy2e/logo.png",
-            "name": "Frax",
+            "name": "Legacy Frax Dollar",
             "status": "active",
             "symbol": "frax",
             "type": "BEP20"
@@ -2812,9 +2812,9 @@
             "explorer": "https://bscscan.com/token/0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
             "externalId": "frax-share",
             "logoUri": "assets/clh9g84o1045mb0g4warxpqbm/logo.png",
-            "name": "Frax Share",
+            "name": "Frax (prev. FXS)",
             "status": "active",
-            "symbol": "fxs",
+            "symbol": "frax",
             "type": "BEP20"
         },
         {
@@ -2857,7 +2857,7 @@
             "explorer": "https://bscscan.com/token/0x47c454ca6be2f6def6f32b638c80f91c9c3c5949",
             "externalId": "games-for-a-living",
             "logoUri": "assets/clh9g84o4047cb0g4r5zm10xy/logo.png",
-            "name": "Games for a living",
+            "name": "Games for a Living",
             "status": "active",
             "symbol": "gfal",
             "type": "BEP20"
@@ -3127,7 +3127,7 @@
             "explorer": "https://bscscan.com/token/0x0231f91e02debd20345ae8ab7d71a41f8e140ce7",
             "externalId": "jupiter",
             "logoUri": "assets/clh9g84ol04h7b0g48qac3ejd/logo.png",
-            "name": "Jupiter",
+            "name": "Jupiter Project",
             "status": "active",
             "symbol": "jup",
             "type": "BEP20"
@@ -3410,9 +3410,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "externalId": "mimatic",
+            "externalId": "mai-bsc",
             "logoUri": "assets/clh9g84p704tfb0g4eqbp0cru/logo.png",
-            "name": "MAI",
+            "name": "MAI (BSC)",
             "status": "active",
             "symbol": "mimatic",
             "type": "BEP20"
@@ -3440,9 +3440,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
-            "externalId": "multichain",
+            "externalId": "multichain-bsc",
             "logoUri": "assets/clh9g84pb04w6b0g4mk3f6r05/logo.png",
-            "name": "Multichain",
+            "name": "Multichain (BSC)",
             "status": "active",
             "symbol": "multi",
             "type": "BEP20"
@@ -3472,7 +3472,7 @@
             "explorer": "https://bscscan.com/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed",
             "externalId": "newscrypto-coin",
             "logoUri": "assets/clh9g84pe04xzb0g497ya75mi/logo.png",
-            "name": "Newscrypto Coin",
+            "name": "Numerico",
             "status": "active",
             "symbol": "nwc",
             "type": "BEP20"
@@ -3622,7 +3622,7 @@
             "explorer": "https://bscscan.com/token/0x0409633a72d846fc5bbe2f98d88564d35987904d",
             "externalId": "phoenix-global",
             "logoUri": "assets/clh9g84pp0549b0g41gvwyb30/logo.png",
-            "name": "Phoenix Global",
+            "name": "Phoenix",
             "status": "active",
             "symbol": "phb",
             "type": "BEP20"
@@ -3802,7 +3802,7 @@
             "explorer": "https://bscscan.com/token/0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
             "externalId": "prosper",
             "logoUri": "assets/clh9g84px0580b0g4fs5r0ihf/logo.png",
-            "name": "Prosper",
+            "name": "Prosper [OLD]",
             "status": "active",
             "symbol": "pros",
             "type": "BEP20"
@@ -4102,7 +4102,7 @@
             "explorer": "https://bscscan.com/token/0x91d6d6af7635b7b23a8ced9508117965180e2362",
             "externalId": "unsheth",
             "logoUri": "assets/clh9g84qz05ujb0g4u0v08jff/logo.png",
-            "name": "unshETH",
+            "name": "unshETHing_Token",
             "status": "active",
             "symbol": "ush",
             "type": "BEP20"
@@ -4117,7 +4117,7 @@
             "explorer": "https://bscscan.com/token/0xb04906e95ab5d797ada81508115611fee694c2b3",
             "externalId": "usd-coin-wormhole-from-ethereum",
             "logoUri": "assets/clh9g84r005uwb0g4yme1lj0t/logo.png",
-            "name": "USD Coin (Wormhole from Ethereum)",
+            "name": "Bridged USD Coin (Wormhole Ethereum)",
             "status": "active",
             "symbol": "usdcet",
             "type": "BEP20"
@@ -4250,9 +4250,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x570a5d26f7765ecb712c0924e4de545b89fd43df",
-            "externalId": "wrapped-solana",
+            "externalId": "binance-peg-sol",
             "logoUri": "assets/clh9g84rb060hb0g4tnexilj5/logo.png",
-            "name": "Wrapped Solana",
+            "name": "Binance-Peg SOL",
             "status": "active",
             "symbol": "sol",
             "type": "BEP20"
@@ -4372,9 +4372,9 @@
             "explorer": "https://bscscan.com/token/0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
             "externalId": "ageur",
             "logoUri": "assets/clswxod3g03x58cuh535n8un8/logo.png",
-            "name": "agEUR",
+            "name": "EURA",
             "status": "active",
-            "symbol": "ageur",
+            "symbol": "eura",
             "type": "BEP20"
         },
         {
@@ -4417,7 +4417,7 @@
             "explorer": "https://bscscan.com/token/0x82d2f8e02afb160dd5a480a617692e62de9038c4",
             "externalId": "aleph",
             "logoUri": "assets/clswxod3h03xu8cuh8ma1888f/logo.png",
-            "name": "Aleph.im",
+            "name": "Aleph Cloud",
             "status": "active",
             "symbol": "aleph",
             "type": "BEP20"
@@ -4790,11 +4790,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
-            "externalId": "connext",
+            "externalId": "everclear",
             "logoUri": "assets/clswxod3y04ez8cuhcsnbbevz/logo.png",
-            "name": "Connext",
+            "name": "Everclear",
             "status": "active",
-            "symbol": "next",
+            "symbol": "clear",
             "type": "BEP20"
         },
         {
@@ -4852,7 +4852,7 @@
             "explorer": "https://bscscan.com/token/0x14778860e937f509e651192a90589de711fb88a9",
             "externalId": "cyberconnect",
             "logoUri": "assets/clswxod4004hh8cuhgv2pr6g2/logo.png",
-            "name": "CyberConnect",
+            "name": "CYBER",
             "status": "active",
             "symbol": "cyber",
             "type": "BEP20"
@@ -4897,7 +4897,7 @@
             "explorer": "https://bscscan.com/token/0x16faf9daa401aa42506af503aa3d80b871c467a3",
             "externalId": "dexcheck",
             "logoUri": "assets/clswxod4204jw8cuh4i48mjce/logo.png",
-            "name": "DexCheck",
+            "name": "DexCheck AI",
             "status": "active",
             "symbol": "dck",
             "type": "BEP20"
@@ -5212,9 +5212,9 @@
             "explorer": "https://bscscan.com/token/0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
             "externalId": "gmt-token",
             "logoUri": "assets/clswxod4d04vn8cuhjh2asyff/logo.png",
-            "name": "Gomining Token",
+            "name": "GoMining Token",
             "status": "active",
-            "symbol": "gmt",
+            "symbol": "gomining",
             "type": "BEP20"
         },
         {
@@ -5257,7 +5257,7 @@
             "explorer": "https://bscscan.com/token/0x003d87d02a2a01e9e8a20f507c83e15dd83a33d1",
             "externalId": "gt-protocol",
             "logoUri": "assets/clswxod4f04xs8cuhn2xfcql3/logo.png",
-            "name": "GT-Protocol",
+            "name": "GT Protocol",
             "status": "active",
             "symbol": "gtai",
             "type": "BEP20"
@@ -5512,7 +5512,7 @@
             "explorer": "https://bscscan.com/token/0x872952d3c1caf944852c5adda65633f1ef218a26",
             "externalId": "liquid-crypto",
             "logoUri": "assets/clswxod4n057w8cuhdywii1h4/logo.png",
-            "name": "Liquid Crypto",
+            "name": "Reddex",
             "status": "active",
             "symbol": "lqdx",
             "type": "BEP20"
@@ -5572,7 +5572,7 @@
             "explorer": "https://bscscan.com/token/0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
             "externalId": "marblex",
             "logoUri": "assets/clswxod4q05a88cuhtmw4e4u8/logo.png",
-            "name": "Marblex",
+            "name": "MARBLEX",
             "status": "active",
             "symbol": "mbx",
             "type": "BEP20"
@@ -5767,7 +5767,7 @@
             "explorer": "https://bscscan.com/token/0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
             "externalId": "nftb",
             "logoUri": "assets/clswxod4w05ig8cuh0wx9mlem/logo.png",
-            "name": "NFTb",
+            "name": "PixelRealm",
             "status": "active",
             "symbol": "nftb",
             "type": "BEP20"
@@ -6247,7 +6247,7 @@
             "explorer": "https://bscscan.com/token/0xfd2700c51812753215754de9ec51cdd42bf725b9",
             "externalId": "route",
             "logoUri": "assets/clswxod5905vo8cuhsd52gldl/logo.png",
-            "name": "Router Protocol",
+            "name": "Router Protocol [OLD]",
             "status": "active",
             "symbol": "route",
             "type": "BEP20"
@@ -6382,7 +6382,7 @@
             "explorer": "https://bscscan.com/token/0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f",
             "externalId": "smardex",
             "logoUri": "assets/clswxod5d05zz8cuhy8e0zeuj/logo.png",
-            "name": "SmarDex",
+            "name": "SMARDEX",
             "status": "active",
             "symbol": "sdex",
             "type": "BEP20"
@@ -6427,9 +6427,9 @@
             "explorer": "https://bscscan.com/token/0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
             "externalId": "sol-wormhole",
             "logoUri": "assets/clswxod5e060v8cuho7w5ertu/logo.png",
-            "name": "SOL (Wormhole)",
+            "name": "Wormhole Bridged WSOL",
             "status": "active",
-            "symbol": "sol",
+            "symbol": "wsol",
             "type": "BEP20"
         },
         {
@@ -6519,7 +6519,7 @@
             "logoUri": "assets/clswxod5h064o8cuhv7130lyz/logo.png",
             "name": "Lista Staked BNB",
             "status": "active",
-            "symbol": "lisbnb",
+            "symbol": "slisbnb",
             "type": "BEP20"
         },
         {
@@ -6547,9 +6547,9 @@
             "explorer": "https://bscscan.com/token/0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
             "externalId": "tether-usd-wormhole-from-ethereum",
             "logoUri": "assets/clswxod5i065p8cuh8scwmzhp/logo.png",
-            "name": "Bridged Tether (Wormhole Ethereum)",
+            "name": "Wormhole Bridged USDT",
             "status": "active",
-            "symbol": "usdtet",
+            "symbol": "usdt",
             "type": "BEP20"
         },
         {
@@ -6562,7 +6562,7 @@
             "explorer": "https://bscscan.com/token/0x9fd87aefe02441b123c3c32466cd9db4c578618f",
             "externalId": "thetan-arena",
             "logoUri": "assets/clswxod5i066c8cuhc7aegq9i/logo.png",
-            "name": "Thetan Arena",
+            "name": "Thetan World",
             "status": "active",
             "symbol": "thg",
             "type": "BEP20"
@@ -6667,7 +6667,7 @@
             "explorer": "https://bscscan.com/token/0xb96d0f29a0ac9af4a32835e90ec6531389765089",
             "externalId": "vapor-wallet",
             "logoUri": "assets/clswxod5n06b08cuhrezjl06m/logo.png",
-            "name": "Vapor Wallet",
+            "name": "VaporFund",
             "status": "active",
             "symbol": "vpr",
             "type": "BEP20"
@@ -6815,11 +6815,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
-            "externalId": "wrapped-near",
+            "externalId": "binance-peg-near-protocol",
             "logoUri": "assets/clswxod5s06fm8cuh4f9yhwxg/logo.png",
-            "name": "Wrapped Near",
+            "name": "Binance-Peg NEAR Protocol",
             "status": "active",
-            "symbol": "wnear",
+            "symbol": "near",
             "type": "BEP20"
         },
         {
@@ -6980,9 +6980,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://bscscan.com/token/0x96c7957030aa8b1fd3c6e0ee3d84c4695c6eae9c",
-            "externalId": "amber",
+            "externalId": "airdao-old",
             "logoUri": "assets/cm2pcmab3044suwosqsswlesx/logo.png",
-            "name": "AirDAO",
+            "name": "Ascendia (ex AirDAO) [Old]",
             "status": "active",
             "symbol": "amb",
             "type": "BEP20"
@@ -7327,7 +7327,7 @@
             "explorer": "https://bscscan.com/token/0x9ce84f6a69986a83d92c324df10bc8e64771030f",
             "externalId": "chex-token",
             "logoUri": "assets/cm2pcmab704iiuwosmocgivb7/logo.png",
-            "name": "CHEX Token",
+            "name": "Chintai",
             "status": "active",
             "symbol": "chex",
             "type": "BEP20"
@@ -7387,7 +7387,7 @@
             "explorer": "https://bscscan.com/token/0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
             "externalId": "cookie",
             "logoUri": "assets/cm2pcmab704kjuwos1kq2801a/logo.png",
-            "name": "Cookie",
+            "name": "Cookie DAO",
             "status": "active",
             "symbol": "cookie",
             "type": "BEP20"
@@ -7477,7 +7477,7 @@
             "explorer": "https://bscscan.com/token/0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
             "externalId": "dusk-network",
             "logoUri": "assets/cm2pcmab904r9uwos9rdgv64p/logo.png",
-            "name": "Dusk",
+            "name": "DUSK",
             "status": "active",
             "symbol": "dusk",
             "type": "BEP20"
@@ -7567,7 +7567,7 @@
             "explorer": "https://bscscan.com/token/0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
             "externalId": "g-token",
             "logoUri": "assets/cm2pcmabb0507uwosbkafm3uk/logo.png",
-            "name": "Gravity",
+            "name": "Gravity (by Galxe)",
             "status": "active",
             "symbol": "g",
             "type": "BEP20"
@@ -7642,7 +7642,7 @@
             "explorer": "https://bscscan.com/token/0xc96de26018a54d51c097160568752c4e3bd6c364",
             "externalId": "ignition-fbtc",
             "logoUri": "assets/cm2pcmabb0532uwos1x739gc1/logo.png",
-            "name": "Ignition FBTC",
+            "name": "Function FBTC",
             "status": "active",
             "symbol": "fbtc",
             "type": "BEP20"
@@ -8409,7 +8409,7 @@
             "logoUri": "assets/cm2pcmabs05vauwos5zjxl032/logo.png",
             "name": "Seedworld",
             "status": "active",
-            "symbol": "$sworld",
+            "symbol": "sworld",
             "type": "BEP20"
         },
         {
@@ -8422,7 +8422,7 @@
             "explorer": "https://bscscan.com/token/0x84affeef925cdce87f8a99b7b2e540da5140fc09",
             "externalId": "serenity-shield",
             "logoUri": "assets/cm2pcmabs05vjuwos5n5uw88u/logo.png",
-            "name": "Serenity Shield",
+            "name": "Serenity",
             "status": "active",
             "symbol": "sersh",
             "type": "BEP20"
@@ -8482,7 +8482,7 @@
             "explorer": "https://bscscan.com/token/0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
             "externalId": "solv-btc",
             "logoUri": "assets/cm2pcmabt05xvuwosmqsoquif/logo.png",
-            "name": "Solv Protocol SolvBTC",
+            "name": "Solv Protocol BTC",
             "status": "active",
             "symbol": "solvbtc",
             "type": "BEP20"
@@ -8497,9 +8497,9 @@
             "explorer": "https://bscscan.com/token/0x1346b618dc92810ec74163e4c27004c921d446a5",
             "externalId": "solv-protocol-solvbtc-bbn",
             "logoUri": "assets/cm2pcmabt05xwuwos2yq0ty63/logo.png",
-            "name": "Solv Protocol SolvBTC.BBN",
+            "name": "Solv Protocol Staked BTC",
             "status": "active",
-            "symbol": "solvbtc.bbn",
+            "symbol": "xsolvbtc",
             "type": "BEP20"
         },
         {
@@ -8632,7 +8632,7 @@
             "explorer": "https://bscscan.com/token/0xaa88c603d142c371ea0eac8756123c5805edee03",
             "externalId": "the-doge-nft",
             "logoUri": "assets/cm2pcmabv062euwosp5ebr49m/logo.png",
-            "name": "The Doge NFT",
+            "name": "Own The Doge",
             "status": "active",
             "symbol": "dog",
             "type": "BEP20"
@@ -8859,7 +8859,7 @@
             "logoUri": "assets/cm4b8j6yj0001356qrnvq64s7/logo.png",
             "name": "Binance-Peg Avalanche",
             "status": "active",
-            "symbol": "AVAX",
+            "symbol": "avax",
             "type": "BEP20"
         },
         {

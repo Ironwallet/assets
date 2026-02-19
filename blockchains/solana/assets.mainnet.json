@@ -112,9 +112,9 @@
             "explorer": "https://explorer.solana.com/address/6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct",
             "externalId": "frax-share",
             "logoUri": "assets/clgp1r5wt003ul8uz7wm2a7er/logo.png",
-            "name": "Frax Share",
+            "name": "Frax (prev. FXS)",
             "status": "active",
-            "symbol": "fxs",
+            "symbol": "frax",
             "type": "Solana"
         },
         {
@@ -187,7 +187,7 @@
             "explorer": "https://explorer.solana.com/address/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
             "externalId": "msol",
             "logoUri": "assets/clgp2a4t0006vl8uzgg6s33o5/logo.png",
-            "name": "Marinade staked SOL",
+            "name": "Marinade Staked SOL",
             "status": "active",
             "symbol": "msol",
             "type": "Solana"
@@ -202,7 +202,7 @@
             "explorer": "https://explorer.solana.com/address/3bRTivrVsitbmCTGtqwp7hxXPsybkjn4XLNtPsHqa3zR",
             "externalId": "only1",
             "logoUri": "assets/clgp2ffel007dl8uz9ms3odis/logo.png",
-            "name": "Only1",
+            "name": "LIKE",
             "status": "active",
             "symbol": "like",
             "type": "Solana"
@@ -292,7 +292,7 @@
             "explorer": "https://explorer.solana.com/address/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
             "externalId": "stepn",
             "logoUri": "assets/clgp3121q00azl8uzq2jyldhs/logo.png",
-            "name": "STEPN",
+            "name": "GMT",
             "status": "active",
             "symbol": "gmt",
             "type": "Solana"
@@ -337,7 +337,7 @@
             "explorer": "https://explorer.solana.com/address/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "externalId": "usd-coin",
             "logoUri": "assets/clgp393by00c1l8uznz8cgqa0/logo.png",
-            "name": "USD Coin",
+            "name": "USDC",
             "status": "active",
             "symbol": "usdc",
             "type": "Solana"
@@ -442,7 +442,7 @@
             "explorer": "https://explorer.solana.com/address/5tB5D6DGJMxxHYmNkfJNG237x6pZGEwTzGpUUh62yQJ7",
             "externalId": "roaland-core",
             "logoUri": "assets/clh9getnt07feb0g40oru0wwt/logo.png",
-            "name": "ROA CORE",
+            "name": "ROACORE",
             "status": "active",
             "symbol": "roa",
             "type": "Solana"
@@ -487,7 +487,7 @@
             "explorer": "https://explorer.solana.com/address/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM",
             "externalId": "usd-coin-wormhole-from-ethereum",
             "logoUri": "assets/clh9getnx07ixb0g47h6v7wk6/logo.png",
-            "name": "USD Coin (Wormhole from Ethereum)",
+            "name": "Bridged USD Coin (Wormhole Ethereum)",
             "status": "active",
             "symbol": "usdcet",
             "type": "Solana"
@@ -517,7 +517,7 @@
             "explorer": "https://explorer.solana.com/address/So11111111111111111111111111111111111111112",
             "externalId": "wrapped-solana",
             "logoUri": "assets/clh9getny07jnb0g4fi49pwjs/logo.png",
-            "name": "Wrapped Solana",
+            "name": "Wrapped SOL",
             "status": "active",
             "symbol": "sol",
             "type": "Solana"
@@ -1100,9 +1100,9 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://explorer.solana.com/address/HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1",
-            "externalId": "maga",
+            "externalId": "bridged-maga-wormhole",
             "logoUri": "assets/clswxoi8g082d8cuhgnkb3cmb/logo.png",
-            "name": "MAGA",
+            "name": "Bridged MAGA (Wormhole)",
             "status": "active",
             "symbol": "trump",
             "type": "Solana"
@@ -1132,7 +1132,7 @@
             "explorer": "https://explorer.solana.com/address/H53UGEyBrB9easo9ego8yYk7o4Zq1G5cCtkxD3E3hZav",
             "externalId": "mixmob",
             "logoUri": "assets/clswxoi8h08368cuhs8ugxe77/logo.png",
-            "name": "MixMob",
+            "name": "MAXX AI",
             "status": "active",
             "symbol": "mxm",
             "type": "Solana"
@@ -1299,7 +1299,7 @@
             "logoUri": "assets/clswxoi8j08698cuhqtt0g6xp/logo.png",
             "name": "Render",
             "status": "active",
-            "symbol": "rndr",
+            "symbol": "render",
             "type": "Solana"
         },
         {
@@ -1432,7 +1432,7 @@
             "explorer": "https://explorer.solana.com/address/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
             "externalId": "taki",
             "logoUri": "assets/clswxoi8l08aj8cuhyy2ojsxp/logo.png",
-            "name": "Taki",
+            "name": "Taki Games",
             "status": "active",
             "symbol": "taki",
             "type": "Solana"
@@ -1462,9 +1462,9 @@
             "explorer": "https://explorer.solana.com/address/Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1",
             "externalId": "tether-usd-wormhole-from-ethereum",
             "logoUri": "assets/clswxoi8l08aq8cuhc24jvpdo/logo.png",
-            "name": "Bridged Tether (Wormhole Ethereum)",
+            "name": "Wormhole Bridged USDT",
             "status": "active",
-            "symbol": "usdtet",
+            "symbol": "usdt",
             "type": "Solana"
         },
         {
@@ -1537,7 +1537,7 @@
             "explorer": "https://explorer.solana.com/address/2zrH2jE542mzB4HABgBjdWMQPtNC5H12pwo1iLpfpump",
             "externalId": "alpha-3",
             "logoUri": "assets/cm2pcoka307ptuwosnl2ghiqm/logo.png",
-            "name": "Alpha",
+            "name": "Reject Modernity",
             "status": "active",
             "symbol": "alpha",
             "type": "Solana"
@@ -1942,7 +1942,7 @@
             "explorer": "https://explorer.solana.com/address/6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
             "externalId": "chex-token",
             "logoUri": "assets/cm2pcoka407yauwos5h4wogqq/logo.png",
-            "name": "CHEX Token",
+            "name": "Chintai",
             "status": "active",
             "symbol": "chex",
             "type": "Solana"
@@ -2047,7 +2047,7 @@
             "explorer": "https://explorer.solana.com/address/7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo",
             "externalId": "devin-on-solana",
             "logoUri": "assets/cm2pcoka40827uwos1axjl793/logo.png",
-            "name": "Devin on Solana",
+            "name": "Devin",
             "status": "active",
             "symbol": "devin",
             "type": "Solana"
@@ -3307,7 +3307,7 @@
             "explorer": "https://explorer.solana.com/address/BGyjasmSzYM9hHiZ1LBU4EJ7KCtRjMSpbN4zTru3W5vf",
             "externalId": "orbitt-pro",
             "logoUri": "assets/cm2pcoka708pkuwos27141dfs/logo.png",
-            "name": "Orbitt Pro",
+            "name": "Orbitt Token",
             "status": "active",
             "symbol": "orbt",
             "type": "Solana"
@@ -3547,7 +3547,7 @@
             "explorer": "https://explorer.solana.com/address/Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump",
             "externalId": "project89",
             "logoUri": "assets/cm2pcoka708u8uwos84jzbklj/logo.png",
-            "name": "Project89",
+            "name": "Project89 [OLD]",
             "status": "active",
             "symbol": "project89",
             "type": "Solana"
@@ -3605,7 +3605,7 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://explorer.solana.com/address/2fUFhZyd47Mapv9wcfXh5gnQwFXtqcYu9xAN4THBpump",
-            "externalId": "real-nigger-tate",
+            "externalId": "rnt-token",
             "logoUri": "assets/cm2pcoka708vguwosxy9oj1sx/logo.png",
             "name": "RNT",
             "status": "active",
@@ -3787,7 +3787,7 @@
             "explorer": "https://explorer.solana.com/address/2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
             "externalId": "rune-pups",
             "logoUri": "assets/cm2pcoka708wxuwospffva7x9/logo.png",
-            "name": "PUPS•WORLD•PEACE",
+            "name": "Pups (Bitcoin)",
             "status": "active",
             "symbol": "pups",
             "type": "Solana"
@@ -3907,7 +3907,7 @@
             "explorer": "https://explorer.solana.com/address/GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn",
             "externalId": "sillynubcat",
             "logoUri": "assets/cm2pcoka808zbuwos941aders/logo.png",
-            "name": "Sillynubcat",
+            "name": "nubcat",
             "status": "active",
             "symbol": "nub",
             "type": "Solana"
@@ -3937,7 +3937,7 @@
             "explorer": "https://explorer.solana.com/address/7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3",
             "externalId": "slerf",
             "logoUri": "assets/cm2pcoka808znuwos9ksvy8zb/logo.png",
-            "name": "Slerf",
+            "name": "Slerf [OLD]",
             "status": "active",
             "symbol": "slerf",
             "type": "Solana"
@@ -4449,7 +4449,7 @@
             "logoUri": "assets/cm2pcoka909apuwost5xu0iot/logo.png",
             "name": "Wen",
             "status": "active",
-            "symbol": "$wen",
+            "symbol": "wen",
             "type": "Solana"
         },
         {
@@ -4687,9 +4687,9 @@
             "explorer": "https://explorer.solana.com/address/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
             "externalId": "official-trump",
             "logoUri": "assets/cm66j4ed1000008l73wv5gyeg/logo.png",
-            "name": "OFFICIAL TRUMP",
+            "name": "Official Trump",
             "status": "active",
-            "symbol": "TRUMP",
+            "symbol": "trump",
             "type": "Solana"
         },
         {
@@ -4704,7 +4704,7 @@
             "logoUri": "assets/cm66j4mdr000108l7gy2s6rcg/logo.png",
             "name": "Melania Meme",
             "status": "active",
-            "symbol": "MELANIA",
+            "symbol": "melania",
             "type": "Solana"
         },
         {
@@ -9922,7 +9922,7 @@
             "explorer": "https://explorer.solana.com/address/6bn6rKWbTRAQwizwqEfcmpAtoAMnqzfG7F8DYMK5reYn",
             "externalId": "wojak",
             "logoUri": "assets/cmlrxmbr30c8fwgfmugbfp36x/logo.png",
-            "name": "Wojak",
+            "name": "Wojak Coin",
             "status": "active",
             "symbol": "wojak",
             "type": "Solana"
