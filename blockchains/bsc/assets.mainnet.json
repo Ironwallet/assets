@@ -8953,21 +8953,6 @@
             "type": "BEP20"
         },
         {
-            "address": "0x3fCD741646A9790635b938Cdb69af5Df356CbaAB",
-            "asset_id": "cmlrx4w15042hwgfmu2m0hy6g",
-            "chainId": 56,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://bscscan.com/token/0x3fcd741646a9790635b938cdb69af5df356cbaab",
-            "externalId": "abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks",
-            "logoUri": "assets/cmlrx4w15042hwgfmu2m0hy6g/logo.png",
-            "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "pallon",
-            "type": "BEP20"
-        },
-        {
             "address": "0x7aF44d51d1fb88c5b74Fc71d3cba649Bb8099D14",
             "asset_id": "cmlrx4w15042jwgfm5pdy4qmu",
             "chainId": 56,
@@ -9757,9 +9742,9 @@
             "explorer": "https://bscscan.com/token/0x924fa68a0fc644485b8df8abfa0a41c2e7744444",
             "externalId": "bianrensheng",
             "logoUri": "assets/cmlrx4w1d04ctwgfm1c4wl5ga/logo.png",
-            "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+            "name": "币安人生 (BinanceLife)",
             "status": "active",
-            "symbol": "\u5e01\u5b89\u4eba\u751f",
+            "symbol": "币安人生",
             "type": "BEP20"
         },
         {
@@ -10672,9 +10657,9 @@
             "explorer": "https://bscscan.com/token/0x3ac8e2c113d5d7824ac6ebe82a3c60b1b9d64444",
             "externalId": "customer-service-xiao-he",
             "logoUri": "assets/cmlrx4w1m04qvwgfmq3jvo1t5/logo.png",
-            "name": "\u5ba2\u670d\u5c0f\u4f55 (Customer Service Xiao He)",
+            "name": "客服小何 (Customer Service Xiao He)",
             "status": "active",
-            "symbol": "\u5ba2\u670d\u5c0f\u4f55",
+            "symbol": "客服小何",
             "type": "BEP20"
         },
         {
@@ -11452,9 +11437,9 @@
             "explorer": "https://bscscan.com/token/0x82ec31d69b3c289e541b50e30681fd1acad24444",
             "externalId": "hakimi",
             "logoUri": "assets/cmlrx4w1u0568wgfmaxyybkdi/logo.png",
-            "name": "\u54c8\u57fa\u7c73 (Hajimi)",
+            "name": "哈基米 (Hajimi)",
             "status": "active",
-            "symbol": "\u54c8\u57fa\u7c73",
+            "symbol": "哈基米",
             "type": "BEP20"
         },
         {
@@ -11662,9 +11647,9 @@
             "explorer": "https://bscscan.com/token/0x6d8d8df799279e761a4f49edc319b3bd50f14444",
             "externalId": "i-am-the-future",
             "logoUri": "assets/cmlrx4w1w058wwgfmu1re0fn8/logo.png",
-            "name": "\u6211\u662f\u672a\u6765 (I am the Future)",
+            "name": "我是未来 (I am the Future)",
             "status": "active",
-            "symbol": "\u6211\u662f\u672a\u6765",
+            "symbol": "我是未来",
             "type": "BEP20"
         },
         {
@@ -11845,21 +11830,6 @@
             "name": "iShares Core S&P 500 ETF (Ondo Tokenized ETF)",
             "status": "active",
             "symbol": "ivvon",
-            "type": "BEP20"
-        },
-        {
-            "address": "0x08cE97F3D5Cf11E577D091ab048bC5e2EaE3FABB",
-            "asset_id": "cmlrx4w1x05atwgfmg5ksgb9d",
-            "chainId": 56,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://bscscan.com/token/0x08ce97f3d5cf11e577d091ab048bc5e2eae3fabb",
-            "externalId": "ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmlrx4w1x05atwgfmg5ksgb9d/logo.png",
-            "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "aggon",
             "type": "BEP20"
         },
         {
@@ -12112,9 +12082,9 @@
             "explorer": "https://bscscan.com/token/0x1a5f9d77ca46646cd4937fd8d093f460b66f4444",
             "externalId": "laozi",
             "logoUri": "assets/cmlrx4w1z05ewwgfmutv178q6/logo.png",
-            "name": "\u8001\u5b50 (Laozi)",
+            "name": "老子 (Laozi)",
             "status": "active",
-            "symbol": "\u8001\u5b50",
+            "symbol": "老子",
             "type": "BEP20"
         },
         {
@@ -12682,9 +12652,9 @@
             "explorer": "https://bscscan.com/token/0x51d5b1377b4d429283e8156540855ece77ad4444",
             "externalId": "minor-shareholder",
             "logoUri": "assets/cmlrx4w2405mrwgfmp0ymj07j/logo.png",
-            "name": "\u5c0f\u80a1\u4e1c (Minor Shareholder)",
+            "name": "小股东 (Minor Shareholder)",
             "status": "active",
-            "symbol": "\u5c0f\u80a1\u4e1c",
+            "symbol": "小股东",
             "type": "BEP20"
         },
         {
@@ -14407,7 +14377,7 @@
             "explorer": "https://bscscan.com/token/0x011ebe7d75e2c9d1e0bd0be0bef5c36f0a90075f",
             "externalId": "stable-2",
             "logoUri": "assets/cmlrx4w2j06a6wgfmfv0027mw/logo.png",
-            "name": "\u200b\u200bStable",
+            "name": "​​Stable",
             "status": "active",
             "symbol": "stable",
             "type": "BEP20"
@@ -14512,9 +14482,9 @@
             "explorer": "https://bscscan.com/token/0x730e9b7091258cdf578136ec8394daea2db84444",
             "externalId": "success-2",
             "logoUri": "assets/cmlrx4w2k06bfwgfmspqeuhpe/logo.png",
-            "name": "\u9a6c\u5230\u6210\u529f (Success)",
+            "name": "马到成功 (Success)",
             "status": "active",
-            "symbol": "\u9a6c\u5230\u6210\u529f",
+            "symbol": "马到成功",
             "type": "BEP20"
         },
         {
@@ -14680,21 +14650,6 @@
             "name": "Taiko",
             "status": "active",
             "symbol": "taiko",
-            "type": "BEP20"
-        },
-        {
-            "address": "0xC37042A7a4fa510D8884a433762aB87257B91965",
-            "asset_id": "cmlrx4w2l06clwgfmld5exy06",
-            "chainId": 56,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://bscscan.com/token/0xc37042a7a4fa510d8884a433762ab87257b91965",
-            "externalId": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock",
-            "logoUri": "assets/cmlrx4w2l06clwgfmld5exy06/logo.png",
-            "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "tsmon",
             "type": "BEP20"
         },
         {
@@ -15367,9 +15322,9 @@
             "explorer": "https://bscscan.com/token/0xe1e93e92c0c2aff2dc4d7d4a8b250d973cad4444",
             "externalId": "vulgar-penguin",
             "logoUri": "assets/cmlrx4w2r06lbwgfm7deavfxx/logo.png",
-            "name": "\u4e09\u7ef4\u5a01\u5ec9\u6cf0\u5c14\u4f01\u9e45 (Vulgar Penguin)",
+            "name": "三维威廉泰尔企鹅 (Vulgar Penguin)",
             "status": "active",
-            "symbol": "\u6076\u4fd7\u4f01\u9e45",
+            "symbol": "恶俗企鹅",
             "type": "BEP20"
         },
         {
@@ -15502,9 +15457,9 @@
             "explorer": "https://bscscan.com/token/0xc51a9250795c0186a6fb4a7d20a90330651e4444",
             "externalId": "wo-ta-ma-laile",
             "logoUri": "assets/cmlrx4w2s06nhwgfma16z2yty/logo.png",
-            "name": "\u6211\u8e0f\u9a6c\u6765\u4e86",
+            "name": "我踏马来了",
             "status": "active",
-            "symbol": "\u6211\u8e0f\u9a6c\u6765\u4e86",
+            "symbol": "我踏马来了",
             "type": "BEP20"
         },
         {
@@ -15622,9 +15577,9 @@
             "explorer": "https://bscscan.com/token/0x36f2fd027f5f27c59b8c6d64df64bcc8e8c97777",
             "externalId": "xuequi",
             "logoUri": "assets/cmlrx4w2t06p0wgfml3mbkoac/logo.png",
-            "name": "\u96ea\u7403 (Snowball)",
+            "name": "雪球 (Snowball)",
             "status": "active",
-            "symbol": "\u96ea\u7403",
+            "symbol": "雪球",
             "type": "BEP20"
         },
         {
