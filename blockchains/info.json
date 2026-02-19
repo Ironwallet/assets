@@ -19,7 +19,7 @@
       "version": {
         "major": 0,
         "minor": 5,
-        "patch": 6
+        "patch": 7
       }
     },
     {
@@ -62,8 +62,8 @@
       "timestamp": "2026-02-18T11:46:07.865Z",
       "version": {
         "major": 0,
-        "minor": 2,
-        "patch": 9
+        "minor": 3,
+        "patch": 0
       }
     },
     {
@@ -129,7 +129,7 @@
       "version": {
         "major": 0,
         "minor": 3,
-        "patch": 1
+        "patch": 2
       }
     },
     {
@@ -151,7 +151,7 @@
       "version": {
         "major": 0,
         "minor": 4,
-        "patch": 2
+        "patch": 3
       }
     },
     {
