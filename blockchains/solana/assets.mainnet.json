@@ -3007,9 +3007,9 @@
             "explorer": "https://explorer.solana.com/address/8C5wsKz682s8ByYLxVpY8J3GHSAHTsT4fJPfT97Npump",
             "externalId": "m-ga",
             "logoUri": "assets/cm2pcoka608l2uwosc7rqn3ed/logo.png",
-            "name": "\u03a9M\u03a3GA",
+            "name": "ΩMΣGA",
             "status": "active",
-            "symbol": "$\u03c9m\u03c3ga",
+            "symbol": "$ωmσga",
             "type": "Solana"
         },
         {
@@ -3787,7 +3787,7 @@
             "explorer": "https://explorer.solana.com/address/2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe",
             "externalId": "rune-pups",
             "logoUri": "assets/cm2pcoka708wxuwospffva7x9/logo.png",
-            "name": "PUPS\u2022WORLD\u2022PEACE",
+            "name": "PUPS•WORLD•PEACE",
             "status": "active",
             "symbol": "pups",
             "type": "Solana"
@@ -4783,21 +4783,6 @@
             "type": "Solana"
         },
         {
-            "address": "GMvCfcZg8YvkkQmwDaAzCtHDrrEtgE74nQpQ7xNabonk",
-            "asset_id": "cmlrxmbq907zfwgfmsav6v231",
-            "chainId": 1,
-            "decimals": 6,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/GMvCfcZg8YvkkQmwDaAzCtHDrrEtgE74nQpQ7xNabonk",
-            "externalId": "1-coin-can-change-your-life",
-            "logoUri": "assets/cmlrxmbq907zfwgfmsav6v231/logo.png",
-            "name": "1 Coin Can Change Your Life",
-            "status": "active",
-            "symbol": "1-coin-can-change-your-life",
-            "type": "Solana"
-        },
-        {
             "address": "4vGHdzcNrDf8XVE8H19Rqea86RULz7xi89ew1sSJpump",
             "asset_id": "cmlrxmbq90800wgfmwhozv6lq",
             "chainId": 1,
@@ -4855,21 +4840,6 @@
             "name": "AbbVie (Ondo Tokenized Stock)",
             "status": "active",
             "symbol": "abbvon",
-            "type": "Solana"
-        },
-        {
-            "address": "P7hTXnKk2d2DyqWnefp5BSroE1qjjKpKxg9SxQqondo",
-            "asset_id": "cmlrxmbq90812wgfmjm8vc5jq",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/P7hTXnKk2d2DyqWnefp5BSroE1qjjKpKxg9SxQqondo",
-            "externalId": "abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks",
-            "logoUri": "assets/cmlrxmbq90812wgfmjm8vc5jq/logo.png",
-            "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "pallon",
             "type": "Solana"
         },
         {
@@ -5422,9 +5392,9 @@
             "explorer": "https://explorer.solana.com/address/DMYNp65mub3i7LRpBdB66CgBAceLcQnv4gsWeCi6pump",
             "externalId": "bingwu",
             "logoUri": "assets/cmlrxmbqc08fdwgfmm8ofmcou/logo.png",
-            "name": "b\u01d0ngw\u01d4",
+            "name": "bǐngwǔ",
             "status": "active",
-            "symbol": "\u4e19\u5348",
+            "symbol": "丙午",
             "type": "Solana"
         },
         {
@@ -7183,21 +7153,6 @@
             "type": "Solana"
         },
         {
-            "address": "13qTjKx53y6LKGGStiKeieGbnVx3fx1bbwopKFb3ondo",
-            "asset_id": "cmlrxmbqn09vewgfmpoxobu13",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/13qTjKx53y6LKGGStiKeieGbnVx3fx1bbwopKFb3ondo",
-            "externalId": "ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmlrxmbqn09vewgfmpoxobu13/logo.png",
-            "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "aggon",
-            "type": "Solana"
-        },
-        {
             "address": "M77ZvkZ8zW5udRbuJCbuwSwavRa7bGAZYMTwru8ondo",
             "asset_id": "cmlrxmbqn09vgwgfmbuwslvzc",
             "chainId": 1,
@@ -8602,9 +8557,9 @@
             "explorer": "https://explorer.solana.com/address/GoPffEZ5yuWNnBuUCmwx9idbH9D63xATkrGa6E9kpump",
             "externalId": "redacted-3",
             "logoUri": "assets/cmlrxmbqw0b4gwgfmzgbnuvsj/logo.png",
-            "name": "\u2588\u2588\u2588\u2588",
+            "name": "████",
             "status": "active",
-            "symbol": "\u2588\u2588\u2588\u2588",
+            "symbol": "████",
             "type": "Solana"
         },
         {
@@ -9340,21 +9295,6 @@
             "name": "syrupUSDC",
             "status": "active",
             "symbol": "syrupusdc",
-            "type": "Solana"
-        },
-        {
-            "address": "keybg184d4vyXeQdFqs4o99YsMg7xBthxTJ6Ky3ondo",
-            "asset_id": "cmlrxmbqz0bq5wgfmtie6f2dv",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/keybg184d4vyXeQdFqs4o99YsMg7xBthxTJ6Ky3ondo",
-            "externalId": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock",
-            "logoUri": "assets/cmlrxmbqz0bq5wgfmtie6f2dv/logo.png",
-            "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "tsmon",
             "type": "Solana"
         },
         {
@@ -10177,7 +10117,7 @@
             "explorer": "https://explorer.solana.com/address/F7pB3ZdfBnyFw2LRHydWEn9BmhEa5XihXLjhySFRpump",
             "externalId": "you-ll-own-nothing-and-be-happy",
             "logoUri": "assets/cmlrxmbr40cc8wgfmabhvglq6/logo.png",
-            "name": "You\u2019ll Own Nothing and Be Happy",
+            "name": "You’ll Own Nothing and Be Happy",
             "status": "active",
             "symbol": "nothing",
             "type": "Solana"
@@ -10282,7 +10222,7 @@
             "explorer": "https://explorer.solana.com/address/GnFMf6JVRhAqPbA9r8yW16xycynKNkXfbaYbusLEpump",
             "externalId": "zreal-super-coin",
             "logoUri": "assets/cmlrxmbr40cf0wgfmz9cm12ze/logo.png",
-            "name": "Z\u674eREAL SUPER COIN",
+            "name": "Z李REAL SUPER COIN",
             "status": "active",
             "symbol": "zreal",
             "type": "Solana"

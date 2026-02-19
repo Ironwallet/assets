@@ -3982,7 +3982,7 @@
             "explorer": "https://etherscan.io/token/0xfb19075d77a0f111796fb259819830f4780f1429",
             "externalId": "fenerbahce-token",
             "logoUri": "assets/clh9g2u09012fb0g4bsrbocpq/logo.png",
-            "name": "Fenerbah\u00e7e",
+            "name": "Fenerbahçe",
             "status": "active",
             "symbol": "fb",
             "type": "ERC20"
@@ -9502,7 +9502,7 @@
             "explorer": "https://etherscan.io/token/0x8c688327c9371bb3bd69f6e1f1a6d8c9ca0880a7",
             "externalId": "dada-2",
             "logoUri": "assets/clswxoars00xx8cuhtpa7hvab/logo.png",
-            "name": "\u9f98\u9f98 D\u00e1D\u00e1",
+            "name": "龘龘 DáDá",
             "status": "active",
             "symbol": "dada",
             "type": "ERC20"
@@ -11604,7 +11604,7 @@
             "logoUri": "assets/clswxoatn02um8cuhdmynbd85/logo.png",
             "name": "Real Smurf Cat",
             "status": "active",
-            "symbol": "\u0448\u0430\u0439\u043b\u0443\u0448\u0430\u0439",
+            "symbol": "шайлушай",
             "type": "ERC20"
         },
         {
@@ -13252,7 +13252,7 @@
             "explorer": "https://etherscan.io/token/0x1903be033d3e436dd79a8cf9030675bcf97ab589",
             "externalId": "besiktas",
             "logoUri": "assets/cm2pciyfm00fwuwosw7wtkztu/logo.png",
-            "name": "Be\u015fikta\u015f",
+            "name": "Beşiktaş",
             "status": "active",
             "symbol": "bjk",
             "type": "ERC20"
@@ -16978,21 +16978,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x0cE36d199bd6851788e03392568849394cBdE722",
-            "asset_id": "cmlrwqei7003owgfmlbe2umsb",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x0ce36d199bd6851788e03392568849394cbde722",
-            "externalId": "abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks",
-            "logoUri": "assets/cmlrwqei7003owgfmlbe2umsb/logo.png",
-            "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "pallon",
-            "type": "ERC20"
-        },
-        {
             "address": "0xAbA9Ae731Aad63335C604E5f6E6A5db2e05f549d",
             "asset_id": "cmlrwqei7003qwgfm9nwhofah",
             "chainId": 1,
@@ -18925,21 +18910,6 @@
             "name": "iShares Core S&P 500 ETF (Ondo Tokenized ETF)",
             "status": "active",
             "symbol": "ivvon",
-            "type": "ERC20"
-        },
-        {
-            "address": "0xfF7CF16aA2fFc463b996DB2f7B7cf0130336899D",
-            "asset_id": "cmlrwqej401tnwgfme0wnuhut",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0xff7cf16aa2ffc463b996db2f7b7cf0130336899d",
-            "externalId": "ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmlrwqej401tnwgfme0wnuhut/logo.png",
-            "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "aggon",
             "type": "ERC20"
         },
         {
@@ -21460,21 +21430,6 @@
             "name": "syrupUSDT",
             "status": "active",
             "symbol": "syrupusdt",
-            "type": "ERC20"
-        },
-        {
-            "address": "0x3Cafdbfe682aec17d5acE2f97A2f3ab3dCf6a4A9",
-            "asset_id": "cmlrwqek003f7wgfmi3w5lp6o",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x3cafdbfe682aec17d5ace2f97a2f3ab3dcf6a4a9",
-            "externalId": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock",
-            "logoUri": "assets/cmlrwqek003f7wgfmi3w5lp6o/logo.png",
-            "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "tsmon",
             "type": "ERC20"
         },
         {
