@@ -22316,6 +22316,21 @@
             "status": "active",
             "symbol": "znd",
             "type": "ERC20"
+        },
+		{
+            "address": "0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664",
+            "asset_id": "cm2pciygd03meuwos4kdffrmz",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://etherscan.io/token/0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664",
+            "externalId": "ugold-inc",
+            "logoUri": "assets/cm2pciygd03meuwos4kdffrmz/logo.png",
+            "name": "UGOLD",
+            "status": "active",
+            "symbol": "ugold",
+            "type": "ERC20"
         }
     ],
     "logoUri": "",
