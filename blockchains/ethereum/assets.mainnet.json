@@ -12802,7 +12802,7 @@
             "explorer": "https://etherscan.io/token/0xb2617246d0c6c0087f18703d576831899ca94f01",
             "externalId": "zignaly",
             "logoUri": "assets/clswxoaur03uy8cuhpximprhd/logo.png",
-            "name": "Zignaly",
+            "name": "ZIGChain",
             "status": "active",
             "symbol": "zig",
             "type": "ERC20"
@@ -22315,21 +22315,6 @@
             "name": "ZND Token",
             "status": "active",
             "symbol": "znd",
-            "type": "ERC20"
-        },
-		{
-            "address": "0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664",
-            "asset_id": "cmm508khr00009wfmdl831ens",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x6aBBF52276856DAb63c5DeE566965aA1a5fAe664",
-            "externalId": "ugold-inc",
-            "logoUri": "assets/cmm508khr00009wfmdl831ens/logo.png",
-            "name": "UGOLD",
-            "status": "active",
-            "symbol": "ugold",
             "type": "ERC20"
         }
     ],
