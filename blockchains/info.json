@@ -257,11 +257,11 @@
       "blockchain": "base",
       "chainId": 8453,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-03-10T013:46:07.865Z",
+      "timestamp": "2026-03-10T09:46:08.887Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 7
+        "patch": 8
       }
     }
   ]
