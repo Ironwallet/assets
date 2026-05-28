@@ -328,21 +328,6 @@
             "type": "TRC20"
         },
         {
-            "address": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
-            "asset_id": "cm2pcntce06f5uwosnb5drivm",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://tronscan.org/#/token20/TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
-            "externalId": "htx-dao",
-            "logoUri": "assets/cm2pcntce06f5uwosnb5drivm/logo.png",
-            "name": "HTX DAO",
-            "status": "active",
-            "symbol": "htx",
-            "type": "TRC20"
-        },
-        {
             "address": "TSig7sWzEL2K83mkJMQtbyPpiVSbR6pZnb",
             "asset_id": "cm2pcntce06f6uwosg7ljwq2c",
             "chainId": 1,
@@ -445,21 +430,6 @@
             "name": "Zedxion",
             "status": "active",
             "symbol": "zedxion",
-            "type": "TRC20"
-        },
-        {
-            "address": "tlevfrdym8rojrej23dagyfjdygrtiwkbz",
-            "asset_id": "cmciwhnst000101o6owg5fv6t",
-            "chainId": 1,
-            "decimals": 6,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x6fA0BE17e4beA2fCfA22ef89BF8ac9aab0AB0fc9",
-            "externalId": "a7a5",
-            "logoUri": "assets/cmciwhnst000101o6owg5fv6t/logo.png",
-            "name": "A7A5",
-            "status": "active",
-            "symbol": "a7a5",
             "type": "TRC20"
         },
         {
@@ -586,10 +556,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Tron",
     "status": "active",
-    "timestamp": "2026-02-18T11:08:37.885Z",
+    "timestamp": "2026-05-28T11:59:32.132Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     }
 }
